@@ -26,7 +26,7 @@ jobs:
           # Otherwise, this will fallback to ?? for those specific stats.
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          go run main.go hirdyansh
+          go run main.go hirdyanshKanethia
 
       - name: Commit and Push SVG
         run: |
