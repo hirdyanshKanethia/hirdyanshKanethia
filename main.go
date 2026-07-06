@@ -84,7 +84,7 @@ func main() {
 		}
 	}
 
-	art := ConvertHalfBlock(avatarImage, 48)
+	art := ConvertHalfBlock(avatarImage, 36)
 	printLayout(art, user, repoStats, contribLines, contribCount, dob, avatarImage, contributedTo, allTimeCommits)
 }
 
@@ -475,7 +475,7 @@ func printLayout(art string, user *GitHubUser, repoStats *RepoStats, contribLine
 	themeGreen := color.RGB(63, 185, 80).SprintFunc()
 	themeRed := color.RGB(248, 81, 73).SprintFunc()
 	// Helper for dot-padded lines
-	totalWidth := 65 // Inner width of the text
+	totalWidth := 60 // Inner width of the text
 
 	dotLine := func(labelName, valueStr string) string {
 		label := gray(". ") + themeColor(labelName) + gray(":")
@@ -527,7 +527,7 @@ func printLayout(art string, user *GitHubUser, repoStats *RepoStats, contribLine
 	left1 := gray(". ") + themeColor("Repos") + gray(":")
 	left1Len := 2 + 5 + 1
 	left1ValLen := utf8.RuneCountInString(stripAnsi(reposVal))
-	dots1Needed := 32 - left1Len - left1ValLen - 1
+	dots1Needed := 31 - left1Len - left1ValLen - 1
 	if dots1Needed < 1 { dots1Needed = 1 }
 	left1Str := left1 + " " + gray(strings.Repeat(".", dots1Needed)) + " " + reposVal
 
@@ -535,7 +535,7 @@ func printLayout(art string, user *GitHubUser, repoStats *RepoStats, contribLine
 	right1Val := white(fmt.Sprintf("%d", repoStats.TotalStars))
 	right1Len := 5 + 1
 	right1ValLen := utf8.RuneCountInString(stripAnsi(right1Val))
-	dotsR1Needed := totalWidth - 32 - 3 - right1Len - right1ValLen - 1 // 3 for " | "
+	dotsR1Needed := totalWidth - 31 - 3 - right1Len - right1ValLen - 1 // 3 for " | "
 	if dotsR1Needed < 1 { dotsR1Needed = 1 }
 	right1Str := right1 + " " + gray(strings.Repeat(".", dotsR1Needed)) + " " + right1Val
 
@@ -546,7 +546,7 @@ func printLayout(art string, user *GitHubUser, repoStats *RepoStats, contribLine
 	left2Val := white(allTimeCommits)
 	left2Len := 2 + 7 + 1
 	left2ValLen := utf8.RuneCountInString(stripAnsi(left2Val))
-	dots2Needed := 32 - left2Len - left2ValLen - 1
+	dots2Needed := 31 - left2Len - left2ValLen - 1
 	if dots2Needed < 1 { dots2Needed = 1 }
 	left2Str := left2 + " " + gray(strings.Repeat(".", dots2Needed)) + " " + left2Val
 
@@ -554,7 +554,7 @@ func printLayout(art string, user *GitHubUser, repoStats *RepoStats, contribLine
 	right2Val := white(fmt.Sprintf("%d", user.Followers))
 	right2Len := 9 + 1
 	right2ValLen := utf8.RuneCountInString(stripAnsi(right2Val))
-	dotsR2Needed := totalWidth - 32 - 3 - right2Len - right2ValLen - 1
+	dotsR2Needed := totalWidth - 31 - 3 - right2Len - right2ValLen - 1
 	if dotsR2Needed < 1 { dotsR2Needed = 1 }
 	right2Str := right2 + " " + gray(strings.Repeat(".", dotsR2Needed)) + " " + right2Val
 
