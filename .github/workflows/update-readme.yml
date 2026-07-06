@@ -1,6 +1,9 @@
 name: Update GitHub Stats SVG
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch: # Allows you to manually trigger the workflow from the Actions tab
