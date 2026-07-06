@@ -678,7 +678,7 @@ func printLayout(art string, user *GitHubUser, repoStats *RepoStats, contribLine
 
 	opts := ansitosvg.DefaultOptions
 	opts.FontName = "'FiraCode Nerd Font', 'Hack Nerd Font', 'JetBrainsMono Nerd Font', 'MesloLGS NF', monospace"
-	opts.FontSize = 16
+	opts.FontSize = 20
 	opts.Transparent = true
 
 	if err := ansitosvg.Convert(strings.NewReader(buf.String()), svgFile, opts); err != nil {
