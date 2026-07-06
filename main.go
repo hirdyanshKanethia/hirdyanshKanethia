@@ -37,6 +37,9 @@ type RepoStats struct {
 }
 
 func main() {
+	// Force color output even in non-TTY environments like GitHub Actions
+	color.NoColor = false
+
 	if len(os.Args) != 2 {
 		fmt.Fprintf(os.Stderr, "Usage: %s <github_username>\n", os.Args[0])
 		os.Exit(1)
