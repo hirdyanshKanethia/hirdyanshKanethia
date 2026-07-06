@@ -1,0 +1,37 @@
+name: Update GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows you to manually trigger the workflow from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21' # Adjust this to your local Go version if needed
+
+      - name: Run gofetchgit
+        env:
+          # If you created a Personal Access Token (PAT) for the advanced stats,
+          # go to Repo Settings -> Secrets -> Actions and create a secret called PAT_TOKEN.
+          # Otherwise, this will fallback to ?? for those specific stats.
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          go run main.go hirdyansh
+
+      - name: Commit and Push SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-stats.svg
+          git commit -m "chore: update github-stats.svg [skip ci]" || echo "No changes to commit"
+          git push
