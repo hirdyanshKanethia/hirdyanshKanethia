@@ -23,1218 +23,1808 @@
         .fa10 { fill: #55ff55; }
         .fa11 { fill: #ffff55; }
         <!-- Background custom colors -->
-        .bc0 { stroke: #02000c; fill: #02000c; }
-        .bc1 { stroke: #000500; fill: #000500; }
-        .bc2 { stroke: #000400; fill: #000400; }
-        .bc3 { stroke: #000301; fill: #000301; }
-        .bc4 { stroke: #070000; fill: #070000; }
-        .bc5 { stroke: #060606; fill: #060606; }
-        .bc6 { stroke: #020202; fill: #020202; }
-        .bc7 { stroke: #000201; fill: #000201; }
-        .bc8 { stroke: #090104; fill: #090104; }
-        .bc9 { stroke: #4eb6d3; fill: #4eb6d3; }
-        .bc10 { stroke: #b6e8fb; fill: #b6e8fb; }
-        .bc11 { stroke: #050005; fill: #050005; }
-        .bc12 { stroke: #030303; fill: #030303; }
-        .bc13 { stroke: #010101; fill: #010101; }
-        .bc14 { stroke: #141414; fill: #141414; }
-        .bc15 { stroke: #000003; fill: #000003; }
-        .bc16 { stroke: #000e06; fill: #000e06; }
-        .bc17 { stroke: #1e86c1; fill: #1e86c1; }
-        .bc18 { stroke: #22a4f8; fill: #22a4f8; }
-        .bc19 { stroke: #26aaf4; fill: #26aaf4; }
-        .bc20 { stroke: #21b9f5; fill: #21b9f5; }
-        .bc21 { stroke: #1acdee; fill: #1acdee; }
-        .bc22 { stroke: #a5e1fb; fill: #a5e1fb; }
-        .bc23 { stroke: #0c0604; fill: #0c0604; }
-        .bc24 { stroke: #7bd9f1; fill: #7bd9f1; }
-        .bc25 { stroke: #a2f7ff; fill: #a2f7ff; }
-        .bc26 { stroke: #0a0008; fill: #0a0008; }
-        .bc27 { stroke: #000200; fill: #000200; }
-        .bc28 { stroke: #000600; fill: #000600; }
-        .bc29 { stroke: #101213; fill: #101213; }
-        .bc30 { stroke: #000103; fill: #000103; }
-        .bc31 { stroke: #000001; fill: #000001; }
-        .bc32 { stroke: #000100; fill: #000100; }
-        .bc33 { stroke: #010000; fill: #010000; }
-        .bc34 { stroke: #01090a; fill: #01090a; }
-        .bc35 { stroke: #637984; fill: #637984; }
-        .bc36 { stroke: #000303; fill: #000303; }
-        .bc37 { stroke: #020007; fill: #020007; }
-        .bc38 { stroke: #020000; fill: #020000; }
-        .bc39 { stroke: #00030c; fill: #00030c; }
-        .bc40 { stroke: #00000f; fill: #00000f; }
-        .bc41 { stroke: #000104; fill: #000104; }
-        .bc42 { stroke: #34b4ff; fill: #34b4ff; }
-        .bc43 { stroke: #18a8f1; fill: #18a8f1; }
-        .bc44 { stroke: #20b2fb; fill: #20b2fb; }
-        .bc45 { stroke: #2fc7f9; fill: #2fc7f9; }
-        .bc46 { stroke: #2acefe; fill: #2acefe; }
-        .bc47 { stroke: #2cd1fb; fill: #2cd1fb; }
-        .bc48 { stroke: #4bd9ef; fill: #4bd9ef; }
-        .bc49 { stroke: #3b99b2; fill: #3b99b2; }
-        .bc50 { stroke: #79daf5; fill: #79daf5; }
-        .bc51 { stroke: #a6fcfd; fill: #a6fcfd; }
-        .bc52 { stroke: #b6f2ff; fill: #b6f2ff; }
-        .bc53 { stroke: #85e4ea; fill: #85e4ea; }
-        .bc54 { stroke: #001018; fill: #001018; }
-        .bc55 { stroke: #010004; fill: #010004; }
-        .bc56 { stroke: #030301; fill: #030301; }
-        .bc57 { stroke: #0f2129; fill: #0f2129; }
-        .bc58 { stroke: #000a11; fill: #000a11; }
-        .bc59 { stroke: #0e0607; fill: #0e0607; }
-        .bc60 { stroke: #020003; fill: #020003; }
-        .bc61 { stroke: #000007; fill: #000007; }
-        .bc62 { stroke: #010001; fill: #010001; }
-        .bc63 { stroke: #010003; fill: #010003; }
-        .bc64 { stroke: #000300; fill: #000300; }
-        .bc65 { stroke: #0b0d10; fill: #0b0d10; }
-        .bc66 { stroke: #080f13; fill: #080f13; }
-        .bc67 { stroke: #110100; fill: #110100; }
-        .bc68 { stroke: #388bc3; fill: #388bc3; }
-        .bc69 { stroke: #40b9ee; fill: #40b9ee; }
-        .bc70 { stroke: #c0ffff; fill: #c0ffff; }
-        .bc71 { stroke: #acd1cb; fill: #acd1cb; }
-        .bc72 { stroke: #41c5ff; fill: #41c5ff; }
-        .bc73 { stroke: #46c1ea; fill: #46c1ea; }
-        .bc74 { stroke: #90e5f3; fill: #90e5f3; }
-        .bc75 { stroke: #d7f5f9; fill: #d7f5f9; }
-        .bc76 { stroke: #dafeff; fill: #dafeff; }
-        .bc77 { stroke: #e5f4fb; fill: #e5f4fb; }
-        .bc78 { stroke: #b7e7f5; fill: #b7e7f5; }
-        .bc79 { stroke: #a9ecff; fill: #a9ecff; }
-        .bc80 { stroke: #dbede9; fill: #dbede9; }
-        .bc81 { stroke: #f8ffff; fill: #f8ffff; }
-        .bc82 { stroke: #e6ffff; fill: #e6ffff; }
-        .bc83 { stroke: #fff5ff; fill: #fff5ff; }
-        .bc84 { stroke: #eeffff; fill: #eeffff; }
-        .bc85 { stroke: #eae5eb; fill: #eae5eb; }
-        .bc86 { stroke: #0d0b0c; fill: #0d0b0c; }
-        .bc87 { stroke: #0f010c; fill: #0f010c; }
-        .bc88 { stroke: #0a0201; fill: #0a0201; }
-        .bc89 { stroke: #6ad7e0; fill: #6ad7e0; }
-        .bc90 { stroke: #3ec1f9; fill: #3ec1f9; }
-        .bc91 { stroke: #32bcfc; fill: #32bcfc; }
-        .bc92 { stroke: #000e25; fill: #000e25; }
-        .bc93 { stroke: #050004; fill: #050004; }
-        .bc94 { stroke: #000e1b; fill: #000e1b; }
-        .bc95 { stroke: #36a1f1; fill: #36a1f1; }
-        .bc96 { stroke: #29a1f7; fill: #29a1f7; }
-        .bc97 { stroke: #34a7f7; fill: #34a7f7; }
-        .bc98 { stroke: #67c6ff; fill: #67c6ff; }
-        .bc99 { stroke: #c8e4f1; fill: #c8e4f1; }
-        .bc100 { stroke: #f4f9e9; fill: #f4f9e9; }
-        .bc101 { stroke: #e9faff; fill: #e9faff; }
-        .bc102 { stroke: #f4f6ff; fill: #f4f6ff; }
-        .bc103 { stroke: #eaf3fc; fill: #eaf3fc; }
-        .bc104 { stroke: #ebf1fb; fill: #ebf1fb; }
-        .bc105 { stroke: #ebedf6; fill: #ebedf6; }
-        .bc106 { stroke: #ecedfb; fill: #ecedfb; }
-        .bc107 { stroke: #f0f0fa; fill: #f0f0fa; }
-        .bc108 { stroke: #ebecf4; fill: #ebecf4; }
-        .bc109 { stroke: #c4daf3; fill: #c4daf3; }
-        .bc110 { stroke: #7999d2; fill: #7999d2; }
-        .bc111 { stroke: #88abe3; fill: #88abe3; }
-        .bc112 { stroke: #c6dbec; fill: #c6dbec; }
-        .bc113 { stroke: #f9f6fb; fill: #f9f6fb; }
-        .bc114 { stroke: #f3ffff; fill: #f3ffff; }
-        .bc115 { stroke: #2d8cce; fill: #2d8cce; }
-        .bc116 { stroke: #77dcf2; fill: #77dcf2; }
-        .bc117 { stroke: #6ad6ff; fill: #6ad6ff; }
-        .bc118 { stroke: #6abfd4; fill: #6abfd4; }
-        .bc119 { stroke: #060107; fill: #060107; }
-        .bc120 { stroke: #000101; fill: #000101; }
-        .bc121 { stroke: #4d6877; fill: #4d6877; }
-        .bc122 { stroke: #49a9e3; fill: #49a9e3; }
-        .bc123 { stroke: #4eb4ff; fill: #4eb4ff; }
-        .bc124 { stroke: #80deff; fill: #80deff; }
-        .bc125 { stroke: #d7e7ff; fill: #d7e7ff; }
-        .bc126 { stroke: #daeaf5; fill: #daeaf5; }
-        .bc127 { stroke: #d6e5ea; fill: #d6e5ea; }
-        .bc128 { stroke: #d3dce7; fill: #d3dce7; }
-        .bc129 { stroke: #a1bde2; fill: #a1bde2; }
-        .bc130 { stroke: #6c80c7; fill: #6c80c7; }
-        .bc131 { stroke: #506fbf; fill: #506fbf; }
-        .bc132 { stroke: #5272b3; fill: #5272b3; }
-        .bc133 { stroke: #a9c5ea; fill: #a9c5ea; }
-        .bc134 { stroke: #cad5e5; fill: #cad5e5; }
-        .bc135 { stroke: #d3dcef; fill: #d3dcef; }
-        .bc136 { stroke: #bfd7fd; fill: #bfd7fd; }
-        .bc137 { stroke: #5fb6fd; fill: #5fb6fd; }
-        .bc138 { stroke: #78c2f1; fill: #78c2f1; }
-        .bc139 { stroke: #75bcea; fill: #75bcea; }
-        .bc140 { stroke: #d0deed; fill: #d0deed; }
-        .bc141 { stroke: #dbe5f0; fill: #dbe5f0; }
-        .bc142 { stroke: #f8f0f1; fill: #f8f0f1; }
-        .bc143 { stroke: #e1ffff; fill: #e1ffff; }
-        .bc144 { stroke: #6e9aa5; fill: #6e9aa5; }
-        .bc145 { stroke: #070100; fill: #070100; }
-        .bc146 { stroke: #040003; fill: #040003; }
-        .bc147 { stroke: #090000; fill: #090000; }
-        .bc148 { stroke: #000105; fill: #000105; }
-        .bc149 { stroke: #0c000d; fill: #0c000d; }
-        .bc150 { stroke: #65a9d2; fill: #65a9d2; }
-        .bc151 { stroke: #6ec5e3; fill: #6ec5e3; }
-        .bc152 { stroke: #cddff5; fill: #cddff5; }
-        .bc153 { stroke: #cbdcef; fill: #cbdcef; }
-        .bc154 { stroke: #cdd8ea; fill: #cdd8ea; }
-        .bc155 { stroke: #c7d6e9; fill: #c7d6e9; }
-        .bc156 { stroke: #c6d5e8; fill: #c6d5e8; }
-        .bc157 { stroke: #d7e6f9; fill: #d7e6f9; }
-        .bc158 { stroke: #7e95cb; fill: #7e95cb; }
-        .bc159 { stroke: #71b8ee; fill: #71b8ee; }
-        .bc160 { stroke: #70cefe; fill: #70cefe; }
-        .bc161 { stroke: #68aed1; fill: #68aed1; }
-        .bc162 { stroke: #bccde0; fill: #bccde0; }
-        .bc163 { stroke: #afc4d9; fill: #afc4d9; }
-        .bc164 { stroke: #adc8dd; fill: #adc8dd; }
-        .bc165 { stroke: #bed4e5; fill: #bed4e5; }
-        .bc166 { stroke: #d6e9f9; fill: #d6e9f9; }
-        .bc167 { stroke: #c0dde5; fill: #c0dde5; }
-        .bc168 { stroke: #babbd9; fill: #babbd9; }
-        .bc169 { stroke: #9db4ce; fill: #9db4ce; }
-        .bc170 { stroke: #93b5cb; fill: #93b5cb; }
-        .bc171 { stroke: #b6d2ea; fill: #b6d2ea; }
-        .bc172 { stroke: #e9f4f2; fill: #e9f4f2; }
-        .bc173 { stroke: #040a00; fill: #040a00; }
-        .bc174 { stroke: #0c0b00; fill: #0c0b00; }
-        .bc175 { stroke: #0f1219; fill: #0f1219; }
-        .bc176 { stroke: #0c0808; fill: #0c0808; }
-        .bc177 { stroke: #000402; fill: #000402; }
-        .bc178 { stroke: #050200; fill: #050200; }
-        .bc179 { stroke: #baf0ff; fill: #baf0ff; }
-        .bc180 { stroke: #ceffff; fill: #ceffff; }
-        .bc181 { stroke: #2090b5; fill: #2090b5; }
-        .bc182 { stroke: #000a1e; fill: #000a1e; }
-        .bc183 { stroke: #000a06; fill: #000a06; }
-        .bc184 { stroke: #1aadff; fill: #1aadff; }
-        .bc185 { stroke: #61acc9; fill: #61acc9; }
-        .bc186 { stroke: #0b0b07; fill: #0b0b07; }
-        .bc187 { stroke: #d7f1fa; fill: #d7f1fa; }
-        .bc188 { stroke: #d4dae6; fill: #d4dae6; }
-        .bc189 { stroke: #b8d0e4; fill: #b8d0e4; }
-        .bc190 { stroke: #a3c1db; fill: #a3c1db; }
-        .bc191 { stroke: #a1bdd5; fill: #a1bdd5; }
-        .bc192 { stroke: #a2bed6; fill: #a2bed6; }
-        .bc193 { stroke: #a0bcd4; fill: #a0bcd4; }
-        .bc194 { stroke: #9bc2cb; fill: #9bc2cb; }
-        .bc195 { stroke: #a0c2d8; fill: #a0c2d8; }
-        .bc196 { stroke: #95bbd0; fill: #95bbd0; }
-        .bc197 { stroke: #a4b8d2; fill: #a4b8d2; }
-        .bc198 { stroke: #94b2ce; fill: #94b2ce; }
-        .bc199 { stroke: #98abcb; fill: #98abcb; }
-        .bc200 { stroke: #8aa9c8; fill: #8aa9c8; }
-        .bc201 { stroke: #87abcd; fill: #87abcd; }
-        .bc202 { stroke: #84abce; fill: #84abce; }
-        .bc203 { stroke: #739dcf; fill: #739dcf; }
-        .bc204 { stroke: #2e76be; fill: #2e76be; }
-        .bc205 { stroke: #5760c5; fill: #5760c5; }
-        .bc206 { stroke: #5172b5; fill: #5172b5; }
-        .bc207 { stroke: #8fbad5; fill: #8fbad5; }
-        .bc208 { stroke: #cfedf9; fill: #cfedf9; }
-        .bc209 { stroke: #232a3b; fill: #232a3b; }
-        .bc210 { stroke: #58b5e1; fill: #58b5e1; }
-        .bc211 { stroke: #2cadfb; fill: #2cadfb; }
-        .bc212 { stroke: #002231; fill: #002231; }
-        .bc213 { stroke: #040000; fill: #040000; }
-        .bc214 { stroke: #060710; fill: #060710; }
-        .bc215 { stroke: #84bcd5; fill: #84bcd5; }
-        .bc216 { stroke: #0891f7; fill: #0891f7; }
-        .bc217 { stroke: #1c93d7; fill: #1c93d7; }
-        .bc218 { stroke: #33baf4; fill: #33baf4; }
-        .bc219 { stroke: #08a3e3; fill: #08a3e3; }
-        .bc220 { stroke: #bdffff; fill: #bdffff; }
-        .bc221 { stroke: #33c9ff; fill: #33c9ff; }
-        .bc222 { stroke: #1e4562; fill: #1e4562; }
-        .bc223 { stroke: #cef4ff; fill: #cef4ff; }
-        .bc224 { stroke: #aed1e1; fill: #aed1e1; }
-        .bc225 { stroke: #9cbdda; fill: #9cbdda; }
-        .bc226 { stroke: #86a8ce; fill: #86a8ce; }
-        .bc227 { stroke: #6a8ac7; fill: #6a8ac7; }
-        .bc228 { stroke: #121568; fill: #121568; }
-        .bc229 { stroke: #489ad2; fill: #489ad2; }
-        .bc230 { stroke: #4b94c9; fill: #4b94c9; }
-        .bc231 { stroke: #628ecd; fill: #628ecd; }
-        .bc232 { stroke: #4093c5; fill: #4093c5; }
-        .bc233 { stroke: #4e9fd7; fill: #4e9fd7; }
-        .bc234 { stroke: #587fc0; fill: #587fc0; }
-        .bc235 { stroke: #72a7df; fill: #72a7df; }
-        .bc236 { stroke: #5a9bd5; fill: #5a9bd5; }
-        .bc237 { stroke: #72a4e9; fill: #72a4e9; }
-        .bc238 { stroke: #1f4491; fill: #1f4491; }
-        .bc239 { stroke: #3f3faf; fill: #3f3faf; }
-        .bc240 { stroke: #494abe; fill: #494abe; }
-        .bc241 { stroke: #585ccb; fill: #585ccb; }
-        .bc242 { stroke: #596fc5; fill: #596fc5; }
-        .bc243 { stroke: #84b4da; fill: #84b4da; }
-        .bc244 { stroke: #8acff0; fill: #8acff0; }
-        .bc245 { stroke: #23a6ea; fill: #23a6ea; }
-        .bc246 { stroke: #28a8fc; fill: #28a8fc; }
-        .bc247 { stroke: #59bcff; fill: #59bcff; }
-        .bc248 { stroke: #000a0a; fill: #000a0a; }
-        .bc249 { stroke: #000722; fill: #000722; }
-        .bc250 { stroke: #29221e; fill: #29221e; }
-        .bc251 { stroke: #005093; fill: #005093; }
-        .bc252 { stroke: #056fc5; fill: #056fc5; }
-        .bc253 { stroke: #148dde; fill: #148dde; }
-        .bc254 { stroke: #2394e0; fill: #2394e0; }
-        .bc255 { stroke: #3caeea; fill: #3caeea; }
-        .bc256 { stroke: #3ea8dc; fill: #3ea8dc; }
-        .bc257 { stroke: #67bbdf; fill: #67bbdf; }
-        .bc258 { stroke: #92b5d3; fill: #92b5d3; }
-        .bc259 { stroke: #92aec6; fill: #92aec6; }
-        .bc260 { stroke: #7e9fbe; fill: #7e9fbe; }
-        .bc261 { stroke: #080455; fill: #080455; }
-        .bc262 { stroke: #250e6c; fill: #250e6c; }
-        .bc263 { stroke: #1c0f6c; fill: #1c0f6c; }
-        .bc264 { stroke: #1e116e; fill: #1e116e; }
-        .bc265 { stroke: #231673; fill: #231673; }
-        .bc266 { stroke: #28207b; fill: #28207b; }
-        .bc267 { stroke: #2c2781; fill: #2c2781; }
-        .bc268 { stroke: #2f2d86; fill: #2f2d86; }
-        .bc269 { stroke: #313491; fill: #313491; }
-        .bc270 { stroke: #3a37a2; fill: #3a37a2; }
-        .bc271 { stroke: #3a36a5; fill: #3a36a5; }
-        .bc272 { stroke: #2d39a5; fill: #2d39a5; }
-        .bc273 { stroke: #404bb7; fill: #404bb7; }
-        .bc274 { stroke: #5956c9; fill: #5956c9; }
-        .bc275 { stroke: #587bbb; fill: #587bbb; }
-        .bc276 { stroke: #6fa7cc; fill: #6fa7cc; }
-        .bc277 { stroke: #53bef2; fill: #53bef2; }
-        .bc278 { stroke: #15aefa; fill: #15aefa; }
-        .bc279 { stroke: #159ceb; fill: #159ceb; }
-        .bc280 { stroke: #4cb4f1; fill: #4cb4f1; }
-        .bc281 { stroke: #00051b; fill: #00051b; }
-        .bc282 { stroke: #000621; fill: #000621; }
-        .bc283 { stroke: #00040f; fill: #00040f; }
-        .bc284 { stroke: #000912; fill: #000912; }
-        .bc285 { stroke: #000107; fill: #000107; }
-        .bc286 { stroke: #dceefe; fill: #dceefe; }
-        .bc287 { stroke: #b2c7da; fill: #b2c7da; }
-        .bc288 { stroke: #a3bdd5; fill: #a3bdd5; }
-        .bc289 { stroke: #92abc9; fill: #92abc9; }
-        .bc290 { stroke: #1b156d; fill: #1b156d; }
-        .bc291 { stroke: #1a136e; fill: #1a136e; }
-        .bc292 { stroke: #261f7a; fill: #261f7a; }
-        .bc293 { stroke: #29227d; fill: #29227d; }
-        .bc294 { stroke: #2d2580; fill: #2d2580; }
-        .bc295 { stroke: #302b85; fill: #302b85; }
-        .bc296 { stroke: #312f88; fill: #312f88; }
-        .bc297 { stroke: #333290; fill: #333290; }
-        .bc298 { stroke: #3b3394; fill: #3b3394; }
-        .bc299 { stroke: #3d3193; fill: #3d3193; }
-        .bc300 { stroke: #3d72b4; fill: #3d72b4; }
-        .bc301 { stroke: #3e82bf; fill: #3e82bf; }
-        .bc302 { stroke: #6472bb; fill: #6472bb; }
-        .bc303 { stroke: #809fbe; fill: #809fbe; }
-        .bc304 { stroke: #69a3d3; fill: #69a3d3; }
-        .bc305 { stroke: #38b5ef; fill: #38b5ef; }
-        .bc306 { stroke: #34adee; fill: #34adee; }
-        .bc307 { stroke: #4ac3ff; fill: #4ac3ff; }
-        .bc308 { stroke: #68cdff; fill: #68cdff; }
-        .bc309 { stroke: #000317; fill: #000317; }
-        .bc310 { stroke: #dee5ea; fill: #dee5ea; }
-        .bc311 { stroke: #bfd2e5; fill: #bfd2e5; }
-        .bc312 { stroke: #98b7d5; fill: #98b7d5; }
-        .bc313 { stroke: #90abc6; fill: #90abc6; }
-        .bc314 { stroke: #8da7c2; fill: #8da7c2; }
-        .bc315 { stroke: #89acce; fill: #89acce; }
-        .bc316 { stroke: #2f70a6; fill: #2f70a6; }
-        .bc317 { stroke: #4897da; fill: #4897da; }
-        .bc318 { stroke: #2b478e; fill: #2b478e; }
-        .bc319 { stroke: #4c7ab6; fill: #4c7ab6; }
-        .bc320 { stroke: #4884ba; fill: #4884ba; }
-        .bc321 { stroke: #6084c2; fill: #6084c2; }
-        .bc322 { stroke: #408abd; fill: #408abd; }
-        .bc323 { stroke: #5293cb; fill: #5293cb; }
-        .bc324 { stroke: #3c84b6; fill: #3c84b6; }
-        .bc325 { stroke: #79a3c9; fill: #79a3c9; }
-        .bc326 { stroke: #6b95ae; fill: #6b95ae; }
-        .bc327 { stroke: #97bad8; fill: #97bad8; }
-        .bc328 { stroke: #080500; fill: #080500; }
-        .bc329 { stroke: #0c1021; fill: #0c1021; }
-        .bc330 { stroke: #32a4d3; fill: #32a4d3; }
-        .bc331 { stroke: #53b4f8; fill: #53b4f8; }
-        .bc332 { stroke: #082e4f; fill: #082e4f; }
-        .bc333 { stroke: #050000; fill: #050000; }
-        .bc334 { stroke: #060202; fill: #060202; }
-        .bc335 { stroke: #06080b; fill: #06080b; }
-        .bc336 { stroke: #b4d3da; fill: #b4d3da; }
-        .bc337 { stroke: #b6c7e5; fill: #b6c7e5; }
-        .bc338 { stroke: #90b3d3; fill: #90b3d3; }
-        .bc339 { stroke: #8da2c1; fill: #8da2c1; }
-        .bc340 { stroke: #7f9cbb; fill: #7f9cbb; }
-        .bc341 { stroke: #8098bc; fill: #8098bc; }
-        .bc342 { stroke: #95a2bc; fill: #95a2bc; }
-        .bc343 { stroke: #8ba3bd; fill: #8ba3bd; }
-        .bc344 { stroke: #82a1bd; fill: #82a1bd; }
-        .bc345 { stroke: #81a2c3; fill: #81a2c3; }
-        .bc346 { stroke: #839cbc; fill: #839cbc; }
-        .bc347 { stroke: #829dba; fill: #829dba; }
-        .bc348 { stroke: #729dbf; fill: #729dbf; }
-        .bc349 { stroke: #83a4c3; fill: #83a4c3; }
-        .bc350 { stroke: #808e99; fill: #808e99; }
-        .bc351 { stroke: #050505; fill: #050505; }
-        .bc352 { stroke: #52bcf0; fill: #52bcf0; }
-        .bc353 { stroke: #51baf4; fill: #51baf4; }
-        .bc354 { stroke: #539ed5; fill: #539ed5; }
-        .bc355 { stroke: #5daedb; fill: #5daedb; }
-        .bc356 { stroke: #81accf; fill: #81accf; }
-        .bc357 { stroke: #79a9d1; fill: #79a9d1; }
-        .bc358 { stroke: #698fb6; fill: #698fb6; }
-        .bc359 { stroke: #76a2c5; fill: #76a2c5; }
-        .bc360 { stroke: #6b9bc3; fill: #6b9bc3; }
-        .bc361 { stroke: #869eb8; fill: #869eb8; }
-        .bc362 { stroke: #0e1e2c; fill: #0e1e2c; }
-        .bc363 { stroke: #040404; fill: #040404; }
-        .bc364 { stroke: #0e0e0e; fill: #0e0e0e; }
-        .bc365 { stroke: #010304; fill: #010304; }
-        .bc366 { stroke: #0d0c10; fill: #0d0c10; }
-        .bc367 { stroke: #020105; fill: #020105; }
-        .bc368 { stroke: #000115; fill: #000115; }
-        .bc369 { stroke: #20aef0; fill: #20aef0; }
-        .bc370 { stroke: #3fb4ff; fill: #3fb4ff; }
-        .bc371 { stroke: #2ba1e9; fill: #2ba1e9; }
-        .bc372 { stroke: #31b9ff; fill: #31b9ff; }
-        .bc373 { stroke: #00111d; fill: #00111d; }
-        .bc374 { stroke: #000505; fill: #000505; }
-        .bc375 { stroke: #000005; fill: #000005; }
-        .bc376 { stroke: #00223b; fill: #00223b; }
-        .bc377 { stroke: #37a9f2; fill: #37a9f2; }
-        .bc378 { stroke: #00b3ff; fill: #00b3ff; }
-        .bc379 { stroke: #4fabe6; fill: #4fabe6; }
-        .bc380 { stroke: #1c0000; fill: #1c0000; }
-        .bc381 { stroke: #000605; fill: #000605; }
-        .bc382 { stroke: #000e1e; fill: #000e1e; }
-        .bc383 { stroke: #001345; fill: #001345; }
-        .bc384 { stroke: #0f030f; fill: #0f030f; }
+        .bc0 { stroke: #9c9382; fill: #9c9382; }
+        .bc1 { stroke: #9d9483; fill: #9d9483; }
+        .bc2 { stroke: #a09685; fill: #a09685; }
+        .bc3 { stroke: #a39988; fill: #a39988; }
+        .bc4 { stroke: #a69b8a; fill: #a69b8a; }
+        .bc5 { stroke: #a79c8b; fill: #a79c8b; }
+        .bc6 { stroke: #aa9f8e; fill: #aa9f8e; }
+        .bc7 { stroke: #aa9f8d; fill: #aa9f8d; }
+        .bc8 { stroke: #aca190; fill: #aca190; }
+        .bc9 { stroke: #aea392; fill: #aea392; }
+        .bc10 { stroke: #aca794; fill: #aca794; }
+        .bc11 { stroke: #afa693; fill: #afa693; }
+        .bc12 { stroke: #aba192; fill: #aba192; }
+        .bc13 { stroke: #b8ac9e; fill: #b8ac9e; }
+        .bc14 { stroke: #b4aa9b; fill: #b4aa9b; }
+        .bc15 { stroke: #b7ad9c; fill: #b7ad9c; }
+        .bc16 { stroke: #b8ae9f; fill: #b8ae9f; }
+        .bc17 { stroke: #c5bbae; fill: #c5bbae; }
+        .bc18 { stroke: #b7ae9b; fill: #b7ae9b; }
+        .bc19 { stroke: #b9af9e; fill: #b9af9e; }
+        .bc20 { stroke: #b8ae9d; fill: #b8ae9d; }
+        .bc21 { stroke: #b5ada0; fill: #b5ada0; }
+        .bc22 { stroke: #a7a090; fill: #a7a090; }
+        .bc23 { stroke: #91887b; fill: #91887b; }
+        .bc24 { stroke: #8d8475; fill: #8d8475; }
+        .bc25 { stroke: #9c9384; fill: #9c9384; }
+        .bc26 { stroke: #928676; fill: #928676; }
+        .bc27 { stroke: #271b13; fill: #271b13; }
+        .bc28 { stroke: #332623; fill: #332623; }
+        .bc29 { stroke: #81736a; fill: #81736a; }
+        .bc30 { stroke: #312219; fill: #312219; }
+        .bc31 { stroke: #9c9583; fill: #9c9583; }
+        .bc32 { stroke: #9e9785; fill: #9e9785; }
+        .bc33 { stroke: #a59b8a; fill: #a59b8a; }
+        .bc34 { stroke: #aba08e; fill: #aba08e; }
+        .bc35 { stroke: #ada290; fill: #ada290; }
+        .bc36 { stroke: #aea391; fill: #aea391; }
+        .bc37 { stroke: #b1a694; fill: #b1a694; }
+        .bc38 { stroke: #a69c8f; fill: #a69c8f; }
+        .bc39 { stroke: #958e86; fill: #958e86; }
+        .bc40 { stroke: #8f8681; fill: #8f8681; }
+        .bc41 { stroke: #918885; fill: #918885; }
+        .bc42 { stroke: #7f7573; fill: #7f7573; }
+        .bc43 { stroke: #827974; fill: #827974; }
+        .bc44 { stroke: #746b66; fill: #746b66; }
+        .bc45 { stroke: #797470; fill: #797470; }
+        .bc46 { stroke: #b4afad; fill: #b4afad; }
+        .bc47 { stroke: #837872; fill: #837872; }
+        .bc48 { stroke: #a7a098; fill: #a7a098; }
+        .bc49 { stroke: #b5ab9e; fill: #b5ab9e; }
+        .bc50 { stroke: #b4ad9b; fill: #b4ad9b; }
+        .bc51 { stroke: #b3ac9a; fill: #b3ac9a; }
+        .bc52 { stroke: #afa898; fill: #afa898; }
+        .bc53 { stroke: #8d8676; fill: #8d8676; }
+        .bc54 { stroke: #a49c8f; fill: #a49c8f; }
+        .bc55 { stroke: #9a9182; fill: #9a9182; }
+        .bc56 { stroke: #968d7e; fill: #968d7e; }
+        .bc57 { stroke: #8d8473; fill: #8d8473; }
+        .bc58 { stroke: #615549; fill: #615549; }
+        .bc59 { stroke: #20160b; fill: #20160b; }
+        .bc60 { stroke: #37281f; fill: #37281f; }
+        .bc61 { stroke: #544b46; fill: #544b46; }
+        .bc62 { stroke: #9f9584; fill: #9f9584; }
+        .bc63 { stroke: #a29887; fill: #a29887; }
+        .bc64 { stroke: #a49a89; fill: #a49a89; }
+        .bc65 { stroke: #a69c8b; fill: #a69c8b; }
+        .bc66 { stroke: #a99f8e; fill: #a99f8e; }
+        .bc67 { stroke: #aaa08f; fill: #aaa08f; }
+        .bc68 { stroke: #aca293; fill: #aca293; }
+        .bc69 { stroke: #928b7b; fill: #928b7b; }
+        .bc70 { stroke: #4f4641; fill: #4f4641; }
+        .bc71 { stroke: #534a45; fill: #534a45; }
+        .bc72 { stroke: #453939; fill: #453939; }
+        .bc73 { stroke: #635d5b; fill: #635d5b; }
+        .bc74 { stroke: #433c3a; fill: #433c3a; }
+        .bc75 { stroke: #403635; fill: #403635; }
+        .bc76 { stroke: #504645; fill: #504645; }
+        .bc77 { stroke: #868281; fill: #868281; }
+        .bc78 { stroke: #5d5759; fill: #5d5759; }
+        .bc79 { stroke: #969090; fill: #969090; }
+        .bc80 { stroke: #645f61; fill: #645f61; }
+        .bc81 { stroke: #5b5658; fill: #5b5658; }
+        .bc82 { stroke: #706b6f; fill: #706b6f; }
+        .bc83 { stroke: #858180; fill: #858180; }
+        .bc84 { stroke: #6c6b69; fill: #6c6b69; }
+        .bc85 { stroke: #787475; fill: #787475; }
+        .bc86 { stroke: #726e6f; fill: #726e6f; }
+        .bc87 { stroke: #a39d91; fill: #a39d91; }
+        .bc88 { stroke: #8e867b; fill: #8e867b; }
+        .bc89 { stroke: #a9a198; fill: #a9a198; }
+        .bc90 { stroke: #9b9283; fill: #9b9283; }
+        .bc91 { stroke: #958c7d; fill: #958c7d; }
+        .bc92 { stroke: #8e8478; fill: #8e8478; }
+        .bc93 { stroke: #938b7e; fill: #938b7e; }
+        .bc94 { stroke: #989083; fill: #989083; }
+        .bc95 { stroke: #aba08f; fill: #aba08f; }
+        .bc96 { stroke: #aba190; fill: #aba190; }
+        .bc97 { stroke: #5b544f; fill: #5b544f; }
+        .bc98 { stroke: #342e2c; fill: #342e2c; }
+        .bc99 { stroke: #3b3432; fill: #3b3432; }
+        .bc100 { stroke: #403a3a; fill: #403a3a; }
+        .bc101 { stroke: #302a2a; fill: #302a2a; }
+        .bc102 { stroke: #2f2c2b; fill: #2f2c2b; }
+        .bc103 { stroke: #776f6d; fill: #776f6d; }
+        .bc104 { stroke: #342d2b; fill: #342d2b; }
+        .bc105 { stroke: #0f0a03; fill: #0f0a03; }
+        .bc106 { stroke: #171715; fill: #171715; }
+        .bc107 { stroke: #020001; fill: #020001; }
+        .bc108 { stroke: #352f31; fill: #352f31; }
+        .bc109 { stroke: #685d61; fill: #685d61; }
+        .bc110 { stroke: #514c4e; fill: #514c4e; }
+        .bc111 { stroke: #534e50; fill: #534e50; }
+        .bc112 { stroke: #6a6567; fill: #6a6567; }
+        .bc113 { stroke: #7d797a; fill: #7d797a; }
+        .bc114 { stroke: #6a6869; fill: #6a6869; }
+        .bc115 { stroke: #706768; fill: #706768; }
+        .bc116 { stroke: #605f5d; fill: #605f5d; }
+        .bc117 { stroke: #656462; fill: #656462; }
+        .bc118 { stroke: #7d7a75; fill: #7d7a75; }
+        .bc119 { stroke: #837c74; fill: #837c74; }
+        .bc120 { stroke: #9b9285; fill: #9b9285; }
+        .bc121 { stroke: #9c9386; fill: #9c9386; }
+        .bc122 { stroke: #9d9487; fill: #9d9487; }
+        .bc123 { stroke: #a59b8e; fill: #a59b8e; }
+        .bc124 { stroke: #aaa091; fill: #aaa091; }
+        .bc125 { stroke: #aaa393; fill: #aaa393; }
+        .bc126 { stroke: #a9a290; fill: #a9a290; }
+        .bc127 { stroke: #877f74; fill: #877f74; }
+        .bc128 { stroke: #6f6661; fill: #6f6661; }
+        .bc129 { stroke: #564b48; fill: #564b48; }
+        .bc130 { stroke: #4a403f; fill: #4a403f; }
+        .bc131 { stroke: #3e3a37; fill: #3e3a37; }
+        .bc132 { stroke: #282426; fill: #282426; }
+        .bc133 { stroke: #1e1a1c; fill: #1e1a1c; }
+        .bc134 { stroke: #221e20; fill: #221e20; }
+        .bc135 { stroke: #777173; fill: #777173; }
+        .bc136 { stroke: #363136; fill: #363136; }
+        .bc137 { stroke: #0a050b; fill: #0a050b; }
+        .bc138 { stroke: #19141c; fill: #19141c; }
+        .bc139 { stroke: #1a1619; fill: #1a1619; }
+        .bc140 { stroke: #605559; fill: #605559; }
+        .bc141 { stroke: #a09696; fill: #a09696; }
+        .bc142 { stroke: #5a5557; fill: #5a5557; }
+        .bc143 { stroke: #585355; fill: #585355; }
+        .bc144 { stroke: #6d6b6e; fill: #6d6b6e; }
+        .bc145 { stroke: #5a5859; fill: #5a5859; }
+        .bc146 { stroke: #4d484a; fill: #4d484a; }
+        .bc147 { stroke: #827e7f; fill: #827e7f; }
+        .bc148 { stroke: #8a8685; fill: #8a8685; }
+        .bc149 { stroke: #857f7f; fill: #857f7f; }
+        .bc150 { stroke: #8a807f; fill: #8a807f; }
+        .bc151 { stroke: #918881; fill: #918881; }
+        .bc152 { stroke: #968d80; fill: #968d80; }
+        .bc153 { stroke: #89939f; fill: #89939f; }
+        .bc154 { stroke: #a0a5a3; fill: #a0a5a3; }
+        .bc155 { stroke: #aba396; fill: #aba396; }
+        .bc156 { stroke: #ada394; fill: #ada394; }
+        .bc157 { stroke: #847c71; fill: #847c71; }
+        .bc158 { stroke: #413833; fill: #413833; }
+        .bc159 { stroke: #231916; fill: #231916; }
+        .bc160 { stroke: #1f1410; fill: #1f1410; }
+        .bc161 { stroke: #352b2a; fill: #352b2a; }
+        .bc162 { stroke: #221f1e; fill: #221f1e; }
+        .bc163 { stroke: #3e3a39; fill: #3e3a39; }
+        .bc164 { stroke: #282627; fill: #282627; }
+        .bc165 { stroke: #252525; fill: #252525; }
+        .bc166 { stroke: #806b6e; fill: #806b6e; }
+        .bc167 { stroke: #52575d; fill: #52575d; }
+        .bc168 { stroke: #302328; fill: #302328; }
+        .bc169 { stroke: #8d8181; fill: #8d8181; }
+        .bc170 { stroke: #6c6263; fill: #6c6263; }
+        .bc171 { stroke: #514d4c; fill: #514d4c; }
+        .bc172 { stroke: #666465; fill: #666465; }
+        .bc173 { stroke: #69676a; fill: #69676a; }
+        .bc174 { stroke: #5d5958; fill: #5d5958; }
+        .bc175 { stroke: #6e696b; fill: #6e696b; }
+        .bc176 { stroke: #6c6769; fill: #6c6769; }
+        .bc177 { stroke: #6a6569; fill: #6a6569; }
+        .bc178 { stroke: #807c7d; fill: #807c7d; }
+        .bc179 { stroke: #807b7f; fill: #807b7f; }
+        .bc180 { stroke: #999593; fill: #999593; }
+        .bc181 { stroke: #a89b95; fill: #a89b95; }
+        .bc182 { stroke: #a3988e; fill: #a3988e; }
+        .bc183 { stroke: #9f9588; fill: #9f9588; }
+        .bc184 { stroke: #a09689; fill: #a09689; }
+        .bc185 { stroke: #978e81; fill: #978e81; }
+        .bc186 { stroke: #8faaad; fill: #8faaad; }
+        .bc187 { stroke: #809399; fill: #809399; }
+        .bc188 { stroke: #8a8a88; fill: #8a8a88; }
+        .bc189 { stroke: #4d4340; fill: #4d4340; }
+        .bc190 { stroke: #281e1a; fill: #281e1a; }
+        .bc191 { stroke: #524441; fill: #524441; }
+        .bc192 { stroke: #40322f; fill: #40322f; }
+        .bc193 { stroke: #483c3c; fill: #483c3c; }
+        .bc194 { stroke: #4c4648; fill: #4c4648; }
+        .bc195 { stroke: #383637; fill: #383637; }
+        .bc196 { stroke: #363133; fill: #363133; }
+        .bc197 { stroke: #383335; fill: #383335; }
+        .bc198 { stroke: #403e41; fill: #403e41; }
+        .bc199 { stroke: #474548; fill: #474548; }
+        .bc200 { stroke: #585460; fill: #585460; }
+        .bc201 { stroke: #373537; fill: #373537; }
+        .bc202 { stroke: #655f5f; fill: #655f5f; }
+        .bc203 { stroke: #605c5b; fill: #605c5b; }
+        .bc204 { stroke: #666163; fill: #666163; }
+        .bc205 { stroke: #6f6669; fill: #6f6669; }
+        .bc206 { stroke: #564e4f; fill: #564e4f; }
+        .bc207 { stroke: #6c6364; fill: #6c6364; }
+        .bc208 { stroke: #a59999; fill: #a59999; }
+        .bc209 { stroke: #908687; fill: #908687; }
+        .bc210 { stroke: #6e6566; fill: #6e6566; }
+        .bc211 { stroke: #bab6b5; fill: #bab6b5; }
+        .bc212 { stroke: #5e5a59; fill: #5e5a59; }
+        .bc213 { stroke: #948a81; fill: #948a81; }
+        .bc214 { stroke: #9a9086; fill: #9a9086; }
+        .bc215 { stroke: #988f82; fill: #988f82; }
+        .bc216 { stroke: #999083; fill: #999083; }
+        .bc217 { stroke: #655b59; fill: #655b59; }
+        .bc218 { stroke: #736967; fill: #736967; }
+        .bc219 { stroke: #4d423f; fill: #4d423f; }
+        .bc220 { stroke: #5a4f4b; fill: #5a4f4b; }
+        .bc221 { stroke: #4d423e; fill: #4d423e; }
+        .bc222 { stroke: #655a56; fill: #655a56; }
+        .bc223 { stroke: #332321; fill: #332321; }
+        .bc224 { stroke: #796b68; fill: #796b68; }
+        .bc225 { stroke: #3c2e2b; fill: #3c2e2b; }
+        .bc226 { stroke: #776e69; fill: #776e69; }
+        .bc227 { stroke: #3b3736; fill: #3b3736; }
+        .bc228 { stroke: #2d292b; fill: #2d292b; }
+        .bc229 { stroke: #484647; fill: #484647; }
+        .bc230 { stroke: #4f4d50; fill: #4f4d50; }
+        .bc231 { stroke: #4c4952; fill: #4c4952; }
+        .bc232 { stroke: #828083; fill: #828083; }
+        .bc233 { stroke: #645d62; fill: #645d62; }
+        .bc234 { stroke: #7c7774; fill: #7c7774; }
+        .bc235 { stroke: #877d7b; fill: #877d7b; }
+        .bc236 { stroke: #837977; fill: #837977; }
+        .bc237 { stroke: #7f7472; fill: #7f7472; }
+        .bc238 { stroke: #817775; fill: #817775; }
+        .bc239 { stroke: #736767; fill: #736767; }
+        .bc240 { stroke: #bfaea8; fill: #bfaea8; }
+        .bc241 { stroke: #6f6160; fill: #6f6160; }
+        .bc242 { stroke: #302c31; fill: #302c31; }
+        .bc243 { stroke: #120e11; fill: #120e11; }
+        .bc244 { stroke: #040100; fill: #040100; }
+        .bc245 { stroke: #180e0b; fill: #180e0b; }
+        .bc246 { stroke: #4a403d; fill: #4a403d; }
+        .bc247 { stroke: #887e7c; fill: #887e7c; }
+        .bc248 { stroke: #a39a95; fill: #a39a95; }
+        .bc249 { stroke: #998f86; fill: #998f86; }
+        .bc250 { stroke: #4c413e; fill: #4c413e; }
+        .bc251 { stroke: #584d4a; fill: #584d4a; }
+        .bc252 { stroke: #483d39; fill: #483d39; }
+        .bc253 { stroke: #594b48; fill: #594b48; }
+        .bc254 { stroke: #534542; fill: #534542; }
+        .bc255 { stroke: #41342a; fill: #41342a; }
+        .bc256 { stroke: #291a11; fill: #291a11; }
+        .bc257 { stroke: #41342c; fill: #41342c; }
+        .bc258 { stroke: #726a68; fill: #726a68; }
+        .bc259 { stroke: #534845; fill: #534845; }
+        .bc260 { stroke: #6a5f5d; fill: #6a5f5d; }
+        .bc261 { stroke: #5b5150; fill: #5b5150; }
+        .bc262 { stroke: #443f43; fill: #443f43; }
+        .bc263 { stroke: #9c959c; fill: #9c959c; }
+        .bc264 { stroke: #a5a5ad; fill: #a5a5ad; }
+        .bc265 { stroke: #6f6367; fill: #6f6367; }
+        .bc266 { stroke: #796b6b; fill: #796b6b; }
+        .bc267 { stroke: #73686c; fill: #73686c; }
+        .bc268 { stroke: #9b9599; fill: #9b9599; }
+        .bc269 { stroke: #9f9595; fill: #9f9595; }
+        .bc270 { stroke: #a29694; fill: #a29694; }
+        .bc271 { stroke: #8d8382; fill: #8d8382; }
+        .bc272 { stroke: #433e43; fill: #433e43; }
+        .bc273 { stroke: #59565d; fill: #59565d; }
+        .bc274 { stroke: #6a5e60; fill: #6a5e60; }
+        .bc275 { stroke: #504a4c; fill: #504a4c; }
+        .bc276 { stroke: #382f34; fill: #382f34; }
+        .bc277 { stroke: #39342e; fill: #39342e; }
+        .bc278 { stroke: #7f7470; fill: #7f7470; }
+        .bc279 { stroke: #9a938d; fill: #9a938d; }
+        .bc280 { stroke: #9e958e; fill: #9e958e; }
+        .bc281 { stroke: #989085; fill: #989085; }
+        .bc282 { stroke: #978f82; fill: #978f82; }
+        .bc283 { stroke: #4b403d; fill: #4b403d; }
+        .bc284 { stroke: #5a4f4d; fill: #5a4f4d; }
+        .bc285 { stroke: #5a504e; fill: #5a504e; }
+        .bc286 { stroke: #796f6d; fill: #796f6d; }
+        .bc287 { stroke: #958f91; fill: #958f91; }
+        .bc288 { stroke: #aca6a8; fill: #aca6a8; }
+        .bc289 { stroke: #8b8182; fill: #8b8182; }
+        .bc290 { stroke: #3f3333; fill: #3f3333; }
+        .bc291 { stroke: #675b5b; fill: #675b5b; }
+        .bc292 { stroke: #4b3b3a; fill: #4b3b3a; }
+        .bc293 { stroke: #534342; fill: #534342; }
+        .bc294 { stroke: #7b706e; fill: #7b706e; }
+        .bc295 { stroke: #796d6f; fill: #796d6f; }
+        .bc296 { stroke: #080000; fill: #080000; }
+        .bc297 { stroke: #806166; fill: #806166; }
+        .bc298 { stroke: #9f8090; fill: #9f8090; }
+        .bc299 { stroke: #4f3437; fill: #4f3437; }
+        .bc300 { stroke: #4d3d3e; fill: #4d3d3e; }
+        .bc301 { stroke: #938d8f; fill: #938d8f; }
+        .bc302 { stroke: #9a9494; fill: #9a9494; }
+        .bc303 { stroke: #646263; fill: #646263; }
+        .bc304 { stroke: #555458; fill: #555458; }
+        .bc305 { stroke: #47464c; fill: #47464c; }
+        .bc306 { stroke: #36353b; fill: #36353b; }
+        .bc307 { stroke: #302e30; fill: #302e30; }
+        .bc308 { stroke: #302f31; fill: #302f31; }
+        .bc309 { stroke: #424041; fill: #424041; }
+        .bc310 { stroke: #322e30; fill: #322e30; }
+        .bc311 { stroke: #494540; fill: #494540; }
+        .bc312 { stroke: #685d59; fill: #685d59; }
+        .bc313 { stroke: #a1998f; fill: #a1998f; }
+        .bc314 { stroke: #999186; fill: #999186; }
+        .bc315 { stroke: #968e83; fill: #968e83; }
+        .bc316 { stroke: #463a3a; fill: #463a3a; }
+        .bc317 { stroke: #514545; fill: #514545; }
+        .bc318 { stroke: #544a47; fill: #544a47; }
+        .bc319 { stroke: #726765; fill: #726765; }
+        .bc320 { stroke: #584d49; fill: #584d49; }
+        .bc321 { stroke: #524743; fill: #524743; }
+        .bc322 { stroke: #4b3d3b; fill: #4b3d3b; }
+        .bc323 { stroke: #554a47; fill: #554a47; }
+        .bc324 { stroke: #4e453e; fill: #4e453e; }
+        .bc325 { stroke: #574c50; fill: #574c50; }
+        .bc326 { stroke: #7d7c82; fill: #7d7c82; }
+        .bc327 { stroke: #584846; fill: #584846; }
+        .bc328 { stroke: #6f5c5e; fill: #6f5c5e; }
+        .bc329 { stroke: #6e6361; fill: #6e6361; }
+        .bc330 { stroke: #817778; fill: #817778; }
+        .bc331 { stroke: #0d0008; fill: #0d0008; }
+        .bc332 { stroke: #603c48; fill: #603c48; }
+        .bc333 { stroke: #845865; fill: #845865; }
+        .bc334 { stroke: #512a33; fill: #512a33; }
+        .bc335 { stroke: #593239; fill: #593239; }
+        .bc336 { stroke: #6b5557; fill: #6b5557; }
+        .bc337 { stroke: #a49898; fill: #a49898; }
+        .bc338 { stroke: #958c8f; fill: #958c8f; }
+        .bc339 { stroke: #4e4b50; fill: #4e4b50; }
+        .bc340 { stroke: #3f3d3e; fill: #3f3d3e; }
+        .bc341 { stroke: #3b383f; fill: #3b383f; }
+        .bc342 { stroke: #41393c; fill: #41393c; }
+        .bc343 { stroke: #484345; fill: #484345; }
+        .bc344 { stroke: #7a7772; fill: #7a7772; }
+        .bc345 { stroke: #6e655e; fill: #6e655e; }
+        .bc346 { stroke: #9f978d; fill: #9f978d; }
+        .bc347 { stroke: #978f84; fill: #978f84; }
+        .bc348 { stroke: #433d3d; fill: #433d3d; }
+        .bc349 { stroke: #645e5e; fill: #645e5e; }
+        .bc350 { stroke: #7a7675; fill: #7a7675; }
+        .bc351 { stroke: #605956; fill: #605956; }
+        .bc352 { stroke: #584e45; fill: #584e45; }
+        .bc353 { stroke: #4e443b; fill: #4e443b; }
+        .bc354 { stroke: #4a3d33; fill: #4a3d33; }
+        .bc355 { stroke: #4b3e34; fill: #4b3e34; }
+        .bc356 { stroke: #4b3e36; fill: #4b3e36; }
+        .bc357 { stroke: #4a3c39; fill: #4a3c39; }
+        .bc358 { stroke: #594948; fill: #594948; }
+        .bc359 { stroke: #68595e; fill: #68595e; }
+        .bc360 { stroke: #6b6067; fill: #6b6067; }
+        .bc361 { stroke: #796f76; fill: #796f76; }
+        .bc362 { stroke: #482d34; fill: #482d34; }
+        .bc363 { stroke: #704b5a; fill: #704b5a; }
+        .bc364 { stroke: #a4939d; fill: #a4939d; }
+        .bc365 { stroke: #c1bdc6; fill: #c1bdc6; }
+        .bc366 { stroke: #c6cbd1; fill: #c6cbd1; }
+        .bc367 { stroke: #d1d6dc; fill: #d1d6dc; }
+        .bc368 { stroke: #b8b8bc; fill: #b8b8bc; }
+        .bc369 { stroke: #514b4b; fill: #514b4b; }
+        .bc370 { stroke: #393736; fill: #393736; }
+        .bc371 { stroke: #353130; fill: #353130; }
+        .bc372 { stroke: #766c6d; fill: #766c6d; }
+        .bc373 { stroke: #7e7472; fill: #7e7472; }
+        .bc374 { stroke: #827876; fill: #827876; }
+        .bc375 { stroke: #4c4241; fill: #4c4241; }
+        .bc376 { stroke: #a9a09b; fill: #a9a09b; }
+        .bc377 { stroke: #a29994; fill: #a29994; }
+        .bc378 { stroke: #978d83; fill: #978d83; }
+        .bc379 { stroke: #968e84; fill: #968e84; }
+        .bc380 { stroke: #958d82; fill: #958d82; }
+        .bc381 { stroke: #948c81; fill: #948c81; }
+        .bc382 { stroke: #4f4a4c; fill: #4f4a4c; }
+        .bc383 { stroke: #5e595b; fill: #5e595b; }
+        .bc384 { stroke: #5f5855; fill: #5f5855; }
+        .bc385 { stroke: #5f5553; fill: #5f5553; }
+        .bc386 { stroke: #574a40; fill: #574a40; }
+        .bc387 { stroke: #51443a; fill: #51443a; }
+        .bc388 { stroke: #4d4036; fill: #4d4036; }
+        .bc389 { stroke: #493c32; fill: #493c32; }
+        .bc390 { stroke: #43362c; fill: #43362c; }
+        .bc391 { stroke: #534543; fill: #534543; }
+        .bc392 { stroke: #433131; fill: #433131; }
+        .bc393 { stroke: #78425a; fill: #78425a; }
+        .bc394 { stroke: #582f45; fill: #582f45; }
+        .bc395 { stroke: #4b2e42; fill: #4b2e42; }
+        .bc396 { stroke: #200107; fill: #200107; }
+        .bc397 { stroke: #240009; fill: #240009; }
+        .bc398 { stroke: #6a585c; fill: #6a585c; }
+        .bc399 { stroke: #a19da4; fill: #a19da4; }
+        .bc400 { stroke: #b3b4ba; fill: #b3b4ba; }
+        .bc401 { stroke: #bdc1c6; fill: #bdc1c6; }
+        .bc402 { stroke: #c7d0d9; fill: #c7d0d9; }
+        .bc403 { stroke: #a6aaad; fill: #a6aaad; }
+        .bc404 { stroke: #7d7475; fill: #7d7475; }
+        .bc405 { stroke: #90837b; fill: #90837b; }
+        .bc406 { stroke: #aba29f; fill: #aba29f; }
+        .bc407 { stroke: #867b79; fill: #867b79; }
+        .bc408 { stroke: #746967; fill: #746967; }
+        .bc409 { stroke: #4c423f; fill: #4c423f; }
+        .bc410 { stroke: #7b726d; fill: #7b726d; }
+        .bc411 { stroke: #a39b91; fill: #a39b91; }
+        .bc412 { stroke: #928982; fill: #928982; }
+        .bc413 { stroke: #90887d; fill: #90887d; }
+        .bc414 { stroke: #898176; fill: #898176; }
+        .bc415 { stroke: #2a2424; fill: #2a2424; }
+        .bc416 { stroke: #453f3f; fill: #453f3f; }
+        .bc417 { stroke: #473d3a; fill: #473d3a; }
+        .bc418 { stroke: #423634; fill: #423634; }
+        .bc419 { stroke: #43362e; fill: #43362e; }
+        .bc420 { stroke: #473a32; fill: #473a32; }
+        .bc421 { stroke: #403329; fill: #403329; }
+        .bc422 { stroke: #43342b; fill: #43342b; }
+        .bc423 { stroke: #42352b; fill: #42352b; }
+        .bc424 { stroke: #40372e; fill: #40372e; }
+        .bc425 { stroke: #4b4239; fill: #4b4239; }
+        .bc426 { stroke: #6e3144; fill: #6e3144; }
+        .bc427 { stroke: #6f3951; fill: #6f3951; }
+        .bc428 { stroke: #5e273b; fill: #5e273b; }
+        .bc429 { stroke: #63293f; fill: #63293f; }
+        .bc430 { stroke: #77374f; fill: #77374f; }
+        .bc431 { stroke: #100000; fill: #100000; }
+        .bc432 { stroke: #665c5a; fill: #665c5a; }
+        .bc433 { stroke: #8d8582; fill: #8d8582; }
+        .bc434 { stroke: #8d8583; fill: #8d8583; }
+        .bc435 { stroke: #9f9796; fill: #9f9796; }
+        .bc436 { stroke: #958d8a; fill: #958d8a; }
+        .bc437 { stroke: #9a918e; fill: #9a918e; }
+        .bc438 { stroke: #7c7270; fill: #7c7270; }
+        .bc439 { stroke: #615755; fill: #615755; }
+        .bc440 { stroke: #6a5a5a; fill: #6a5a5a; }
+        .bc441 { stroke: #786a61; fill: #786a61; }
+        .bc442 { stroke: #89807b; fill: #89807b; }
+        .bc443 { stroke: #a79f95; fill: #a79f95; }
+        .bc444 { stroke: #8e867c; fill: #8e867c; }
+        .bc445 { stroke: #8a8278; fill: #8a8278; }
+        .bc446 { stroke: #83796d; fill: #83796d; }
+        .bc447 { stroke: #82786c; fill: #82786c; }
+        .bc448 { stroke: #80766a; fill: #80766a; }
+        .bc449 { stroke: #302527; fill: #302527; }
+        .bc450 { stroke: #2b2022; fill: #2b2022; }
+        .bc451 { stroke: #271d1a; fill: #271d1a; }
+        .bc452 { stroke: #2f2521; fill: #2f2521; }
+        .bc453 { stroke: #2a231e; fill: #2a231e; }
+        .bc454 { stroke: #352e29; fill: #352e29; }
+        .bc455 { stroke: #504742; fill: #504742; }
+        .bc456 { stroke: #3f312c; fill: #3f312c; }
+        .bc457 { stroke: #2f2319; fill: #2f2319; }
+        .bc458 { stroke: #2e2014; fill: #2e2014; }
+        .bc459 { stroke: #291b0f; fill: #291b0f; }
+        .bc460 { stroke: #2c1c1a; fill: #2c1c1a; }
+        .bc461 { stroke: #45302d; fill: #45302d; }
+        .bc462 { stroke: #633e43; fill: #633e43; }
+        .bc463 { stroke: #62514f; fill: #62514f; }
+        .bc464 { stroke: #615c56; fill: #615c56; }
+        .bc465 { stroke: #645b54; fill: #645b54; }
+        .bc466 { stroke: #6f6258; fill: #6f6258; }
+        .bc467 { stroke: #79716c; fill: #79716c; }
+        .bc468 { stroke: #877f7d; fill: #877f7d; }
+        .bc469 { stroke: #8a8985; fill: #8a8985; }
+        .bc470 { stroke: #a2a4a3; fill: #a2a4a3; }
+        .bc471 { stroke: #adafb0; fill: #adafb0; }
+        .bc472 { stroke: #a4a1a2; fill: #a4a1a2; }
+        .bc473 { stroke: #938b88; fill: #938b88; }
+        .bc474 { stroke: #a69e9b; fill: #a69e9b; }
+        .bc475 { stroke: #cac7cc; fill: #cac7cc; }
+        .bc476 { stroke: #c3c3c5; fill: #c3c3c5; }
+        .bc477 { stroke: #8d857b; fill: #8d857b; }
+        .bc478 { stroke: #92887e; fill: #92887e; }
+        .bc479 { stroke: #7f7569; fill: #7f7569; }
+        .bc480 { stroke: #7b7165; fill: #7b7165; }
+        .bc481 { stroke: #272121; fill: #272121; }
+        .bc482 { stroke: #2e2b2a; fill: #2e2b2a; }
+        .bc483 { stroke: #807f7d; fill: #807f7d; }
+        .bc484 { stroke: #949494; fill: #949494; }
+        .bc485 { stroke: #9ca2a0; fill: #9ca2a0; }
+        .bc486 { stroke: #9ca0a3; fill: #9ca0a3; }
+        .bc487 { stroke: #aaabb0; fill: #aaabb0; }
+        .bc488 { stroke: #9a9b9f; fill: #9a9b9f; }
+        .bc489 { stroke: #88807e; fill: #88807e; }
+        .bc490 { stroke: #5a4c49; fill: #5a4c49; }
+        .bc491 { stroke: #52433c; fill: #52433c; }
+        .bc492 { stroke: #3e332d; fill: #3e332d; }
+        .bc493 { stroke: #302422; fill: #302422; }
+        .bc494 { stroke: #2e2222; fill: #2e2222; }
+        .bc495 { stroke: #4c4040; fill: #4c4040; }
+        .bc496 { stroke: #514744; fill: #514744; }
+        .bc497 { stroke: #655e5c; fill: #655e5c; }
+        .bc498 { stroke: #726e6d; fill: #726e6d; }
+        .bc499 { stroke: #767475; fill: #767475; }
+        .bc500 { stroke: #8b898a; fill: #8b898a; }
+        .bc501 { stroke: #9fa0a2; fill: #9fa0a2; }
+        .bc502 { stroke: #abacb3; fill: #abacb3; }
+        .bc503 { stroke: #b2b9be; fill: #b2b9be; }
+        .bc504 { stroke: #bbc0c8; fill: #bbc0c8; }
+        .bc505 { stroke: #b3b8c0; fill: #b3b8c0; }
+        .bc506 { stroke: #a2a7a5; fill: #a2a7a5; }
+        .bc507 { stroke: #928b85; fill: #928b85; }
+        .bc508 { stroke: #9d958b; fill: #9d958b; }
+        .bc509 { stroke: #8b8178; fill: #8b8178; }
+        .bc510 { stroke: #897f76; fill: #897f76; }
+        .bc511 { stroke: #8d837a; fill: #8d837a; }
+        .bc512 { stroke: #7f766d; fill: #7f766d; }
+        .bc513 { stroke: #7b7167; fill: #7b7167; }
+        .bc514 { stroke: #8a826f; fill: #8a826f; }
+        .bc515 { stroke: #766b67; fill: #766b67; }
+        .bc516 { stroke: #1f1c1b; fill: #1f1c1b; }
+        .bc517 { stroke: #181514; fill: #181514; }
+        .bc518 { stroke: #44403f; fill: #44403f; }
+        .bc519 { stroke: #8f8f91; fill: #8f8f91; }
+        .bc520 { stroke: #a2a4a5; fill: #a2a4a5; }
+        .bc521 { stroke: #a6a8a9; fill: #a6a8a9; }
+        .bc522 { stroke: #adaeb2; fill: #adaeb2; }
+        .bc523 { stroke: #b7bcc1; fill: #b7bcc1; }
+        .bc524 { stroke: #c2c7cc; fill: #c2c7cc; }
+        .bc525 { stroke: #bcc2c4; fill: #bcc2c4; }
+        .bc526 { stroke: #bac0c2; fill: #bac0c2; }
+        .bc527 { stroke: #c1c3c4; fill: #c1c3c4; }
+        .bc528 { stroke: #bbbcc2; fill: #bbbcc2; }
+        .bc529 { stroke: #b2b3b7; fill: #b2b3b7; }
+        .bc530 { stroke: #484443; fill: #484443; }
+        .bc531 { stroke: #2b2525; fill: #2b2525; }
+        .bc532 { stroke: #221817; fill: #221817; }
+        .bc533 { stroke: #4c4847; fill: #4c4847; }
+        .bc534 { stroke: #7f7b7c; fill: #7f7b7c; }
+        .bc535 { stroke: #7b797c; fill: #7b797c; }
+        .bc536 { stroke: #958f8f; fill: #958f8f; }
+        .bc537 { stroke: #76736c; fill: #76736c; }
+        .bc538 { stroke: #7a716c; fill: #7a716c; }
+        .bc539 { stroke: #46403e; fill: #46403e; }
+        .bc540 { stroke: #3e3d41; fill: #3e3d41; }
+        .bc541 { stroke: #575b5c; fill: #575b5c; }
+        .bc542 { stroke: #6e7273; fill: #6e7273; }
+        .bc543 { stroke: #4f524d; fill: #4f524d; }
+        .bc544 { stroke: #595a55; fill: #595a55; }
+        .bc545 { stroke: #6c6548; fill: #6c6548; }
+        .bc546 { stroke: #28211d; fill: #28211d; }
+        .bc547 { stroke: #2a2829; fill: #2a2829; }
+        .bc548 { stroke: #140806; fill: #140806; }
+        .bc549 { stroke: #130705; fill: #130705; }
+        .bc550 { stroke: #150909; fill: #150909; }
+        .bc551 { stroke: #433b40; fill: #433b40; }
+        .bc552 { stroke: #a2a6aa; fill: #a2a6aa; }
+        .bc553 { stroke: #acb0b5; fill: #acb0b5; }
+        .bc554 { stroke: #b7bdc5; fill: #b7bdc5; }
+        .bc555 { stroke: #776d74; fill: #776d74; }
+        .bc556 { stroke: #c4c9d1; fill: #c4c9d1; }
+        .bc557 { stroke: #c8cdd5; fill: #c8cdd5; }
+        .bc558 { stroke: #c8ced6; fill: #c8ced6; }
+        .bc559 { stroke: #c7cdd5; fill: #c7cdd5; }
+        .bc560 { stroke: #c7cdd7; fill: #c7cdd7; }
+        .bc561 { stroke: #c3c9cb; fill: #c3c9cb; }
+        .bc562 { stroke: #bec4c6; fill: #bec4c6; }
+        .bc563 { stroke: #2d2b2d; fill: #2d2b2d; }
+        .bc564 { stroke: #504c4b; fill: #504c4b; }
+        .bc565 { stroke: #4b494a; fill: #4b494a; }
+        .bc566 { stroke: #333132; fill: #333132; }
+        .bc567 { stroke: #454344; fill: #454344; }
+        .bc568 { stroke: #5c5952; fill: #5c5952; }
+        .bc569 { stroke: #797067; fill: #797067; }
+        .bc570 { stroke: #8a8076; fill: #8a8076; }
+        .bc571 { stroke: #83766d; fill: #83766d; }
+        .bc572 { stroke: #94877e; fill: #94877e; }
+        .bc573 { stroke: #867a6e; fill: #867a6e; }
+        .bc574 { stroke: #807468; fill: #807468; }
+        .bc575 { stroke: #786c60; fill: #786c60; }
+        .bc576 { stroke: #75695d; fill: #75695d; }
+        .bc577 { stroke: #72665a; fill: #72665a; }
+        .bc578 { stroke: #716559; fill: #716559; }
+        .bc579 { stroke: #796d61; fill: #796d61; }
+        .bc580 { stroke: #695c52; fill: #695c52; }
+        .bc581 { stroke: #776a61; fill: #776a61; }
         <!-- Foreground custom colors -->
         .fc0 { fill: #646464; }
-        .fc1 { fill: #1bacfc; }
-        .fc2 { fill: #000000; }
-        .fc3 { fill: #000008; }
-        .fc4 { fill: #010100; }
-        .fc5 { fill: #00020d; }
-        .fc6 { fill: #060000; }
-        .fc7 { fill: #000203; }
-        .fc8 { fill: #010101; }
-        .fc9 { fill: #050505; }
-        .fc10 { fill: #000005; }
-        .fc11 { fill: #000003; }
-        .fc12 { fill: #010000; }
-        .fc13 { fill: #0e000b; }
-        .fc14 { fill: #0a101e; }
-        .fc15 { fill: #12a5ff; }
-        .fc16 { fill: #2ca9e3; }
-        .fc17 { fill: #3bbae7; }
-        .fc18 { fill: #3a5a6f; }
-        .fc19 { fill: #251f15; }
-        .fc20 { fill: #0a0e0e; }
-        .fc21 { fill: #160003; }
-        .fc22 { fill: #00090e; }
-        .fc23 { fill: #0b0300; }
-        .fc24 { fill: #000306; }
-        .fc25 { fill: #000103; }
-        .fc26 { fill: #0e0001; }
-        .fc27 { fill: #0a0a0a; }
-        .fc28 { fill: #030303; }
-        .fc29 { fill: #020407; }
-        .fc30 { fill: #000303; }
-        .fc31 { fill: #000200; }
-        .fc32 { fill: #000100; }
-        .fc33 { fill: #8e8c8f; }
-        .fc34 { fill: #201f23; }
-        .fc35 { fill: #99a2a9; }
-        .fc36 { fill: #020202; }
-        .fc37 { fill: #16080b; }
-        .fc38 { fill: #13a2ff; }
-        .fc39 { fill: #26a8f3; }
-        .fc40 { fill: #1db0fe; }
-        .fc41 { fill: #1bc7f7; }
-        .fc42 { fill: #20c7f3; }
-        .fc43 { fill: #2ce3ff; }
-        .fc44 { fill: #6ab4cf; }
-        .fc45 { fill: #05081b; }
-        .fc46 { fill: #44c7ff; }
-        .fc47 { fill: #55cae6; }
-        .fc48 { fill: #a7f1ff; }
-        .fc49 { fill: #000c0b; }
-        .fc50 { fill: #060008; }
-        .fc51 { fill: #050909; }
-        .fc52 { fill: #12171e; }
-        .fc53 { fill: #00000e; }
-        .fc54 { fill: #0e101b; }
-        .fc55 { fill: #000001; }
-        .fc56 { fill: #000108; }
-        .fc57 { fill: #000202; }
-        .fc58 { fill: #080b0e; }
-        .fc59 { fill: #090505; }
-        .fc60 { fill: #020606; }
-        .fc61 { fill: #000301; }
-        .fc62 { fill: #00101d; }
-        .fc63 { fill: #000b14; }
-        .fc64 { fill: #000815; }
-        .fc65 { fill: #41bcff; }
-        .fc66 { fill: #1da8e9; }
-        .fc67 { fill: #3ac2f6; }
-        .fc68 { fill: #60e0ff; }
-        .fc69 { fill: #57daf8; }
-        .fc70 { fill: #5ed5f3; }
-        .fc71 { fill: #6fefff; }
-        .fc72 { fill: #82ffff; }
-        .fc73 { fill: #deecf8; }
-        .fc74 { fill: #fdfff7; }
-        .fc75 { fill: #fff7fe; }
-        .fc76 { fill: #ddffff; }
-        .fc77 { fill: #edf4f8; }
-        .fc78 { fill: #060f10; }
-        .fc79 { fill: #000700; }
-        .fc80 { fill: #0d0007; }
-        .fc81 { fill: #49abd2; }
-        .fc82 { fill: #51d6ff; }
-        .fc83 { fill: #5eb4d5; }
-        .fc84 { fill: #010003; }
-        .fc85 { fill: #000503; }
-        .fc86 { fill: #100311; }
-        .fc87 { fill: #46aeed; }
-        .fc88 { fill: #22a4f2; }
-        .fc89 { fill: #38adf2; }
-        .fc90 { fill: #73d7fb; }
-        .fc91 { fill: #c2f8f7; }
-        .fc92 { fill: #ccffff; }
-        .fc93 { fill: #f1fef9; }
-        .fc94 { fill: #fcfeff; }
-        .fc95 { fill: #fbfdfe; }
-        .fc96 { fill: #f0fafd; }
-        .fc97 { fill: #ebffff; }
-        .fc98 { fill: #e0f7fd; }
-        .fc99 { fill: #e9f8fd; }
-        .fc100 { fill: #f3faff; }
-        .fc101 { fill: #edf2fa; }
-        .fc102 { fill: #e5eff4; }
-        .fc103 { fill: #e9efef; }
-        .fc104 { fill: #faffff; }
-        .fc105 { fill: #fffffe; }
-        .fc106 { fill: #2b2233; }
-        .fc107 { fill: #69aec0; }
-        .fc108 { fill: #50bdf5; }
-        .fc109 { fill: #27cff4; }
-        .fc110 { fill: #38b8f9; }
-        .fc111 { fill: #000e2a; }
-        .fc112 { fill: #000402; }
-        .fc113 { fill: #020000; }
-        .fc114 { fill: #000500; }
-        .fc115 { fill: #100003; }
-        .fc116 { fill: #002f31; }
-        .fc117 { fill: #3398e0; }
-        .fc118 { fill: #41a8ef; }
-        .fc119 { fill: #4eb7fb; }
-        .fc120 { fill: #9de3ff; }
-        .fc121 { fill: #f8e8f6; }
-        .fc122 { fill: #efeeff; }
-        .fc123 { fill: #f1ecf2; }
-        .fc124 { fill: #cee5eb; }
-        .fc125 { fill: #bcd0ea; }
-        .fc126 { fill: #b1c8dc; }
-        .fc127 { fill: #b6d2df; }
-        .fc128 { fill: #cae3e9; }
-        .fc129 { fill: #d9e6eb; }
-        .fc130 { fill: #dddfe6; }
-        .fc131 { fill: #a0b3e7; }
-        .fc132 { fill: #5c88c9; }
-        .fc133 { fill: #6698cd; }
-        .fc134 { fill: #94b5e0; }
-        .fc135 { fill: #d2e0ed; }
-        .fc136 { fill: #ebf2ff; }
-        .fc137 { fill: #fffff8; }
-        .fc138 { fill: #89e1ff; }
-        .fc139 { fill: #64baf7; }
-        .fc140 { fill: #07000e; }
-        .fc141 { fill: #001301; }
-        .fc142 { fill: #070000; }
-        .fc143 { fill: #050000; }
-        .fc144 { fill: #132b3b; }
-        .fc145 { fill: #52b3e8; }
-        .fc146 { fill: #58c0f1; }
-        .fc147 { fill: #bde0ff; }
-        .fc148 { fill: #e0e5f7; }
-        .fc149 { fill: #d1e5f0; }
-        .fc150 { fill: #cbdeee; }
-        .fc151 { fill: #d2dce7; }
-        .fc152 { fill: #9fb3e4; }
-        .fc153 { fill: #4b75b3; }
-        .fc154 { fill: #538cc3; }
-        .fc155 { fill: #609ecf; }
-        .fc156 { fill: #6099c8; }
-        .fc157 { fill: #bed0e6; }
-        .fc158 { fill: #bed4e3; }
-        .fc159 { fill: #b5d5e4; }
-        .fc160 { fill: #7bd3f8; }
-        .fc161 { fill: #80dbf0; }
-        .fc162 { fill: #7dc9ed; }
-        .fc163 { fill: #cfdbe7; }
-        .fc164 { fill: #c0d7f3; }
-        .fc165 { fill: #d0dae7; }
-        .fc166 { fill: #f8ffff; }
-        .fc167 { fill: #1e1d17; }
-        .fc168 { fill: #010005; }
-        .fc169 { fill: #000e0a; }
-        .fc170 { fill: #0c0008; }
-        .fc171 { fill: #000211; }
-        .fc172 { fill: #000400; }
-        .fc173 { fill: #1e0000; }
-        .fc174 { fill: #1f3842; }
-        .fc175 { fill: #a1dbeb; }
-        .fc176 { fill: #d5e6fa; }
-        .fc177 { fill: #ccdce8; }
-        .fc178 { fill: #c8d6e5; }
-        .fc179 { fill: #bfccde; }
-        .fc180 { fill: #b6c3d5; }
-        .fc181 { fill: #bec1dc; }
-        .fc182 { fill: #c3d9f3; }
-        .fc183 { fill: #cae3f3; }
-        .fc184 { fill: #bcd7ee; }
-        .fc185 { fill: #abc1d2; }
-        .fc186 { fill: #9abcd4; }
-        .fc187 { fill: #9ab8d0; }
-        .fc188 { fill: #9bb7cf; }
-        .fc189 { fill: #a0bcd4; }
-        .fc190 { fill: #94b5d0; }
-        .fc191 { fill: #8eb1d3; }
-        .fc192 { fill: #849ae5; }
-        .fc193 { fill: #86acdd; }
-        .fc194 { fill: #94bed4; }
-        .fc195 { fill: #edf8fd; }
-        .fc196 { fill: #070012; }
-        .fc197 { fill: #5f92a3; }
-        .fc198 { fill: #000406; }
-        .fc199 { fill: #0a0608; }
-        .fc200 { fill: #b4eeff; }
-        .fc201 { fill: #3bb0dc; }
-        .fc202 { fill: #c1f9fc; }
-        .fc203 { fill: #2aabf7; }
-        .fc204 { fill: #45affd; }
-        .fc205 { fill: #2da8ca; }
-        .fc206 { fill: #6aa8e5; }
-        .fc207 { fill: #040000; }
-        .fc208 { fill: #dbf0f7; }
-        .fc209 { fill: #d4dfef; }
-        .fc210 { fill: #a5c6e4; }
-        .fc211 { fill: #8bb2d3; }
-        .fc212 { fill: #94acc4; }
-        .fc213 { fill: #8aa3c3; }
-        .fc214 { fill: #98b2cd; }
-        .fc215 { fill: #95afca; }
-        .fc216 { fill: #84aec4; }
-        .fc217 { fill: #8fa4c1; }
-        .fc218 { fill: #8db6ca; }
-        .fc219 { fill: #92abcb; }
-        .fc220 { fill: #7fb7d2; }
-        .fc221 { fill: #6193c8; }
-        .fc222 { fill: #4f95c9; }
-        .fc223 { fill: #5995d1; }
-        .fc224 { fill: #3b62b5; }
-        .fc225 { fill: #424fb5; }
-        .fc226 { fill: #5a60d2; }
-        .fc227 { fill: #5e72c9; }
-        .fc228 { fill: #8db7da; }
-        .fc229 { fill: #b4d6e1; }
-        .fc230 { fill: #49b3e4; }
-        .fc231 { fill: #269def; }
-        .fc232 { fill: #53b6ff; }
-        .fc233 { fill: #000a0a; }
-        .fc234 { fill: #000300; }
-        .fc235 { fill: #010407; }
-        .fc236 { fill: #050503; }
-        .fc237 { fill: #4092c4; }
-        .fc238 { fill: #0394ef; }
-        .fc239 { fill: #1f98d1; }
-        .fc240 { fill: #1b93df; }
-        .fc241 { fill: #319cd2; }
-        .fc242 { fill: #3ca4e3; }
-        .fc243 { fill: #29a2d9; }
-        .fc244 { fill: #76c7dc; }
-        .fc245 { fill: #75caeb; }
-        .fc246 { fill: #8bacd5; }
-        .fc247 { fill: #8ba8c7; }
-        .fc248 { fill: #7a9bc8; }
-        .fc249 { fill: #0f004c; }
-        .fc250 { fill: #03004b; }
-        .fc251 { fill: #0e1260; }
-        .fc252 { fill: #1a1366; }
-        .fc253 { fill: #000047; }
-        .fc254 { fill: #243078; }
-        .fc255 { fill: #2c2173; }
-        .fc256 { fill: #3f4c98; }
-        .fc257 { fill: #2e2f8a; }
-        .fc258 { fill: #313094; }
-        .fc259 { fill: #3a3ca1; }
-        .fc260 { fill: #3e3fb3; }
-        .fc261 { fill: #494fbf; }
-        .fc262 { fill: #5a5dc6; }
-        .fc263 { fill: #566fc2; }
-        .fc264 { fill: #79b0d8; }
-        .fc265 { fill: #62c4f5; }
-        .fc266 { fill: #1bafff; }
-        .fc267 { fill: #1e9dec; }
-        .fc268 { fill: #49abfc; }
-        .fc269 { fill: #00020e; }
-        .fc270 { fill: #00040c; }
-        .fc271 { fill: #081830; }
-        .fc272 { fill: #25537a; }
-        .fc273 { fill: #4f8fbb; }
-        .fc274 { fill: #4699cb; }
-        .fc275 { fill: #9ec5e6; }
-        .fc276 { fill: #9cb8d0; }
-        .fc277 { fill: #8794c8; }
-        .fc278 { fill: #261a74; }
-        .fc279 { fill: #1e1671; }
-        .fc280 { fill: #19116c; }
-        .fc281 { fill: #261e79; }
-        .fc282 { fill: #2c247f; }
-        .fc283 { fill: #302b85; }
-        .fc284 { fill: #312f88; }
-        .fc285 { fill: #373191; }
-        .fc286 { fill: #37369a; }
-        .fc287 { fill: #2e3095; }
-        .fc288 { fill: #5687d6; }
-        .fc289 { fill: #537dcf; }
-        .fc290 { fill: #545cb7; }
-        .fc291 { fill: #7090bf; }
-        .fc292 { fill: #639cc7; }
-        .fc293 { fill: #3ab4f0; }
-        .fc294 { fill: #22b0fa; }
-        .fc295 { fill: #1297e2; }
-        .fc296 { fill: #54c0fe; }
-        .fc297 { fill: #00031c; }
-        .fc298 { fill: #090909; }
-        .fc299 { fill: #111111; }
-        .fc300 { fill: #c0cfe0; }
-        .fc301 { fill: #afc5df; }
-        .fc302 { fill: #8faecd; }
-        .fc303 { fill: #91a5c0; }
-        .fc304 { fill: #84a3d1; }
-        .fc305 { fill: #3b79ac; }
-        .fc306 { fill: #4672bb; }
-        .fc307 { fill: #253f8c; }
-        .fc308 { fill: #352885; }
-        .fc309 { fill: #392f86; }
-        .fc310 { fill: #3a3488; }
-        .fc311 { fill: #43398d; }
-        .fc312 { fill: #24408a; }
-        .fc313 { fill: #5e71c0; }
-        .fc314 { fill: #5fa5e3; }
-        .fc315 { fill: #3677ad; }
-        .fc316 { fill: #7ea1c1; }
-        .fc317 { fill: #719fc3; }
-        .fc318 { fill: #c4e1fb; }
-        .fc319 { fill: #48b1d1; }
-        .fc320 { fill: #399cd7; }
-        .fc321 { fill: #40bbef; }
-        .fc322 { fill: #54c0f0; }
-        .fc323 { fill: #0c0808; }
-        .fc324 { fill: #d6e7fa; }
-        .fc325 { fill: #a4c3d7; }
-        .fc326 { fill: #90aec8; }
-        .fc327 { fill: #91a7c1; }
-        .fc328 { fill: #999cb9; }
-        .fc329 { fill: #9aa2b7; }
-        .fc330 { fill: #628abd; }
-        .fc331 { fill: #7293d6; }
-        .fc332 { fill: #578ec6; }
-        .fc333 { fill: #5098c8; }
-        .fc334 { fill: #5494c4; }
-        .fc335 { fill: #62b3e2; }
-        .fc336 { fill: #5c9dd3; }
-        .fc337 { fill: #70a0c6; }
-        .fc338 { fill: #799cbc; }
-        .fc339 { fill: #83aed0; }
-        .fc340 { fill: #ccd7e7; }
-        .fc341 { fill: #040800; }
-        .fc342 { fill: #0d0900; }
-        .fc343 { fill: #001f44; }
-        .fc344 { fill: #5bc2eb; }
-        .fc345 { fill: #1f1718; }
-        .fc346 { fill: #040c00; }
-        .fc347 { fill: #140202; }
-        .fc348 { fill: #ccf4ff; }
-        .fc349 { fill: #b4c7d9; }
-        .fc350 { fill: #94b5d3; }
-        .fc351 { fill: #78a1bf; }
-        .fc352 { fill: #799bc0; }
-        .fc353 { fill: #79a1c7; }
-        .fc354 { fill: #7699bf; }
-        .fc355 { fill: #7599bd; }
-        .fc356 { fill: #7198c1; }
-        .fc357 { fill: #6d9ac3; }
-        .fc358 { fill: #719cc6; }
-        .fc359 { fill: #8dabc3; }
-        .fc360 { fill: #111a1f; }
-        .fc361 { fill: #00040b; }
-        .fc362 { fill: #bccfe1; }
-        .fc363 { fill: #010004; }
-        .fc364 { fill: #2aaeeb; }
-        .fc365 { fill: #27acef; }
-        .fc366 { fill: #25a4f5; }
-        .fc367 { fill: #3cabe2; }
-        .fc368 { fill: #44a6e7; }
-        .fc369 { fill: #010c14; }
-        .fc370 { fill: #04070e; }
-        .fc371 { fill: #010a0d; }
-        .fc372 { fill: #070100; }
-        .fc373 { fill: #231915; }
-        .fc374 { fill: #3fb950; }
-        .fc375 { fill: #f85149; }
-        .fc376 { fill: #0a0807; }
-        .fc377 { fill: #000814; }
-        .fc378 { fill: #020002; }
-        .fc379 { fill: #040017; }
-        .fc380 { fill: #21a2db; }
-        .fc381 { fill: #3da1ff; }
-        .fc382 { fill: #16a9f7; }
-        .fc383 { fill: #054d71; }
-        .fc384 { fill: #4a83c6; }
-        .fc385 { fill: #45c6ff; }
-        .fc386 { fill: #25a6e7; }
-        .fc387 { fill: #0a1618; }
-        .fc388 { fill: #000101; }
+        .fc1 { fill: #9a9284; }
+        .fc2 { fill: #9c9382; }
+        .fc3 { fill: #9f9584; }
+        .fc4 { fill: #a19786; }
+        .fc5 { fill: #a39988; }
+        .fc6 { fill: #a79c8b; }
+        .fc7 { fill: #aa9f8e; }
+        .fc8 { fill: #aa9f8d; }
+        .fc9 { fill: #ada291; }
+        .fc10 { fill: #aea392; }
+        .fc11 { fill: #9c9784; }
+        .fc12 { fill: #a99f92; }
+        .fc13 { fill: #b1a69c; }
+        .fc14 { fill: #9d978b; }
+        .fc15 { fill: #a39d91; }
+        .fc16 { fill: #b1a798; }
+        .fc17 { fill: #ada392; }
+        .fc18 { fill: #b6ac9d; }
+        .fc19 { fill: #c6bcaf; }
+        .fc20 { fill: #b5ac99; }
+        .fc21 { fill: #b7ad9c; }
+        .fc22 { fill: #bdb3a4; }
+        .fc23 { fill: #b8ae9d; }
+        .fc24 { fill: #b6ac9b; }
+        .fc25 { fill: #b4ac9f; }
+        .fc26 { fill: #9a9383; }
+        .fc27 { fill: #a69c8f; }
+        .fc28 { fill: #988f80; }
+        .fc29 { fill: #9a9182; }
+        .fc30 { fill: #908474; }
+        .fc31 { fill: #170b03; }
+        .fc32 { fill: #2b1f15; }
+        .fc33 { fill: #201108; }
+        .fc34 { fill: #190a01; }
+        .fc35 { fill: #9c9583; }
+        .fc36 { fill: #9f9886; }
+        .fc37 { fill: #a59a89; }
+        .fc38 { fill: #a89d8c; }
+        .fc39 { fill: #a39887; }
+        .fc40 { fill: #736967; }
+        .fc41 { fill: #6e6462; }
+        .fc42 { fill: #625856; }
+        .fc43 { fill: #7d7875; }
+        .fc44 { fill: #797471; }
+        .fc45 { fill: #5b5150; }
+        .fc46 { fill: #4e4846; }
+        .fc47 { fill: #b5b2b3; }
+        .fc48 { fill: #b8b5b6; }
+        .fc49 { fill: #6e6c6d; }
+        .fc50 { fill: #605e5f; }
+        .fc51 { fill: #676362; }
+        .fc52 { fill: #898586; }
+        .fc53 { fill: #827972; }
+        .fc54 { fill: #b2aa9d; }
+        .fc55 { fill: #b2a899; }
+        .fc56 { fill: #898174; }
+        .fc57 { fill: #a39b90; }
+        .fc58 { fill: #9e9284; }
+        .fc59 { fill: #988c7e; }
+        .fc60 { fill: #908476; }
+        .fc61 { fill: #888171; }
+        .fc62 { fill: #736b5c; }
+        .fc63 { fill: #746c61; }
+        .fc64 { fill: #888075; }
+        .fc65 { fill: #a69c8b; }
+        .fc66 { fill: #a89e8d; }
+        .fc67 { fill: #aba190; }
+        .fc68 { fill: #aaa08f; }
+        .fc69 { fill: #72685f; }
+        .fc70 { fill: #4a403d; }
+        .fc71 { fill: #3a3635; }
+        .fc72 { fill: #484443; }
+        .fc73 { fill: #3c3634; }
+        .fc74 { fill: #8e8282; }
+        .fc75 { fill: #494240; }
+        .fc76 { fill: #1a100f; }
+        .fc77 { fill: #0c0201; }
+        .fc78 { fill: #1a0f11; }
+        .fc79 { fill: #a39d9f; }
+        .fc80 { fill: #6d6767; }
+        .fc81 { fill: #262224; }
+        .fc82 { fill: #423d3f; }
+        .fc83 { fill: #8f8a8e; }
+        .fc84 { fill: #9f9aa0; }
+        .fc85 { fill: #636260; }
+        .fc86 { fill: #7b7778; }
+        .fc87 { fill: #6e696b; }
+        .fc88 { fill: #6a6869; }
+        .fc89 { fill: #8b877e; }
+        .fc90 { fill: #ada59c; }
+        .fc91 { fill: #9d9485; }
+        .fc92 { fill: #9b9283; }
+        .fc93 { fill: #988f82; }
+        .fc94 { fill: #989083; }
+        .fc95 { fill: #9a9285; }
+        .fc96 { fill: #a49a8b; }
+        .fc97 { fill: #a79d8e; }
+        .fc98 { fill: #aaa091; }
+        .fc99 { fill: #aba192; }
+        .fc100 { fill: #aca293; }
+        .fc101 { fill: #3a2e2c; }
+        .fc102 { fill: #4f4542; }
+        .fc103 { fill: #5a504f; }
+        .fc104 { fill: #312b2b; }
+        .fc105 { fill: #2f2929; }
+        .fc106 { fill: #1f1c1b; }
+        .fc107 { fill: #514d4c; }
+        .fc108 { fill: #524a4b; }
+        .fc109 { fill: #060405; }
+        .fc110 { fill: #121011; }
+        .fc111 { fill: #4b5866; }
+        .fc112 { fill: #171313; }
+        .fc113 { fill: #786d71; }
+        .fc114 { fill: #8b8182; }
+        .fc115 { fill: #7b7172; }
+        .fc116 { fill: #5b5658; }
+        .fc117 { fill: #838182; }
+        .fc118 { fill: #626061; }
+        .fc119 { fill: #575556; }
+        .fc120 { fill: #827e7f; }
+        .fc121 { fill: #6f6b6a; }
+        .fc122 { fill: #777372; }
+        .fc123 { fill: #9b918a; }
+        .fc124 { fill: #9b9285; }
+        .fc125 { fill: #9c9386; }
+        .fc126 { fill: #a89e91; }
+        .fc127 { fill: #9d9487; }
+        .fc128 { fill: #adb9b5; }
+        .fc129 { fill: #a69f8f; }
+        .fc130 { fill: #aaa295; }
+        .fc131 { fill: #ada394; }
+        .fc132 { fill: #aba398; }
+        .fc133 { fill: #3b322d; }
+        .fc134 { fill: #4b413e; }
+        .fc135 { fill: #352a26; }
+        .fc136 { fill: #5c5251; }
+        .fc137 { fill: #3b3736; }
+        .fc138 { fill: #2c2928; }
+        .fc139 { fill: #201c1e; }
+        .fc140 { fill: #2d2b2c; }
+        .fc141 { fill: #3c3638; }
+        .fc142 { fill: #80777c; }
+        .fc143 { fill: #424049; }
+        .fc144 { fill: #39313e; }
+        .fc145 { fill: #1b131c; }
+        .fc146 { fill: #6c6060; }
+        .fc147 { fill: #9c9293; }
+        .fc148 { fill: #4e4a49; }
+        .fc149 { fill: #5e5c5d; }
+        .fc150 { fill: #6d6b6e; }
+        .fc151 { fill: #615d5c; }
+        .fc152 { fill: #575254; }
+        .fc153 { fill: #706b6d; }
+        .fc154 { fill: #696468; }
+        .fc155 { fill: #8f8b8a; }
+        .fc156 { fill: #5d5956; }
+        .fc157 { fill: #959289; }
+        .fc158 { fill: #b2a69a; }
+        .fc159 { fill: #9a9086; }
+        .fc160 { fill: #9a9184; }
+        .fc161 { fill: #56706f; }
+        .fc162 { fill: #617981; }
+        .fc163 { fill: #a7a49f; }
+        .fc164 { fill: #928984; }
+        .fc165 { fill: #3b312e; }
+        .fc166 { fill: #291d1b; }
+        .fc167 { fill: #271b19; }
+        .fc168 { fill: #473b39; }
+        .fc169 { fill: #5c5052; }
+        .fc170 { fill: #352f2f; }
+        .fc171 { fill: #312d2f; }
+        .fc172 { fill: #272527; }
+        .fc173 { fill: #302e30; }
+        .fc174 { fill: #383637; }
+        .fc175 { fill: #847c7a; }
+        .fc176 { fill: #535059; }
+        .fc177 { fill: #383336; }
+        .fc178 { fill: #807474; }
+        .fc179 { fill: #5f5959; }
+        .fc180 { fill: #615b5b; }
+        .fc181 { fill: #716d6e; }
+        .fc182 { fill: #656062; }
+        .fc183 { fill: #736f70; }
+        .fc184 { fill: #686365; }
+        .fc185 { fill: #544f51; }
+        .fc186 { fill: #555150; }
+        .fc187 { fill: #8b8585; }
+        .fc188 { fill: #3c3636; }
+        .fc189 { fill: #6d6467; }
+        .fc190 { fill: #b8b0ad; }
+        .fc191 { fill: #9b9187; }
+        .fc192 { fill: #999083; }
+        .fc193 { fill: #90a4a7; }
+        .fc194 { fill: #777775; }
+        .fc195 { fill: #665c5a; }
+        .fc196 { fill: #655b59; }
+        .fc197 { fill: #574d4a; }
+        .fc198 { fill: #281e1b; }
+        .fc199 { fill: #4f413e; }
+        .fc200 { fill: #33241d; }
+        .fc201 { fill: #3e3232; }
+        .fc202 { fill: #4c4644; }
+        .fc203 { fill: #332f31; }
+        .fc204 { fill: #3e3c3f; }
+        .fc205 { fill: #434144; }
+        .fc206 { fill: #464447; }
+        .fc207 { fill: #535256; }
+        .fc208 { fill: #716f70; }
+        .fc209 { fill: #6a605f; }
+        .fc210 { fill: #6b6160; }
+        .fc211 { fill: #685e5d; }
+        .fc212 { fill: #6c6261; }
+        .fc213 { fill: #796f6d; }
+        .fc214 { fill: #7a7572; }
+        .fc215 { fill: #c1b8b5; }
+        .fc216 { fill: #9c9092; }
+        .fc217 { fill: #807a7c; }
+        .fc218 { fill: #7e7475; }
+        .fc219 { fill: #a7a1a1; }
+        .fc220 { fill: #8a8484; }
+        .fc221 { fill: #948b88; }
+        .fc222 { fill: #998f85; }
+        .fc223 { fill: #544a47; }
+        .fc224 { fill: #5b514f; }
+        .fc225 { fill: #514643; }
+        .fc226 { fill: #5f5450; }
+        .fc227 { fill: #5c514d; }
+        .fc228 { fill: #4d423e; }
+        .fc229 { fill: #2b2620; }
+        .fc230 { fill: #9a8c89; }
+        .fc231 { fill: #473936; }
+        .fc232 { fill: #726964; }
+        .fc233 { fill: #373139; }
+        .fc234 { fill: #494446; }
+        .fc235 { fill: #6c6366; }
+        .fc236 { fill: #69676a; }
+        .fc237 { fill: #7c7982; }
+        .fc238 { fill: #747275; }
+        .fc239 { fill: #7a7378; }
+        .fc240 { fill: #827d7a; }
+        .fc241 { fill: #8b817f; }
+        .fc242 { fill: #897f7d; }
+        .fc243 { fill: #a29694; }
+        .fc244 { fill: #958c89; }
+        .fc245 { fill: #7a6e6e; }
+        .fc246 { fill: #605251; }
+        .fc247 { fill: #342c2f; }
+        .fc248 { fill: #20191d; }
+        .fc249 { fill: #4b444a; }
+        .fc250 { fill: #87878f; }
+        .fc251 { fill: #392f2c; }
+        .fc252 { fill: #332926; }
+        .fc253 { fill: #8d8381; }
+        .fc254 { fill: #a79e99; }
+        .fc255 { fill: #a59a91; }
+        .fc256 { fill: #4f4441; }
+        .fc257 { fill: #544945; }
+        .fc258 { fill: #4f4843; }
+        .fc259 { fill: #5c5550; }
+        .fc260 { fill: #675958; }
+        .fc261 { fill: #847975; }
+        .fc262 { fill: #4b403d; }
+        .fc263 { fill: #786c6c; }
+        .fc264 { fill: #5e5856; }
+        .fc265 { fill: #5c534e; }
+        .fc266 { fill: #6b615f; }
+        .fc267 { fill: #79716f; }
+        .fc268 { fill: #594344; }
+        .fc269 { fill: #634753; }
+        .fc270 { fill: #87737f; }
+        .fc271 { fill: #a5969b; }
+        .fc272 { fill: #999393; }
+        .fc273 { fill: #a49894; }
+        .fc274 { fill: #998f90; }
+        .fc275 { fill: #716d6c; }
+        .fc276 { fill: #4a474c; }
+        .fc277 { fill: #555458; }
+        .fc278 { fill: #6a5f63; }
+        .fc279 { fill: #7c736e; }
+        .fc280 { fill: #867b77; }
+        .fc281 { fill: #908484; }
+        .fc282 { fill: #8e8381; }
+        .fc283 { fill: #8a7f7d; }
+        .fc284 { fill: #827a77; }
+        .fc285 { fill: #7f766f; }
+        .fc286 { fill: #968e83; }
+        .fc287 { fill: #978f82; }
+        .fc288 { fill: #958d80; }
+        .fc289 { fill: #534747; }
+        .fc290 { fill: #554949; }
+        .fc291 { fill: #61574e; }
+        .fc292 { fill: #524743; }
+        .fc293 { fill: #443d39; }
+        .fc294 { fill: #534845; }
+        .fc295 { fill: #564d46; }
+        .fc296 { fill: #83847e; }
+        .fc297 { fill: #50484b; }
+        .fc298 { fill: #715c55; }
+        .fc299 { fill: #645351; }
+        .fc300 { fill: #6e6361; }
+        .fc301 { fill: #847a7b; }
+        .fc302 { fill: #180b13; }
+        .fc303 { fill: #775561; }
+        .fc304 { fill: #946d7f; }
+        .fc305 { fill: #906873; }
+        .fc306 { fill: #795c60; }
+        .fc307 { fill: #6e6866; }
+        .fc308 { fill: #565455; }
+        .fc309 { fill: #413e43; }
+        .fc310 { fill: #333132; }
+        .fc311 { fill: #36333a; }
+        .fc312 { fill: #343234; }
+        .fc313 { fill: #403e41; }
+        .fc314 { fill: #272526; }
+        .fc315 { fill: #3b3638; }
+        .fc316 { fill: #4a4641; }
+        .fc317 { fill: #918881; }
+        .fc318 { fill: #9b9389; }
+        .fc319 { fill: #999186; }
+        .fc320 { fill: #3c3533; }
+        .fc321 { fill: #4d4644; }
+        .fc322 { fill: #67615f; }
+        .fc323 { fill: #554b48; }
+        .fc324 { fill: #534a45; }
+        .fc325 { fill: #665d58; }
+        .fc326 { fill: #4c3e3b; }
+        .fc327 { fill: #5e5252; }
+        .fc328 { fill: #655f61; }
+        .fc329 { fill: #75696d; }
+        .fc330 { fill: #7f7880; }
+        .fc331 { fill: #5f565d; }
+        .fc332 { fill: #89848b; }
+        .fc333 { fill: #110006; }
+        .fc334 { fill: #552d3b; }
+        .fc335 { fill: #7c4d5f; }
+        .fc336 { fill: #9c8591; }
+        .fc337 { fill: #aca5ac; }
+        .fc338 { fill: #d1ccd2; }
+        .fc339 { fill: #a5989a; }
+        .fc340 { fill: #928888; }
+        .fc341 { fill: #494345; }
+        .fc342 { fill: #3c3739; }
+        .fc343 { fill: #464143; }
+        .fc344 { fill: #83797a; }
+        .fc345 { fill: #9a9494; }
+        .fc346 { fill: #a59f9f; }
+        .fc347 { fill: #857b79; }
+        .fc348 { fill: #988e85; }
+        .fc349 { fill: #978f84; }
+        .fc350 { fill: #958d82; }
+        .fc351 { fill: #5e585a; }
+        .fc352 { fill: #686463; }
+        .fc353 { fill: #615755; }
+        .fc354 { fill: #574a40; }
+        .fc355 { fill: #53463c; }
+        .fc356 { fill: #4e4137; }
+        .fc357 { fill: #4c3f35; }
+        .fc358 { fill: #4b3e36; }
+        .fc359 { fill: #4f3f3d; }
+        .fc360 { fill: #392323; }
+        .fc361 { fill: #4c2832; }
+        .fc362 { fill: #391723; }
+        .fc363 { fill: #2c131d; }
+        .fc364 { fill: #130208; }
+        .fc365 { fill: #46272b; }
+        .fc366 { fill: #8e7d85; }
+        .fc367 { fill: #ada5b2; }
+        .fc368 { fill: #bfbfc9; }
+        .fc369 { fill: #c6ccd4; }
+        .fc370 { fill: #cad0d8; }
+        .fc371 { fill: #cdd3db; }
+        .fc372 { fill: #7a7579; }
+        .fc373 { fill: #433e40; }
+        .fc374 { fill: #4e4944; }
+        .fc375 { fill: #746a61; }
+        .fc376 { fill: #827773; }
+        .fc377 { fill: #7e7371; }
+        .fc378 { fill: #7d7371; }
+        .fc379 { fill: #786d67; }
+        .fc380 { fill: #b9afa2; }
+        .fc381 { fill: #b2a79f; }
+        .fc382 { fill: #968e84; }
+        .fc383 { fill: #948c81; }
+        .fc384 { fill: #938980; }
+        .fc385 { fill: #8d897e; }
+        .fc386 { fill: #4c4749; }
+        .fc387 { fill: #4c4541; }
+        .fc388 { fill: #4d4340; }
+        .fc389 { fill: #51443a; }
+        .fc390 { fill: #4a3d33; }
+        .fc391 { fill: #46392f; }
+        .fc392 { fill: #493c32; }
+        .fc393 { fill: #4e4139; }
+        .fc394 { fill: #594842; }
+        .fc395 { fill: #753a54; }
+        .fc396 { fill: #6e3e56; }
+        .fc397 { fill: #57344a; }
+        .fc398 { fill: #4a1c34; }
+        .fc399 { fill: #511d39; }
+        .fc400 { fill: #4f2b2d; }
+        .fc401 { fill: #837a7d; }
+        .fc402 { fill: #a3a4a9; }
+        .fc403 { fill: #aeabac; }
+        .fc404 { fill: #b8bcc1; }
+        .fc405 { fill: #b1aeb3; }
+        .fc406 { fill: #9b908c; }
+        .fc407 { fill: #7c6f67; }
+        .fc408 { fill: #7d6e67; }
+        .fc409 { fill: #8c7d76; }
+        .fc410 { fill: #908080; }
+        .fc411 { fill: #796e6c; }
+        .fc412 { fill: #a69d9a; }
+        .fc413 { fill: #807772; }
+        .fc414 { fill: #91897f; }
+        .fc415 { fill: #9d9588; }
+        .fc416 { fill: #827a6f; }
+        .fc417 { fill: #7e766b; }
+        .fc418 { fill: #2f2524; }
+        .fc419 { fill: #2d2322; }
+        .fc420 { fill: #2c201e; }
+        .fc421 { fill: #372d2a; }
+        .fc422 { fill: #3c3129; }
+        .fc423 { fill: #362b23; }
+        .fc424 { fill: #3b2e26; }
+        .fc425 { fill: #352921; }
+        .fc426 { fill: #2f231b; }
+        .fc427 { fill: #3e3127; }
+        .fc428 { fill: #5f383f; }
+        .fc429 { fill: #602434; }
+        .fc430 { fill: #642337; }
+        .fc431 { fill: #6d323c; }
+        .fc432 { fill: #603d3f; }
+        .fc433 { fill: #564740; }
+        .fc434 { fill: #63564e; }
+        .fc435 { fill: #706b65; }
+        .fc436 { fill: #817871; }
+        .fc437 { fill: #8c8885; }
+        .fc438 { fill: #a1a1a3; }
+        .fc439 { fill: #a19ea1; }
+        .fc440 { fill: #736767; }
+        .fc441 { fill: #918382; }
+        .fc442 { fill: #62554d; }
+        .fc443 { fill: #8d8680; }
+        .fc444 { fill: #b8b4b2; }
+        .fc445 { fill: #939185; }
+        .fc446 { fill: #8c847a; }
+        .fc447 { fill: #8a8278; }
+        .fc448 { fill: #847a70; }
+        .fc449 { fill: #83796d; }
+        .fc450 { fill: #80766a; }
+        .fc451 { fill: #7f7569; }
+        .fc452 { fill: #7d7367; }
+        .fc453 { fill: #292323; }
+        .fc454 { fill: #2c2626; }
+        .fc455 { fill: #2e2420; }
+        .fc456 { fill: #41393a; }
+        .fc457 { fill: #8b8b8b; }
+        .fc458 { fill: #888e8c; }
+        .fc459 { fill: #97969b; }
+        .fc460 { fill: #736f6e; }
+        .fc461 { fill: #524944; }
+        .fc462 { fill: #3c2e2b; }
+        .fc463 { fill: #36231b; }
+        .fc464 { fill: #2a1b14; }
+        .fc465 { fill: #221711; }
+        .fc466 { fill: #1c100e; }
+        .fc467 { fill: #463b35; }
+        .fc468 { fill: #60554f; }
+        .fc469 { fill: #5d5351; }
+        .fc470 { fill: #68615f; }
+        .fc471 { fill: #8a8685; }
+        .fc472 { fill: #868485; }
+        .fc473 { fill: #918f90; }
+        .fc474 { fill: #939496; }
+        .fc475 { fill: #9e9fa1; }
+        .fc476 { fill: #aaabb2; }
+        .fc477 { fill: #bec3cb; }
+        .fc478 { fill: #c1c6ce; }
+        .fc479 { fill: #c7cbd0; }
+        .fc480 { fill: #989492; }
+        .fc481 { fill: #8f877d; }
+        .fc482 { fill: #8a8077; }
+        .fc483 { fill: #887e75; }
+        .fc484 { fill: #877d74; }
+        .fc485 { fill: #857c73; }
+        .fc486 { fill: #7f756b; }
+        .fc487 { fill: #7c7268; }
+        .fc488 { fill: #797061; }
+        .fc489 { fill: #3fb950; }
+        .fc490 { fill: #f85149; }
+        .fc491 { fill: #292625; }
+        .fc492 { fill: #6a6464; }
+        .fc493 { fill: #797979; }
+        .fc494 { fill: #a5a5a7; }
+        .fc495 { fill: #acb0b3; }
+        .fc496 { fill: #b6babf; }
+        .fc497 { fill: #bac1c5; }
+        .fc498 { fill: #b0b9be; }
+        .fc499 { fill: #acb0b1; }
+        .fc500 { fill: #7e7473; }
+        .fc501 { fill: #908c8b; }
+        .fc502 { fill: #4c4241; }
+        .fc503 { fill: #231918; }
+        .fc504 { fill: #544e4c; }
+        .fc505 { fill: #706665; }
+        .fc506 { fill: #6b6565; }
+        .fc507 { fill: #6f6f6f; }
+        .fc508 { fill: #868686; }
+        .fc509 { fill: #93969d; }
+        .fc510 { fill: #9da1a5; }
+        .fc511 { fill: #919296; }
+        .fc512 { fill: #7f7d80; }
+        .fc513 { fill: #a19f9c; }
+        .fc514 { fill: #85857d; }
+        .fc515 { fill: #71706c; }
+        .fc516 { fill: #85827d; }
+        .fc517 { fill: #847a78; }
+        .fc518 { fill: #817775; }
+        .fc519 { fill: #7a7066; }
+        .fc520 { fill: #796e5b; }
+        .fc521 { fill: #201d1c; }
+        .fc522 { fill: #292b2c; }
+        .fc523 { fill: #1c181a; }
+        .fc524 { fill: #141012; }
+        .fc525 { fill: #231f21; }
+        .fc526 { fill: #86878b; }
+        .fc527 { fill: #858489; }
+        .fc528 { fill: #a6a5aa; }
+        .fc529 { fill: #b7bcc1; }
+        .fc530 { fill: #c0c5cd; }
+        .fc531 { fill: #c3c8cd; }
+        .fc532 { fill: #c0c6c6; }
+        .fc533 { fill: #c8cdd3; }
+        .fc534 { fill: #c9ccd5; }
+        .fc535 { fill: #c4c9d1; }
+        .fc536 { fill: #c4c7d0; }
+        .fc537 { fill: #b1b1b5; }
+        .fc538 { fill: #818181; }
+        .fc539 { fill: #403a38; }
+        .fc540 { fill: #362a2a; }
+        .fc541 { fill: #3d383a; }
+        .fc542 { fill: #3a3839; }
+        .fc543 { fill: #343233; }
+        .fc544 { fill: #5c5a5b; }
+        .fc545 { fill: #6f6967; }
+        .fc546 { fill: #8c837e; }
+        .fc547 { fill: #887e74; }
+        .fc548 { fill: #796f66; }
+        .fc549 { fill: #736960; }
+        .fc550 { fill: #6a5d57; }
+        .fc551 { fill: #554a44; }
+        .fc552 { fill: #3b302a; }
+        .fc553 { fill: #605f5d; }
+        .fc554 { fill: #5a554d; }
+        .fc555 { fill: #40382c; }
+        .fc556 { fill: #2c2c2c; }
+        .fc557 { fill: #1e1210; }
+        .fc558 { fill: #190d0b; }
+        .fc559 { fill: #150909; }
+        .fc560 { fill: #93969b; }
+        .fc561 { fill: #989ca0; }
+        .fc562 { fill: #a5a7a8; }
+        .fc563 { fill: #7c7179; }
+        .fc564 { fill: #c5cad2; }
+        .fc565 { fill: #c7ccd4; }
+        .fc566 { fill: #c8ced6; }
+        .fc567 { fill: #c2c1c8; }
+        .fc568 { fill: #c5cbcd; }
+        .fc569 { fill: #c3c9cb; }
+        .fc570 { fill: #201e1f; }
+        .fc571 { fill: #3e3c3d; }
+        .fc572 { fill: #65625b; }
+        .fc573 { fill: #756c65; }
+        .fc574 { fill: #81776d; }
+        .fc575 { fill: #827e72; }
+        .fc576 { fill: #868276; }
+        .fc577 { fill: #7f7367; }
+        .fc578 { fill: #82766a; }
+        .fc579 { fill: #7c7064; }
+        .fc580 { fill: #786c60; }
+        .fc581 { fill: #766a5e; }
+        .fc582 { fill: #776b5f; }
+        .fc583 { fill: #706458; }
+        .fc584 { fill: #65594b; }
+        .fc585 { fill: #5d5143; }
     </style>
 <g class="bg">
-<rect x="12ch" y="7em" width="1ch" height="1em" class="bc0"/>
-<rect x="13ch" y="7em" width="1ch" height="1em" class="bc1"/>
-<rect x="14ch" y="7em" width="1ch" height="1em" class="bc2"/>
-<rect x="15ch" y="7em" width="1ch" height="1em" class="bc3"/>
-<rect x="16ch" y="7em" width="1ch" height="1em" class="bc4"/>
-<rect x="23ch" y="7em" width="1ch" height="1em" class="bc5"/>
-<rect x="25ch" y="7em" width="1ch" height="1em" class="bc6"/>
-<rect x="12ch" y="8em" width="1ch" height="1em" class="bc7"/>
-<rect x="13ch" y="8em" width="1ch" height="1em" class="bc8"/>
-<rect x="14ch" y="8em" width="1ch" height="1em" class="bc9"/>
-<rect x="15ch" y="8em" width="1ch" height="1em" class="bc10"/>
-<rect x="16ch" y="8em" width="1ch" height="1em" class="bc11"/>
-<rect x="17ch" y="8em" width="1ch" height="1em" class="bc12"/>
-<rect x="27ch" y="8em" width="1ch" height="1em" class="bc13"/>
-<rect x="28ch" y="8em" width="1ch" height="1em" class="bc14"/>
-<rect x="30ch" y="8em" width="1ch" height="1em" class="bc6"/>
-<rect x="0ch" y="9em" width="3ch" height="1em" class="bc15"/>
-<rect x="12ch" y="9em" width="1ch" height="1em" class="bc16"/>
-<rect x="13ch" y="9em" width="1ch" height="1em" class="bc17"/>
-<rect x="14ch" y="9em" width="1ch" height="1em" class="bc18"/>
-<rect x="15ch" y="9em" width="1ch" height="1em" class="bc19"/>
-<rect x="16ch" y="9em" width="1ch" height="1em" class="bc20"/>
-<rect x="17ch" y="9em" width="1ch" height="1em" class="bc21"/>
-<rect x="18ch" y="9em" width="1ch" height="1em" class="bc22"/>
-<rect x="19ch" y="9em" width="1ch" height="1em" class="bc23"/>
-<rect x="21ch" y="9em" width="1ch" height="1em" class="bc24"/>
-<rect x="22ch" y="9em" width="1ch" height="1em" class="bc25"/>
-<rect x="23ch" y="9em" width="1ch" height="1em" class="bc26"/>
-<rect x="24ch" y="9em" width="1ch" height="1em" class="bc27"/>
-<rect x="25ch" y="9em" width="1ch" height="1em" class="bc28"/>
-<rect x="26ch" y="9em" width="1ch" height="1em" class="bc12"/>
-<rect x="29ch" y="9em" width="1ch" height="1em" class="bc29"/>
-<rect x="30ch" y="9em" width="1ch" height="1em" class="bc30"/>
-<rect x="31ch" y="9em" width="1ch" height="1em" class="bc15"/>
-<rect x="32ch" y="9em" width="1ch" height="1em" class="bc31"/>
-<rect x="0ch" y="10em" width="1ch" height="1em" class="bc32"/>
+<rect x="0ch" y="7em" width="1ch" height="1em" class="bc0"/>
+<rect x="1ch" y="7em" width="1ch" height="1em" class="bc1"/>
+<rect x="2ch" y="7em" width="1ch" height="1em" class="bc2"/>
+<rect x="3ch" y="7em" width="1ch" height="1em" class="bc3"/>
+<rect x="4ch" y="7em" width="1ch" height="1em" class="bc4"/>
+<rect x="5ch" y="7em" width="1ch" height="1em" class="bc5"/>
+<rect x="6ch" y="7em" width="1ch" height="1em" class="bc6"/>
+<rect x="7ch" y="7em" width="1ch" height="1em" class="bc7"/>
+<rect x="8ch" y="7em" width="1ch" height="1em" class="bc8"/>
+<rect x="9ch" y="7em" width="2ch" height="1em" class="bc9"/>
+<rect x="11ch" y="7em" width="1ch" height="1em" class="bc10"/>
+<rect x="12ch" y="7em" width="1ch" height="1em" class="bc11"/>
+<rect x="13ch" y="7em" width="1ch" height="1em" class="bc12"/>
+<rect x="14ch" y="7em" width="2ch" height="1em" class="bc13"/>
+<rect x="16ch" y="7em" width="1ch" height="1em" class="bc14"/>
+<rect x="17ch" y="7em" width="1ch" height="1em" class="bc15"/>
+<rect x="18ch" y="7em" width="1ch" height="1em" class="bc16"/>
+<rect x="19ch" y="7em" width="1ch" height="1em" class="bc17"/>
+<rect x="20ch" y="7em" width="1ch" height="1em" class="bc18"/>
+<rect x="21ch" y="7em" width="1ch" height="1em" class="bc19"/>
+<rect x="22ch" y="7em" width="1ch" height="1em" class="bc16"/>
+<rect x="23ch" y="7em" width="2ch" height="1em" class="bc19"/>
+<rect x="25ch" y="7em" width="1ch" height="1em" class="bc20"/>
+<rect x="26ch" y="7em" width="1ch" height="1em" class="bc21"/>
+<rect x="27ch" y="7em" width="1ch" height="1em" class="bc22"/>
+<rect x="28ch" y="7em" width="1ch" height="1em" class="bc23"/>
+<rect x="29ch" y="7em" width="1ch" height="1em" class="bc24"/>
+<rect x="30ch" y="7em" width="1ch" height="1em" class="bc25"/>
+<rect x="31ch" y="7em" width="1ch" height="1em" class="bc26"/>
+<rect x="32ch" y="7em" width="1ch" height="1em" class="bc27"/>
+<rect x="33ch" y="7em" width="1ch" height="1em" class="bc28"/>
+<rect x="34ch" y="7em" width="1ch" height="1em" class="bc29"/>
+<rect x="35ch" y="7em" width="1ch" height="1em" class="bc30"/>
+<rect x="0ch" y="8em" width="1ch" height="1em" class="bc31"/>
+<rect x="1ch" y="8em" width="1ch" height="1em" class="bc32"/>
+<rect x="2ch" y="8em" width="1ch" height="1em" class="bc2"/>
+<rect x="3ch" y="8em" width="1ch" height="1em" class="bc33"/>
+<rect x="4ch" y="8em" width="2ch" height="1em" class="bc5"/>
+<rect x="6ch" y="8em" width="1ch" height="1em" class="bc6"/>
+<rect x="7ch" y="8em" width="1ch" height="1em" class="bc34"/>
+<rect x="8ch" y="8em" width="1ch" height="1em" class="bc35"/>
+<rect x="9ch" y="8em" width="1ch" height="1em" class="bc36"/>
+<rect x="10ch" y="8em" width="1ch" height="1em" class="bc37"/>
+<rect x="11ch" y="8em" width="1ch" height="1em" class="bc38"/>
+<rect x="12ch" y="8em" width="1ch" height="1em" class="bc39"/>
+<rect x="13ch" y="8em" width="1ch" height="1em" class="bc40"/>
+<rect x="14ch" y="8em" width="1ch" height="1em" class="bc41"/>
+<rect x="15ch" y="8em" width="1ch" height="1em" class="bc42"/>
+<rect x="16ch" y="8em" width="1ch" height="1em" class="bc43"/>
+<rect x="17ch" y="8em" width="1ch" height="1em" class="bc44"/>
+<rect x="18ch" y="8em" width="1ch" height="1em" class="bc45"/>
+<rect x="19ch" y="8em" width="1ch" height="1em" class="bc46"/>
+<rect x="20ch" y="8em" width="1ch" height="1em" class="bc47"/>
+<rect x="21ch" y="8em" width="2ch" height="1em" class="bc48"/>
+<rect x="23ch" y="8em" width="1ch" height="1em" class="bc49"/>
+<rect x="24ch" y="8em" width="1ch" height="1em" class="bc50"/>
+<rect x="25ch" y="8em" width="1ch" height="1em" class="bc51"/>
+<rect x="26ch" y="8em" width="1ch" height="1em" class="bc52"/>
+<rect x="27ch" y="8em" width="1ch" height="1em" class="bc53"/>
+<rect x="28ch" y="8em" width="1ch" height="1em" class="bc54"/>
+<rect x="29ch" y="8em" width="1ch" height="1em" class="bc55"/>
+<rect x="30ch" y="8em" width="1ch" height="1em" class="bc56"/>
+<rect x="31ch" y="8em" width="1ch" height="1em" class="bc57"/>
+<rect x="32ch" y="8em" width="1ch" height="1em" class="bc58"/>
+<rect x="33ch" y="8em" width="1ch" height="1em" class="bc59"/>
+<rect x="34ch" y="8em" width="1ch" height="1em" class="bc60"/>
+<rect x="35ch" y="8em" width="1ch" height="1em" class="bc61"/>
+<rect x="0ch" y="9em" width="1ch" height="1em" class="bc62"/>
+<rect x="1ch" y="9em" width="1ch" height="1em" class="bc63"/>
+<rect x="2ch" y="9em" width="1ch" height="1em" class="bc64"/>
+<rect x="3ch" y="9em" width="1ch" height="1em" class="bc65"/>
+<rect x="4ch" y="9em" width="2ch" height="1em" class="bc66"/>
+<rect x="6ch" y="9em" width="1ch" height="1em" class="bc67"/>
+<rect x="7ch" y="9em" width="1ch" height="1em" class="bc68"/>
+<rect x="8ch" y="9em" width="1ch" height="1em" class="bc69"/>
+<rect x="9ch" y="9em" width="1ch" height="1em" class="bc70"/>
+<rect x="10ch" y="9em" width="1ch" height="1em" class="bc71"/>
+<rect x="11ch" y="9em" width="1ch" height="1em" class="bc72"/>
+<rect x="12ch" y="9em" width="1ch" height="1em" class="bc73"/>
+<rect x="13ch" y="9em" width="1ch" height="1em" class="bc74"/>
+<rect x="14ch" y="9em" width="1ch" height="1em" class="bc75"/>
+<rect x="15ch" y="9em" width="1ch" height="1em" class="bc76"/>
+<rect x="16ch" y="9em" width="1ch" height="1em" class="bc77"/>
+<rect x="17ch" y="9em" width="1ch" height="1em" class="bc78"/>
+<rect x="18ch" y="9em" width="1ch" height="1em" class="bc79"/>
+<rect x="19ch" y="9em" width="1ch" height="1em" class="bc80"/>
+<rect x="20ch" y="9em" width="1ch" height="1em" class="bc81"/>
+<rect x="21ch" y="9em" width="1ch" height="1em" class="bc82"/>
+<rect x="22ch" y="9em" width="1ch" height="1em" class="bc83"/>
+<rect x="23ch" y="9em" width="1ch" height="1em" class="bc84"/>
+<rect x="24ch" y="9em" width="1ch" height="1em" class="bc85"/>
+<rect x="25ch" y="9em" width="1ch" height="1em" class="bc86"/>
+<rect x="26ch" y="9em" width="1ch" height="1em" class="bc87"/>
+<rect x="27ch" y="9em" width="1ch" height="1em" class="bc88"/>
+<rect x="28ch" y="9em" width="1ch" height="1em" class="bc89"/>
+<rect x="29ch" y="9em" width="2ch" height="1em" class="bc90"/>
+<rect x="31ch" y="9em" width="1ch" height="1em" class="bc91"/>
+<rect x="32ch" y="9em" width="1ch" height="1em" class="bc23"/>
+<rect x="33ch" y="9em" width="1ch" height="1em" class="bc92"/>
+<rect x="34ch" y="9em" width="1ch" height="1em" class="bc93"/>
+<rect x="35ch" y="9em" width="1ch" height="1em" class="bc94"/>
+<rect x="0ch" y="10em" width="1ch" height="1em" class="bc3"/>
 <rect x="1ch" y="10em" width="1ch" height="1em" class="bc33"/>
-<rect x="2ch" y="10em" width="1ch" height="1em" class="bc34"/>
-<rect x="3ch" y="10em" width="1ch" height="1em" class="bc35"/>
-<rect x="4ch" y="10em" width="1ch" height="1em" class="bc15"/>
-<rect x="5ch" y="10em" width="1ch" height="1em" class="bc36"/>
-<rect x="6ch" y="10em" width="1ch" height="1em" class="bc37"/>
-<rect x="7ch" y="10em" width="1ch" height="1em" class="bc38"/>
-<rect x="8ch" y="10em" width="1ch" height="1em" class="bc27"/>
-<rect x="9ch" y="10em" width="1ch" height="1em" class="bc39"/>
-<rect x="11ch" y="10em" width="1ch" height="1em" class="bc40"/>
-<rect x="12ch" y="10em" width="1ch" height="1em" class="bc41"/>
-<rect x="13ch" y="10em" width="1ch" height="1em" class="bc42"/>
-<rect x="14ch" y="10em" width="1ch" height="1em" class="bc43"/>
-<rect x="15ch" y="10em" width="1ch" height="1em" class="bc44"/>
-<rect x="16ch" y="10em" width="1ch" height="1em" class="bc45"/>
-<rect x="17ch" y="10em" width="1ch" height="1em" class="bc46"/>
-<rect x="18ch" y="10em" width="1ch" height="1em" class="bc47"/>
-<rect x="19ch" y="10em" width="1ch" height="1em" class="bc48"/>
-<rect x="20ch" y="10em" width="1ch" height="1em" class="bc49"/>
-<rect x="21ch" y="10em" width="1ch" height="1em" class="bc50"/>
-<rect x="22ch" y="10em" width="1ch" height="1em" class="bc51"/>
-<rect x="23ch" y="10em" width="1ch" height="1em" class="bc52"/>
-<rect x="24ch" y="10em" width="1ch" height="1em" class="bc53"/>
-<rect x="25ch" y="10em" width="1ch" height="1em" class="bc54"/>
-<rect x="26ch" y="10em" width="1ch" height="1em" class="bc55"/>
-<rect x="27ch" y="10em" width="1ch" height="1em" class="bc33"/>
-<rect x="28ch" y="10em" width="1ch" height="1em" class="bc4"/>
-<rect x="29ch" y="10em" width="1ch" height="1em" class="bc56"/>
-<rect x="30ch" y="10em" width="1ch" height="1em" class="bc57"/>
-<rect x="31ch" y="10em" width="1ch" height="1em" class="bc58"/>
-<rect x="32ch" y="10em" width="1ch" height="1em" class="bc59"/>
-<rect x="33ch" y="10em" width="1ch" height="1em" class="bc60"/>
-<rect x="0ch" y="11em" width="1ch" height="1em" class="bc61"/>
-<rect x="1ch" y="11em" width="1ch" height="1em" class="bc62"/>
-<rect x="2ch" y="11em" width="1ch" height="1em" class="bc38"/>
-<rect x="3ch" y="11em" width="1ch" height="1em" class="bc63"/>
-<rect x="4ch" y="11em" width="1ch" height="1em" class="bc64"/>
-<rect x="5ch" y="11em" width="1ch" height="1em" class="bc65"/>
-<rect x="6ch" y="11em" width="1ch" height="1em" class="bc66"/>
-<rect x="7ch" y="11em" width="1ch" height="1em" class="bc41"/>
-<rect x="8ch" y="11em" width="1ch" height="1em" class="bc67"/>
-<rect x="9ch" y="11em" width="1ch" height="1em" class="bc68"/>
-<rect x="10ch" y="11em" width="1ch" height="1em" class="bc69"/>
-<rect x="11ch" y="11em" width="1ch" height="1em" class="bc70"/>
-<rect x="12ch" y="11em" width="1ch" height="1em" class="bc71"/>
-<rect x="13ch" y="11em" width="1ch" height="1em" class="bc72"/>
-<rect x="14ch" y="11em" width="1ch" height="1em" class="bc73"/>
-<rect x="15ch" y="11em" width="1ch" height="1em" class="bc74"/>
-<rect x="16ch" y="11em" width="1ch" height="1em" class="bc75"/>
-<rect x="17ch" y="11em" width="1ch" height="1em" class="bc76"/>
-<rect x="18ch" y="11em" width="1ch" height="1em" class="bc77"/>
-<rect x="19ch" y="11em" width="1ch" height="1em" class="bc78"/>
-<rect x="20ch" y="11em" width="1ch" height="1em" class="bc79"/>
-<rect x="21ch" y="11em" width="1ch" height="1em" class="bc80"/>
-<rect x="22ch" y="11em" width="1ch" height="1em" class="bc81"/>
-<rect x="23ch" y="11em" width="1ch" height="1em" class="bc82"/>
-<rect x="24ch" y="11em" width="1ch" height="1em" class="bc83"/>
-<rect x="25ch" y="11em" width="1ch" height="1em" class="bc84"/>
-<rect x="26ch" y="11em" width="1ch" height="1em" class="bc85"/>
-<rect x="27ch" y="11em" width="1ch" height="1em" class="bc86"/>
-<rect x="28ch" y="11em" width="1ch" height="1em" class="bc87"/>
-<rect x="29ch" y="11em" width="1ch" height="1em" class="bc88"/>
-<rect x="30ch" y="11em" width="1ch" height="1em" class="bc89"/>
-<rect x="31ch" y="11em" width="1ch" height="1em" class="bc90"/>
-<rect x="32ch" y="11em" width="1ch" height="1em" class="bc91"/>
-<rect x="33ch" y="11em" width="1ch" height="1em" class="bc92"/>
-<rect x="34ch" y="11em" width="1ch" height="1em" class="bc13"/>
-<rect x="6ch" y="12em" width="1ch" height="1em" class="bc33"/>
-<rect x="7ch" y="12em" width="1ch" height="1em" class="bc93"/>
-<rect x="8ch" y="12em" width="1ch" height="1em" class="bc94"/>
-<rect x="9ch" y="12em" width="1ch" height="1em" class="bc95"/>
-<rect x="10ch" y="12em" width="1ch" height="1em" class="bc96"/>
-<rect x="11ch" y="12em" width="1ch" height="1em" class="bc97"/>
-<rect x="12ch" y="12em" width="1ch" height="1em" class="bc98"/>
-<rect x="13ch" y="12em" width="1ch" height="1em" class="bc99"/>
-<rect x="14ch" y="12em" width="1ch" height="1em" class="bc100"/>
-<rect x="15ch" y="12em" width="1ch" height="1em" class="bc101"/>
-<rect x="16ch" y="12em" width="1ch" height="1em" class="bc102"/>
-<rect x="17ch" y="12em" width="1ch" height="1em" class="bc103"/>
-<rect x="18ch" y="12em" width="1ch" height="1em" class="bc104"/>
-<rect x="19ch" y="12em" width="1ch" height="1em" class="bc105"/>
-<rect x="20ch" y="12em" width="1ch" height="1em" class="bc106"/>
-<rect x="21ch" y="12em" width="1ch" height="1em" class="bc107"/>
-<rect x="22ch" y="12em" width="1ch" height="1em" class="bc108"/>
-<rect x="23ch" y="12em" width="1ch" height="1em" class="bc109"/>
-<rect x="24ch" y="12em" width="1ch" height="1em" class="bc110"/>
-<rect x="25ch" y="12em" width="1ch" height="1em" class="bc111"/>
-<rect x="26ch" y="12em" width="1ch" height="1em" class="bc112"/>
-<rect x="27ch" y="12em" width="1ch" height="1em" class="bc113"/>
-<rect x="28ch" y="12em" width="1ch" height="1em" class="bc114"/>
-<rect x="29ch" y="12em" width="1ch" height="1em" class="bc115"/>
-<rect x="30ch" y="12em" width="1ch" height="1em" class="bc116"/>
-<rect x="31ch" y="12em" width="1ch" height="1em" class="bc117"/>
-<rect x="32ch" y="12em" width="1ch" height="1em" class="bc118"/>
-<rect x="33ch" y="12em" width="1ch" height="1em" class="bc119"/>
-<rect x="34ch" y="12em" width="1ch" height="1em" class="bc33"/>
-<rect x="6ch" y="13em" width="1ch" height="1em" class="bc120"/>
-<rect x="7ch" y="13em" width="1ch" height="1em" class="bc38"/>
-<rect x="8ch" y="13em" width="1ch" height="1em" class="bc121"/>
-<rect x="9ch" y="13em" width="1ch" height="1em" class="bc122"/>
-<rect x="10ch" y="13em" width="1ch" height="1em" class="bc123"/>
-<rect x="11ch" y="13em" width="1ch" height="1em" class="bc124"/>
-<rect x="12ch" y="13em" width="1ch" height="1em" class="bc125"/>
-<rect x="13ch" y="13em" width="1ch" height="1em" class="bc126"/>
-<rect x="14ch" y="13em" width="1ch" height="1em" class="bc127"/>
-<rect x="15ch" y="13em" width="1ch" height="1em" class="bc128"/>
-<rect x="16ch" y="13em" width="1ch" height="1em" class="bc129"/>
-<rect x="17ch" y="13em" width="1ch" height="1em" class="bc130"/>
-<rect x="18ch" y="13em" width="1ch" height="1em" class="bc131"/>
-<rect x="19ch" y="13em" width="1ch" height="1em" class="bc132"/>
-<rect x="20ch" y="13em" width="1ch" height="1em" class="bc133"/>
-<rect x="21ch" y="13em" width="1ch" height="1em" class="bc134"/>
-<rect x="22ch" y="13em" width="1ch" height="1em" class="bc135"/>
-<rect x="23ch" y="13em" width="1ch" height="1em" class="bc136"/>
-<rect x="24ch" y="13em" width="1ch" height="1em" class="bc137"/>
-<rect x="25ch" y="13em" width="1ch" height="1em" class="bc138"/>
-<rect x="26ch" y="13em" width="1ch" height="1em" class="bc139"/>
-<rect x="27ch" y="13em" width="1ch" height="1em" class="bc140"/>
-<rect x="28ch" y="13em" width="1ch" height="1em" class="bc141"/>
-<rect x="29ch" y="13em" width="1ch" height="1em" class="bc142"/>
-<rect x="30ch" y="13em" width="1ch" height="1em" class="bc143"/>
-<rect x="31ch" y="13em" width="1ch" height="1em" class="bc144"/>
-<rect x="32ch" y="13em" width="1ch" height="1em" class="bc145"/>
-<rect x="33ch" y="13em" width="1ch" height="1em" class="bc38"/>
-<rect x="0ch" y="14em" width="1ch" height="1em" class="bc32"/>
-<rect x="1ch" y="14em" width="2ch" height="1em" class="bc64"/>
-<rect x="3ch" y="14em" width="1ch" height="1em" class="bc146"/>
-<rect x="4ch" y="14em" width="1ch" height="1em" class="bc147"/>
-<rect x="5ch" y="14em" width="1ch" height="1em" class="bc64"/>
-<rect x="6ch" y="14em" width="1ch" height="1em" class="bc148"/>
-<rect x="7ch" y="14em" width="1ch" height="1em" class="bc1"/>
-<rect x="8ch" y="14em" width="1ch" height="1em" class="bc149"/>
-<rect x="9ch" y="14em" width="1ch" height="1em" class="bc150"/>
-<rect x="10ch" y="14em" width="1ch" height="1em" class="bc151"/>
-<rect x="11ch" y="14em" width="1ch" height="1em" class="bc152"/>
-<rect x="12ch" y="14em" width="1ch" height="1em" class="bc153"/>
-<rect x="13ch" y="14em" width="1ch" height="1em" class="bc154"/>
-<rect x="14ch" y="14em" width="1ch" height="1em" class="bc155"/>
-<rect x="15ch" y="14em" width="1ch" height="1em" class="bc156"/>
-<rect x="16ch" y="14em" width="1ch" height="1em" class="bc157"/>
-<rect x="17ch" y="14em" width="1ch" height="1em" class="bc158"/>
-<rect x="18ch" y="14em" width="1ch" height="1em" class="bc159"/>
-<rect x="19ch" y="14em" width="1ch" height="1em" class="bc160"/>
-<rect x="20ch" y="14em" width="1ch" height="1em" class="bc161"/>
-<rect x="21ch" y="14em" width="1ch" height="1em" class="bc162"/>
-<rect x="22ch" y="14em" width="1ch" height="1em" class="bc163"/>
-<rect x="23ch" y="14em" width="1ch" height="1em" class="bc164"/>
-<rect x="24ch" y="14em" width="1ch" height="1em" class="bc165"/>
-<rect x="25ch" y="14em" width="1ch" height="1em" class="bc166"/>
-<rect x="26ch" y="14em" width="1ch" height="1em" class="bc167"/>
-<rect x="27ch" y="14em" width="1ch" height="1em" class="bc168"/>
-<rect x="28ch" y="14em" width="1ch" height="1em" class="bc169"/>
-<rect x="29ch" y="14em" width="1ch" height="1em" class="bc170"/>
-<rect x="30ch" y="14em" width="1ch" height="1em" class="bc171"/>
-<rect x="31ch" y="14em" width="1ch" height="1em" class="bc172"/>
-<rect x="32ch" y="14em" width="1ch" height="1em" class="bc173"/>
-<rect x="33ch" y="14em" width="1ch" height="1em" class="bc174"/>
-<rect x="34ch" y="14em" width="1ch" height="1em" class="bc175"/>
-<rect x="35ch" y="14em" width="1ch" height="1em" class="bc176"/>
-<rect x="0ch" y="15em" width="1ch" height="1em" class="bc177"/>
-<rect x="1ch" y="15em" width="1ch" height="1em" class="bc178"/>
-<rect x="2ch" y="15em" width="1ch" height="1em" class="bc179"/>
-<rect x="3ch" y="15em" width="1ch" height="1em" class="bc180"/>
-<rect x="4ch" y="15em" width="1ch" height="1em" class="bc181"/>
-<rect x="5ch" y="15em" width="1ch" height="1em" class="bc182"/>
-<rect x="6ch" y="15em" width="1ch" height="1em" class="bc183"/>
-<rect x="7ch" y="15em" width="1ch" height="1em" class="bc184"/>
-<rect x="8ch" y="15em" width="1ch" height="1em" class="bc185"/>
-<rect x="9ch" y="15em" width="1ch" height="1em" class="bc186"/>
-<rect x="10ch" y="15em" width="1ch" height="1em" class="bc187"/>
-<rect x="11ch" y="15em" width="1ch" height="1em" class="bc188"/>
-<rect x="12ch" y="15em" width="1ch" height="1em" class="bc189"/>
-<rect x="13ch" y="15em" width="1ch" height="1em" class="bc190"/>
-<rect x="14ch" y="15em" width="1ch" height="1em" class="bc191"/>
-<rect x="15ch" y="15em" width="1ch" height="1em" class="bc192"/>
-<rect x="16ch" y="15em" width="1ch" height="1em" class="bc193"/>
-<rect x="17ch" y="15em" width="1ch" height="1em" class="bc194"/>
-<rect x="18ch" y="15em" width="1ch" height="1em" class="bc195"/>
-<rect x="19ch" y="15em" width="1ch" height="1em" class="bc196"/>
-<rect x="20ch" y="15em" width="1ch" height="1em" class="bc197"/>
-<rect x="21ch" y="15em" width="1ch" height="1em" class="bc198"/>
-<rect x="22ch" y="15em" width="1ch" height="1em" class="bc199"/>
-<rect x="23ch" y="15em" width="1ch" height="1em" class="bc200"/>
-<rect x="24ch" y="15em" width="1ch" height="1em" class="bc201"/>
-<rect x="25ch" y="15em" width="1ch" height="1em" class="bc202"/>
-<rect x="26ch" y="15em" width="1ch" height="1em" class="bc203"/>
-<rect x="27ch" y="15em" width="1ch" height="1em" class="bc204"/>
-<rect x="28ch" y="15em" width="1ch" height="1em" class="bc205"/>
-<rect x="29ch" y="15em" width="1ch" height="1em" class="bc206"/>
-<rect x="30ch" y="15em" width="1ch" height="1em" class="bc207"/>
-<rect x="31ch" y="15em" width="1ch" height="1em" class="bc208"/>
-<rect x="32ch" y="15em" width="1ch" height="1em" class="bc209"/>
-<rect x="33ch" y="15em" width="1ch" height="1em" class="bc210"/>
-<rect x="34ch" y="15em" width="1ch" height="1em" class="bc211"/>
-<rect x="35ch" y="15em" width="1ch" height="1em" class="bc212"/>
-<rect x="0ch" y="16em" width="1ch" height="1em" class="bc213"/>
-<rect x="1ch" y="16em" width="1ch" height="1em" class="bc214"/>
-<rect x="2ch" y="16em" width="1ch" height="1em" class="bc215"/>
-<rect x="3ch" y="16em" width="1ch" height="1em" class="bc216"/>
-<rect x="4ch" y="16em" width="1ch" height="1em" class="bc217"/>
-<rect x="5ch" y="16em" width="1ch" height="1em" class="bc218"/>
-<rect x="6ch" y="16em" width="1ch" height="1em" class="bc219"/>
-<rect x="7ch" y="16em" width="1ch" height="1em" class="bc220"/>
-<rect x="8ch" y="16em" width="1ch" height="1em" class="bc221"/>
-<rect x="9ch" y="16em" width="1ch" height="1em" class="bc222"/>
-<rect x="10ch" y="16em" width="1ch" height="1em" class="bc223"/>
-<rect x="11ch" y="16em" width="1ch" height="1em" class="bc224"/>
-<rect x="12ch" y="16em" width="1ch" height="1em" class="bc225"/>
-<rect x="13ch" y="16em" width="1ch" height="1em" class="bc226"/>
-<rect x="14ch" y="16em" width="1ch" height="1em" class="bc227"/>
-<rect x="15ch" y="16em" width="1ch" height="1em" class="bc228"/>
-<rect x="16ch" y="16em" width="1ch" height="1em" class="bc229"/>
-<rect x="17ch" y="16em" width="1ch" height="1em" class="bc230"/>
-<rect x="18ch" y="16em" width="1ch" height="1em" class="bc231"/>
-<rect x="19ch" y="16em" width="1ch" height="1em" class="bc232"/>
-<rect x="20ch" y="16em" width="1ch" height="1em" class="bc233"/>
-<rect x="21ch" y="16em" width="1ch" height="1em" class="bc234"/>
-<rect x="22ch" y="16em" width="1ch" height="1em" class="bc235"/>
-<rect x="23ch" y="16em" width="1ch" height="1em" class="bc236"/>
-<rect x="24ch" y="16em" width="1ch" height="1em" class="bc237"/>
-<rect x="25ch" y="16em" width="1ch" height="1em" class="bc238"/>
-<rect x="26ch" y="16em" width="1ch" height="1em" class="bc239"/>
-<rect x="27ch" y="16em" width="1ch" height="1em" class="bc240"/>
-<rect x="28ch" y="16em" width="1ch" height="1em" class="bc241"/>
-<rect x="29ch" y="16em" width="1ch" height="1em" class="bc242"/>
-<rect x="30ch" y="16em" width="1ch" height="1em" class="bc243"/>
-<rect x="31ch" y="16em" width="1ch" height="1em" class="bc244"/>
-<rect x="32ch" y="16em" width="1ch" height="1em" class="bc245"/>
-<rect x="33ch" y="16em" width="1ch" height="1em" class="bc246"/>
-<rect x="34ch" y="16em" width="1ch" height="1em" class="bc247"/>
-<rect x="35ch" y="16em" width="1ch" height="1em" class="bc248"/>
-<rect x="3ch" y="17em" width="1ch" height="1em" class="bc249"/>
-<rect x="4ch" y="17em" width="1ch" height="1em" class="bc250"/>
-<rect x="5ch" y="17em" width="1ch" height="1em" class="bc251"/>
-<rect x="6ch" y="17em" width="1ch" height="1em" class="bc252"/>
-<rect x="7ch" y="17em" width="1ch" height="1em" class="bc253"/>
-<rect x="8ch" y="17em" width="1ch" height="1em" class="bc254"/>
-<rect x="9ch" y="17em" width="1ch" height="1em" class="bc255"/>
-<rect x="10ch" y="17em" width="1ch" height="1em" class="bc256"/>
-<rect x="11ch" y="17em" width="1ch" height="1em" class="bc257"/>
-<rect x="12ch" y="17em" width="1ch" height="1em" class="bc258"/>
-<rect x="13ch" y="17em" width="1ch" height="1em" class="bc259"/>
-<rect x="14ch" y="17em" width="1ch" height="1em" class="bc260"/>
-<rect x="15ch" y="17em" width="1ch" height="1em" class="bc261"/>
-<rect x="16ch" y="17em" width="1ch" height="1em" class="bc262"/>
-<rect x="17ch" y="17em" width="1ch" height="1em" class="bc263"/>
-<rect x="18ch" y="17em" width="1ch" height="1em" class="bc264"/>
-<rect x="19ch" y="17em" width="1ch" height="1em" class="bc265"/>
-<rect x="20ch" y="17em" width="1ch" height="1em" class="bc266"/>
-<rect x="21ch" y="17em" width="1ch" height="1em" class="bc267"/>
-<rect x="22ch" y="17em" width="1ch" height="1em" class="bc268"/>
-<rect x="23ch" y="17em" width="1ch" height="1em" class="bc269"/>
-<rect x="24ch" y="17em" width="1ch" height="1em" class="bc270"/>
-<rect x="25ch" y="17em" width="1ch" height="1em" class="bc271"/>
-<rect x="26ch" y="17em" width="1ch" height="1em" class="bc272"/>
-<rect x="27ch" y="17em" width="1ch" height="1em" class="bc273"/>
-<rect x="28ch" y="17em" width="1ch" height="1em" class="bc274"/>
-<rect x="29ch" y="17em" width="1ch" height="1em" class="bc275"/>
-<rect x="30ch" y="17em" width="1ch" height="1em" class="bc276"/>
-<rect x="31ch" y="17em" width="1ch" height="1em" class="bc277"/>
-<rect x="32ch" y="17em" width="1ch" height="1em" class="bc278"/>
-<rect x="33ch" y="17em" width="1ch" height="1em" class="bc279"/>
-<rect x="34ch" y="17em" width="1ch" height="1em" class="bc280"/>
-<rect x="35ch" y="17em" width="1ch" height="1em" class="bc281"/>
-<rect x="3ch" y="18em" width="1ch" height="1em" class="bc33"/>
-<rect x="4ch" y="18em" width="1ch" height="1em" class="bc62"/>
-<rect x="5ch" y="18em" width="1ch" height="1em" class="bc147"/>
-<rect x="6ch" y="18em" width="1ch" height="1em" class="bc282"/>
-<rect x="7ch" y="18em" width="1ch" height="1em" class="bc147"/>
-<rect x="8ch" y="18em" width="1ch" height="1em" class="bc283"/>
-<rect x="9ch" y="18em" width="1ch" height="1em" class="bc284"/>
-<rect x="10ch" y="18em" width="1ch" height="1em" class="bc285"/>
-<rect x="11ch" y="18em" width="1ch" height="1em" class="bc286"/>
-<rect x="12ch" y="18em" width="1ch" height="1em" class="bc287"/>
-<rect x="13ch" y="18em" width="1ch" height="1em" class="bc288"/>
-<rect x="14ch" y="18em" width="2ch" height="1em" class="bc289"/>
-<rect x="16ch" y="18em" width="1ch" height="1em" class="bc290"/>
-<rect x="17ch" y="18em" width="1ch" height="1em" class="bc291"/>
-<rect x="18ch" y="18em" width="1ch" height="1em" class="bc292"/>
-<rect x="19ch" y="18em" width="1ch" height="1em" class="bc293"/>
-<rect x="20ch" y="18em" width="1ch" height="1em" class="bc294"/>
-<rect x="21ch" y="18em" width="1ch" height="1em" class="bc295"/>
-<rect x="22ch" y="18em" width="1ch" height="1em" class="bc296"/>
-<rect x="23ch" y="18em" width="1ch" height="1em" class="bc297"/>
-<rect x="24ch" y="18em" width="1ch" height="1em" class="bc298"/>
-<rect x="25ch" y="18em" width="1ch" height="1em" class="bc299"/>
-<rect x="26ch" y="18em" width="1ch" height="1em" class="bc300"/>
-<rect x="27ch" y="18em" width="1ch" height="1em" class="bc301"/>
-<rect x="28ch" y="18em" width="1ch" height="1em" class="bc302"/>
-<rect x="29ch" y="18em" width="1ch" height="1em" class="bc303"/>
-<rect x="30ch" y="18em" width="1ch" height="1em" class="bc304"/>
-<rect x="31ch" y="18em" width="1ch" height="1em" class="bc305"/>
-<rect x="32ch" y="18em" width="1ch" height="1em" class="bc306"/>
-<rect x="33ch" y="18em" width="1ch" height="1em" class="bc307"/>
-<rect x="34ch" y="18em" width="1ch" height="1em" class="bc308"/>
-<rect x="35ch" y="18em" width="1ch" height="1em" class="bc309"/>
-<rect x="10ch" y="19em" width="1ch" height="1em" class="bc13"/>
-<rect x="11ch" y="19em" width="1ch" height="1em" class="bc12"/>
-<rect x="12ch" y="19em" width="1ch" height="1em" class="bc310"/>
-<rect x="13ch" y="19em" width="1ch" height="1em" class="bc311"/>
-<rect x="14ch" y="19em" width="1ch" height="1em" class="bc312"/>
-<rect x="15ch" y="19em" width="1ch" height="1em" class="bc313"/>
-<rect x="16ch" y="19em" width="1ch" height="1em" class="bc314"/>
-<rect x="17ch" y="19em" width="1ch" height="1em" class="bc315"/>
-<rect x="18ch" y="19em" width="1ch" height="1em" class="bc316"/>
-<rect x="19ch" y="19em" width="1ch" height="1em" class="bc317"/>
-<rect x="20ch" y="19em" width="1ch" height="1em" class="bc318"/>
-<rect x="21ch" y="19em" width="1ch" height="1em" class="bc319"/>
-<rect x="22ch" y="19em" width="1ch" height="1em" class="bc320"/>
-<rect x="23ch" y="19em" width="1ch" height="1em" class="bc321"/>
-<rect x="24ch" y="19em" width="1ch" height="1em" class="bc322"/>
-<rect x="25ch" y="19em" width="1ch" height="1em" class="bc323"/>
-<rect x="26ch" y="19em" width="1ch" height="1em" class="bc324"/>
-<rect x="27ch" y="19em" width="1ch" height="1em" class="bc325"/>
-<rect x="28ch" y="19em" width="1ch" height="1em" class="bc326"/>
-<rect x="29ch" y="19em" width="1ch" height="1em" class="bc327"/>
-<rect x="30ch" y="19em" width="1ch" height="1em" class="bc328"/>
-<rect x="31ch" y="19em" width="1ch" height="1em" class="bc329"/>
-<rect x="32ch" y="19em" width="1ch" height="1em" class="bc330"/>
-<rect x="33ch" y="19em" width="1ch" height="1em" class="bc331"/>
-<rect x="34ch" y="19em" width="1ch" height="1em" class="bc332"/>
-<rect x="35ch" y="19em" width="1ch" height="1em" class="bc333"/>
-<rect x="12ch" y="20em" width="1ch" height="1em" class="bc334"/>
-<rect x="13ch" y="20em" width="1ch" height="1em" class="bc335"/>
-<rect x="14ch" y="20em" width="1ch" height="1em" class="bc336"/>
-<rect x="15ch" y="20em" width="1ch" height="1em" class="bc337"/>
-<rect x="16ch" y="20em" width="1ch" height="1em" class="bc338"/>
-<rect x="17ch" y="20em" width="1ch" height="1em" class="bc339"/>
-<rect x="18ch" y="20em" width="1ch" height="1em" class="bc340"/>
-<rect x="19ch" y="20em" width="1ch" height="1em" class="bc341"/>
-<rect x="20ch" y="20em" width="1ch" height="1em" class="bc342"/>
-<rect x="21ch" y="20em" width="1ch" height="1em" class="bc343"/>
-<rect x="22ch" y="20em" width="1ch" height="1em" class="bc344"/>
-<rect x="23ch" y="20em" width="1ch" height="1em" class="bc345"/>
-<rect x="24ch" y="20em" width="1ch" height="1em" class="bc346"/>
-<rect x="25ch" y="20em" width="1ch" height="1em" class="bc347"/>
-<rect x="26ch" y="20em" width="1ch" height="1em" class="bc348"/>
-<rect x="27ch" y="20em" width="1ch" height="1em" class="bc349"/>
-<rect x="28ch" y="20em" width="1ch" height="1em" class="bc350"/>
-<rect x="29ch" y="20em" width="1ch" height="1em" class="bc38"/>
-<rect x="33ch" y="20em" width="1ch" height="1em" class="bc13"/>
-<rect x="34ch" y="20em" width="1ch" height="1em" class="bc351"/>
-<rect x="3ch" y="21em" width="1ch" height="1em" class="bc27"/>
-<rect x="4ch" y="21em" width="1ch" height="1em" class="bc213"/>
-<rect x="6ch" y="21em" width="1ch" height="1em" class="bc27"/>
-<rect x="7ch" y="21em" width="1ch" height="1em" class="bc38"/>
-<rect x="8ch" y="21em" width="1ch" height="1em" class="bc147"/>
-<rect x="9ch" y="21em" width="1ch" height="1em" class="bc55"/>
-<rect x="10ch" y="21em" width="1ch" height="1em" class="bc31"/>
-<rect x="14ch" y="21em" width="1ch" height="1em" class="bc333"/>
-<rect x="15ch" y="21em" width="1ch" height="1em" class="bc352"/>
-<rect x="16ch" y="21em" width="1ch" height="1em" class="bc353"/>
-<rect x="17ch" y="21em" width="1ch" height="1em" class="bc354"/>
-<rect x="18ch" y="21em" width="1ch" height="1em" class="bc355"/>
-<rect x="19ch" y="21em" width="1ch" height="1em" class="bc356"/>
-<rect x="20ch" y="21em" width="1ch" height="1em" class="bc357"/>
-<rect x="21ch" y="21em" width="1ch" height="1em" class="bc358"/>
-<rect x="22ch" y="21em" width="1ch" height="1em" class="bc359"/>
-<rect x="23ch" y="21em" width="1ch" height="1em" class="bc360"/>
-<rect x="24ch" y="21em" width="1ch" height="1em" class="bc361"/>
-<rect x="25ch" y="21em" width="1ch" height="1em" class="bc362"/>
-<rect x="26ch" y="21em" width="1ch" height="1em" class="bc12"/>
-<rect x="0ch" y="22em" width="1ch" height="1em" class="bc363"/>
-<rect x="1ch" y="22em" width="1ch" height="1em" class="bc364"/>
-<rect x="2ch" y="22em" width="1ch" height="1em" class="bc363"/>
-<rect x="4ch" y="22em" width="1ch" height="1em" class="bc64"/>
-<rect x="6ch" y="22em" width="1ch" height="1em" class="bc365"/>
-<rect x="7ch" y="22em" width="1ch" height="1em" class="bc366"/>
-<rect x="8ch" y="22em" width="1ch" height="1em" class="bc63"/>
-<rect x="9ch" y="22em" width="1ch" height="1em" class="bc367"/>
-<rect x="10ch" y="22em" width="1ch" height="1em" class="bc31"/>
-<rect x="14ch" y="22em" width="1ch" height="1em" class="bc368"/>
-<rect x="15ch" y="22em" width="1ch" height="1em" class="bc369"/>
-<rect x="16ch" y="22em" width="1ch" height="1em" class="bc370"/>
-<rect x="17ch" y="22em" width="1ch" height="1em" class="bc371"/>
-<rect x="18ch" y="22em" width="1ch" height="1em" class="bc372"/>
-<rect x="19ch" y="22em" width="1ch" height="1em" class="bc373"/>
-<rect x="20ch" y="22em" width="1ch" height="1em" class="bc374"/>
-<rect x="21ch" y="22em" width="1ch" height="1em" class="bc33"/>
-<rect x="22ch" y="22em" width="1ch" height="1em" class="bc32"/>
-<rect x="23ch" y="22em" width="1ch" height="1em" class="bc31"/>
-<rect x="24ch" y="22em" width="1ch" height="1em" class="bc375"/>
-<rect x="25ch" y="22em" width="1ch" height="1em" class="bc31"/>
-<rect x="3ch" y="23em" width="1ch" height="1em" class="bc213"/>
-<rect x="5ch" y="23em" width="1ch" height="1em" class="bc38"/>
-<rect x="12ch" y="23em" width="1ch" height="1em" class="bc33"/>
-<rect x="14ch" y="23em" width="1ch" height="1em" class="bc376"/>
-<rect x="15ch" y="23em" width="1ch" height="1em" class="bc377"/>
-<rect x="16ch" y="23em" width="1ch" height="1em" class="bc378"/>
-<rect x="17ch" y="23em" width="1ch" height="1em" class="bc379"/>
-<rect x="18ch" y="23em" width="1ch" height="1em" class="bc380"/>
-<rect x="19ch" y="23em" width="1ch" height="1em" class="bc381"/>
-<rect x="12ch" y="24em" width="1ch" height="1em" class="bc27"/>
-<rect x="14ch" y="24em" width="1ch" height="1em" class="bc382"/>
-<rect x="15ch" y="24em" width="1ch" height="1em" class="bc383"/>
-<rect x="16ch" y="24em" width="1ch" height="1em" class="bc384"/>
-<rect x="17ch" y="24em" width="1ch" height="1em" class="bc177"/>
-<rect x="18ch" y="24em" width="1ch" height="1em" class="bc32"/>
-<rect x="19ch" y="24em" width="1ch" height="1em" class="bc33"/>
+<rect x="2ch" y="10em" width="1ch" height="1em" class="bc65"/>
+<rect x="3ch" y="10em" width="1ch" height="1em" class="bc95"/>
+<rect x="4ch" y="10em" width="2ch" height="1em" class="bc96"/>
+<rect x="6ch" y="10em" width="1ch" height="1em" class="bc97"/>
+<rect x="7ch" y="10em" width="1ch" height="1em" class="bc98"/>
+<rect x="8ch" y="10em" width="1ch" height="1em" class="bc99"/>
+<rect x="9ch" y="10em" width="1ch" height="1em" class="bc100"/>
+<rect x="10ch" y="10em" width="1ch" height="1em" class="bc101"/>
+<rect x="11ch" y="10em" width="1ch" height="1em" class="bc102"/>
+<rect x="12ch" y="10em" width="1ch" height="1em" class="bc103"/>
+<rect x="13ch" y="10em" width="1ch" height="1em" class="bc104"/>
+<rect x="14ch" y="10em" width="1ch" height="1em" class="bc105"/>
+<rect x="15ch" y="10em" width="1ch" height="1em" class="bc106"/>
+<rect x="16ch" y="10em" width="1ch" height="1em" class="bc107"/>
+<rect x="17ch" y="10em" width="1ch" height="1em" class="bc108"/>
+<rect x="18ch" y="10em" width="1ch" height="1em" class="bc109"/>
+<rect x="19ch" y="10em" width="1ch" height="1em" class="bc110"/>
+<rect x="20ch" y="10em" width="1ch" height="1em" class="bc111"/>
+<rect x="21ch" y="10em" width="1ch" height="1em" class="bc112"/>
+<rect x="22ch" y="10em" width="1ch" height="1em" class="bc113"/>
+<rect x="23ch" y="10em" width="1ch" height="1em" class="bc114"/>
+<rect x="24ch" y="10em" width="1ch" height="1em" class="bc115"/>
+<rect x="25ch" y="10em" width="1ch" height="1em" class="bc116"/>
+<rect x="26ch" y="10em" width="1ch" height="1em" class="bc117"/>
+<rect x="27ch" y="10em" width="1ch" height="1em" class="bc118"/>
+<rect x="28ch" y="10em" width="1ch" height="1em" class="bc119"/>
+<rect x="29ch" y="10em" width="3ch" height="1em" class="bc25"/>
+<rect x="32ch" y="10em" width="1ch" height="1em" class="bc120"/>
+<rect x="33ch" y="10em" width="2ch" height="1em" class="bc121"/>
+<rect x="35ch" y="10em" width="1ch" height="1em" class="bc122"/>
+<rect x="0ch" y="11em" width="1ch" height="1em" class="bc123"/>
+<rect x="1ch" y="11em" width="1ch" height="1em" class="bc54"/>
+<rect x="2ch" y="11em" width="1ch" height="1em" class="bc124"/>
+<rect x="3ch" y="11em" width="1ch" height="1em" class="bc125"/>
+<rect x="4ch" y="11em" width="1ch" height="1em" class="bc126"/>
+<rect x="5ch" y="11em" width="1ch" height="1em" class="bc127"/>
+<rect x="6ch" y="11em" width="1ch" height="1em" class="bc128"/>
+<rect x="7ch" y="11em" width="1ch" height="1em" class="bc129"/>
+<rect x="8ch" y="11em" width="1ch" height="1em" class="bc130"/>
+<rect x="9ch" y="11em" width="1ch" height="1em" class="bc131"/>
+<rect x="10ch" y="11em" width="1ch" height="1em" class="bc132"/>
+<rect x="11ch" y="11em" width="1ch" height="1em" class="bc133"/>
+<rect x="12ch" y="11em" width="1ch" height="1em" class="bc134"/>
+<rect x="13ch" y="11em" width="1ch" height="1em" class="bc135"/>
+<rect x="14ch" y="11em" width="1ch" height="1em" class="bc136"/>
+<rect x="15ch" y="11em" width="1ch" height="1em" class="bc137"/>
+<rect x="16ch" y="11em" width="1ch" height="1em" class="bc138"/>
+<rect x="17ch" y="11em" width="1ch" height="1em" class="bc139"/>
+<rect x="18ch" y="11em" width="1ch" height="1em" class="bc140"/>
+<rect x="19ch" y="11em" width="1ch" height="1em" class="bc141"/>
+<rect x="20ch" y="11em" width="1ch" height="1em" class="bc142"/>
+<rect x="21ch" y="11em" width="1ch" height="1em" class="bc143"/>
+<rect x="22ch" y="11em" width="1ch" height="1em" class="bc144"/>
+<rect x="23ch" y="11em" width="1ch" height="1em" class="bc145"/>
+<rect x="24ch" y="11em" width="1ch" height="1em" class="bc143"/>
+<rect x="25ch" y="11em" width="1ch" height="1em" class="bc146"/>
+<rect x="26ch" y="11em" width="1ch" height="1em" class="bc147"/>
+<rect x="27ch" y="11em" width="1ch" height="1em" class="bc148"/>
+<rect x="28ch" y="11em" width="1ch" height="1em" class="bc149"/>
+<rect x="29ch" y="11em" width="1ch" height="1em" class="bc150"/>
+<rect x="30ch" y="11em" width="1ch" height="1em" class="bc151"/>
+<rect x="31ch" y="11em" width="1ch" height="1em" class="bc152"/>
+<rect x="32ch" y="11em" width="3ch" height="1em" class="bc121"/>
+<rect x="35ch" y="11em" width="1ch" height="1em" class="bc120"/>
+<rect x="0ch" y="12em" width="1ch" height="1em" class="bc153"/>
+<rect x="1ch" y="12em" width="1ch" height="1em" class="bc154"/>
+<rect x="2ch" y="12em" width="1ch" height="1em" class="bc155"/>
+<rect x="3ch" y="12em" width="1ch" height="1em" class="bc156"/>
+<rect x="4ch" y="12em" width="1ch" height="1em" class="bc157"/>
+<rect x="5ch" y="12em" width="1ch" height="1em" class="bc158"/>
+<rect x="6ch" y="12em" width="1ch" height="1em" class="bc159"/>
+<rect x="7ch" y="12em" width="1ch" height="1em" class="bc160"/>
+<rect x="8ch" y="12em" width="1ch" height="1em" class="bc161"/>
+<rect x="9ch" y="12em" width="1ch" height="1em" class="bc162"/>
+<rect x="10ch" y="12em" width="1ch" height="1em" class="bc163"/>
+<rect x="11ch" y="12em" width="1ch" height="1em" class="bc132"/>
+<rect x="12ch" y="12em" width="1ch" height="1em" class="bc164"/>
+<rect x="13ch" y="12em" width="1ch" height="1em" class="bc165"/>
+<rect x="14ch" y="12em" width="1ch" height="1em" class="bc44"/>
+<rect x="15ch" y="12em" width="1ch" height="1em" class="bc166"/>
+<rect x="16ch" y="12em" width="1ch" height="1em" class="bc167"/>
+<rect x="17ch" y="12em" width="1ch" height="1em" class="bc168"/>
+<rect x="18ch" y="12em" width="1ch" height="1em" class="bc169"/>
+<rect x="19ch" y="12em" width="1ch" height="1em" class="bc170"/>
+<rect x="20ch" y="12em" width="1ch" height="1em" class="bc171"/>
+<rect x="21ch" y="12em" width="1ch" height="1em" class="bc172"/>
+<rect x="22ch" y="12em" width="1ch" height="1em" class="bc173"/>
+<rect x="23ch" y="12em" width="1ch" height="1em" class="bc174"/>
+<rect x="24ch" y="12em" width="1ch" height="1em" class="bc175"/>
+<rect x="25ch" y="12em" width="1ch" height="1em" class="bc176"/>
+<rect x="26ch" y="12em" width="1ch" height="1em" class="bc177"/>
+<rect x="27ch" y="12em" width="1ch" height="1em" class="bc178"/>
+<rect x="28ch" y="12em" width="1ch" height="1em" class="bc174"/>
+<rect x="29ch" y="12em" width="1ch" height="1em" class="bc179"/>
+<rect x="30ch" y="12em" width="1ch" height="1em" class="bc180"/>
+<rect x="31ch" y="12em" width="1ch" height="1em" class="bc181"/>
+<rect x="32ch" y="12em" width="1ch" height="1em" class="bc182"/>
+<rect x="33ch" y="12em" width="1ch" height="1em" class="bc183"/>
+<rect x="34ch" y="12em" width="1ch" height="1em" class="bc184"/>
+<rect x="35ch" y="12em" width="1ch" height="1em" class="bc185"/>
+<rect x="0ch" y="13em" width="1ch" height="1em" class="bc186"/>
+<rect x="1ch" y="13em" width="1ch" height="1em" class="bc187"/>
+<rect x="2ch" y="13em" width="1ch" height="1em" class="bc188"/>
+<rect x="3ch" y="13em" width="1ch" height="1em" class="bc189"/>
+<rect x="4ch" y="13em" width="1ch" height="1em" class="bc70"/>
+<rect x="5ch" y="13em" width="1ch" height="1em" class="bc190"/>
+<rect x="6ch" y="13em" width="1ch" height="1em" class="bc191"/>
+<rect x="7ch" y="13em" width="1ch" height="1em" class="bc28"/>
+<rect x="8ch" y="13em" width="1ch" height="1em" class="bc192"/>
+<rect x="9ch" y="13em" width="1ch" height="1em" class="bc193"/>
+<rect x="10ch" y="13em" width="1ch" height="1em" class="bc194"/>
+<rect x="11ch" y="13em" width="1ch" height="1em" class="bc195"/>
+<rect x="12ch" y="13em" width="1ch" height="1em" class="bc196"/>
+<rect x="13ch" y="13em" width="1ch" height="1em" class="bc197"/>
+<rect x="14ch" y="13em" width="1ch" height="1em" class="bc198"/>
+<rect x="15ch" y="13em" width="1ch" height="1em" class="bc199"/>
+<rect x="16ch" y="13em" width="1ch" height="1em" class="bc200"/>
+<rect x="17ch" y="13em" width="1ch" height="1em" class="bc201"/>
+<rect x="18ch" y="13em" width="1ch" height="1em" class="bc202"/>
+<rect x="19ch" y="13em" width="1ch" height="1em" class="bc170"/>
+<rect x="20ch" y="13em" width="1ch" height="1em" class="bc203"/>
+<rect x="21ch" y="13em" width="1ch" height="1em" class="bc204"/>
+<rect x="22ch" y="13em" width="1ch" height="1em" class="bc205"/>
+<rect x="23ch" y="13em" width="1ch" height="1em" class="bc113"/>
+<rect x="24ch" y="13em" width="1ch" height="1em" class="bc206"/>
+<rect x="25ch" y="13em" width="1ch" height="1em" class="bc207"/>
+<rect x="26ch" y="13em" width="1ch" height="1em" class="bc208"/>
+<rect x="27ch" y="13em" width="1ch" height="1em" class="bc209"/>
+<rect x="28ch" y="13em" width="1ch" height="1em" class="bc210"/>
+<rect x="29ch" y="13em" width="1ch" height="1em" class="bc211"/>
+<rect x="30ch" y="13em" width="1ch" height="1em" class="bc212"/>
+<rect x="31ch" y="13em" width="1ch" height="1em" class="bc213"/>
+<rect x="32ch" y="13em" width="1ch" height="1em" class="bc214"/>
+<rect x="33ch" y="13em" width="1ch" height="1em" class="bc215"/>
+<rect x="34ch" y="13em" width="2ch" height="1em" class="bc216"/>
+<rect x="0ch" y="14em" width="1ch" height="1em" class="bc217"/>
+<rect x="1ch" y="14em" width="1ch" height="1em" class="bc218"/>
+<rect x="2ch" y="14em" width="1ch" height="1em" class="bc219"/>
+<rect x="3ch" y="14em" width="1ch" height="1em" class="bc220"/>
+<rect x="4ch" y="14em" width="1ch" height="1em" class="bc221"/>
+<rect x="5ch" y="14em" width="1ch" height="1em" class="bc222"/>
+<rect x="6ch" y="14em" width="1ch" height="1em" class="bc223"/>
+<rect x="7ch" y="14em" width="1ch" height="1em" class="bc224"/>
+<rect x="8ch" y="14em" width="1ch" height="1em" class="bc225"/>
+<rect x="9ch" y="14em" width="1ch" height="1em" class="bc226"/>
+<rect x="10ch" y="14em" width="1ch" height="1em" class="bc227"/>
+<rect x="11ch" y="14em" width="1ch" height="1em" class="bc228"/>
+<rect x="12ch" y="14em" width="1ch" height="1em" class="bc197"/>
+<rect x="13ch" y="14em" width="1ch" height="1em" class="bc229"/>
+<rect x="14ch" y="14em" width="1ch" height="1em" class="bc230"/>
+<rect x="15ch" y="14em" width="1ch" height="1em" class="bc231"/>
+<rect x="16ch" y="14em" width="1ch" height="1em" class="bc232"/>
+<rect x="17ch" y="14em" width="1ch" height="1em" class="bc233"/>
+<rect x="18ch" y="14em" width="1ch" height="1em" class="bc234"/>
+<rect x="19ch" y="14em" width="1ch" height="1em" class="bc235"/>
+<rect x="20ch" y="14em" width="1ch" height="1em" class="bc236"/>
+<rect x="21ch" y="14em" width="1ch" height="1em" class="bc237"/>
+<rect x="22ch" y="14em" width="1ch" height="1em" class="bc238"/>
+<rect x="23ch" y="14em" width="1ch" height="1em" class="bc239"/>
+<rect x="24ch" y="14em" width="1ch" height="1em" class="bc240"/>
+<rect x="25ch" y="14em" width="1ch" height="1em" class="bc241"/>
+<rect x="26ch" y="14em" width="1ch" height="1em" class="bc242"/>
+<rect x="27ch" y="14em" width="1ch" height="1em" class="bc243"/>
+<rect x="28ch" y="14em" width="1ch" height="1em" class="bc244"/>
+<rect x="29ch" y="14em" width="1ch" height="1em" class="bc245"/>
+<rect x="30ch" y="14em" width="1ch" height="1em" class="bc246"/>
+<rect x="31ch" y="14em" width="1ch" height="1em" class="bc247"/>
+<rect x="32ch" y="14em" width="1ch" height="1em" class="bc248"/>
+<rect x="33ch" y="14em" width="1ch" height="1em" class="bc249"/>
+<rect x="34ch" y="14em" width="1ch" height="1em" class="bc215"/>
+<rect x="35ch" y="14em" width="1ch" height="1em" class="bc185"/>
+<rect x="0ch" y="15em" width="1ch" height="1em" class="bc250"/>
+<rect x="1ch" y="15em" width="1ch" height="1em" class="bc251"/>
+<rect x="2ch" y="15em" width="1ch" height="1em" class="bc252"/>
+<rect x="3ch" y="15em" width="1ch" height="1em" class="bc253"/>
+<rect x="4ch" y="15em" width="1ch" height="1em" class="bc254"/>
+<rect x="5ch" y="15em" width="1ch" height="1em" class="bc255"/>
+<rect x="6ch" y="15em" width="1ch" height="1em" class="bc256"/>
+<rect x="7ch" y="15em" width="1ch" height="1em" class="bc257"/>
+<rect x="8ch" y="15em" width="1ch" height="1em" class="bc258"/>
+<rect x="9ch" y="15em" width="1ch" height="1em" class="bc259"/>
+<rect x="10ch" y="15em" width="1ch" height="1em" class="bc260"/>
+<rect x="11ch" y="15em" width="1ch" height="1em" class="bc261"/>
+<rect x="12ch" y="15em" width="1ch" height="1em" class="bc262"/>
+<rect x="13ch" y="15em" width="1ch" height="1em" class="bc263"/>
+<rect x="14ch" y="15em" width="1ch" height="1em" class="bc264"/>
+<rect x="15ch" y="15em" width="1ch" height="1em" class="bc265"/>
+<rect x="16ch" y="15em" width="1ch" height="1em" class="bc266"/>
+<rect x="17ch" y="15em" width="1ch" height="1em" class="bc267"/>
+<rect x="18ch" y="15em" width="1ch" height="1em" class="bc268"/>
+<rect x="19ch" y="15em" width="1ch" height="1em" class="bc150"/>
+<rect x="20ch" y="15em" width="1ch" height="1em" class="bc269"/>
+<rect x="21ch" y="15em" width="1ch" height="1em" class="bc270"/>
+<rect x="22ch" y="15em" width="1ch" height="1em" class="bc271"/>
+<rect x="23ch" y="15em" width="1ch" height="1em" class="bc272"/>
+<rect x="24ch" y="15em" width="1ch" height="1em" class="bc273"/>
+<rect x="25ch" y="15em" width="1ch" height="1em" class="bc274"/>
+<rect x="26ch" y="15em" width="1ch" height="1em" class="bc239"/>
+<rect x="27ch" y="15em" width="1ch" height="1em" class="bc275"/>
+<rect x="28ch" y="15em" width="1ch" height="1em" class="bc276"/>
+<rect x="29ch" y="15em" width="1ch" height="1em" class="bc277"/>
+<rect x="30ch" y="15em" width="1ch" height="1em" class="bc278"/>
+<rect x="31ch" y="15em" width="1ch" height="1em" class="bc279"/>
+<rect x="32ch" y="15em" width="1ch" height="1em" class="bc280"/>
+<rect x="33ch" y="15em" width="1ch" height="1em" class="bc281"/>
+<rect x="34ch" y="15em" width="2ch" height="1em" class="bc282"/>
+<rect x="0ch" y="16em" width="1ch" height="1em" class="bc259"/>
+<rect x="1ch" y="16em" width="1ch" height="1em" class="bc219"/>
+<rect x="2ch" y="16em" width="1ch" height="1em" class="bc283"/>
+<rect x="3ch" y="16em" width="1ch" height="1em" class="bc284"/>
+<rect x="4ch" y="16em" width="1ch" height="1em" class="bc285"/>
+<rect x="5ch" y="16em" width="1ch" height="1em" class="bc286"/>
+<rect x="6ch" y="16em" width="1ch" height="1em" class="bc287"/>
+<rect x="7ch" y="16em" width="1ch" height="1em" class="bc288"/>
+<rect x="8ch" y="16em" width="1ch" height="1em" class="bc289"/>
+<rect x="9ch" y="16em" width="1ch" height="1em" class="bc290"/>
+<rect x="10ch" y="16em" width="1ch" height="1em" class="bc291"/>
+<rect x="11ch" y="16em" width="1ch" height="1em" class="bc292"/>
+<rect x="12ch" y="16em" width="1ch" height="1em" class="bc293"/>
+<rect x="13ch" y="16em" width="1ch" height="1em" class="bc294"/>
+<rect x="14ch" y="16em" width="1ch" height="1em" class="bc295"/>
+<rect x="15ch" y="16em" width="1ch" height="1em" class="bc296"/>
+<rect x="16ch" y="16em" width="1ch" height="1em" class="bc297"/>
+<rect x="17ch" y="16em" width="1ch" height="1em" class="bc298"/>
+<rect x="18ch" y="16em" width="1ch" height="1em" class="bc299"/>
+<rect x="19ch" y="16em" width="1ch" height="1em" class="bc300"/>
+<rect x="20ch" y="16em" width="1ch" height="1em" class="bc301"/>
+<rect x="21ch" y="16em" width="1ch" height="1em" class="bc302"/>
+<rect x="22ch" y="16em" width="1ch" height="1em" class="bc303"/>
+<rect x="23ch" y="16em" width="1ch" height="1em" class="bc304"/>
+<rect x="24ch" y="16em" width="1ch" height="1em" class="bc305"/>
+<rect x="25ch" y="16em" width="1ch" height="1em" class="bc306"/>
+<rect x="26ch" y="16em" width="1ch" height="1em" class="bc307"/>
+<rect x="27ch" y="16em" width="1ch" height="1em" class="bc308"/>
+<rect x="28ch" y="16em" width="1ch" height="1em" class="bc309"/>
+<rect x="29ch" y="16em" width="1ch" height="1em" class="bc310"/>
+<rect x="30ch" y="16em" width="1ch" height="1em" class="bc311"/>
+<rect x="31ch" y="16em" width="1ch" height="1em" class="bc312"/>
+<rect x="32ch" y="16em" width="1ch" height="1em" class="bc313"/>
+<rect x="33ch" y="16em" width="1ch" height="1em" class="bc281"/>
+<rect x="34ch" y="16em" width="1ch" height="1em" class="bc314"/>
+<rect x="35ch" y="16em" width="1ch" height="1em" class="bc315"/>
+<rect x="0ch" y="17em" width="1ch" height="1em" class="bc316"/>
+<rect x="1ch" y="17em" width="1ch" height="1em" class="bc317"/>
+<rect x="2ch" y="17em" width="1ch" height="1em" class="bc318"/>
+<rect x="3ch" y="17em" width="1ch" height="1em" class="bc319"/>
+<rect x="4ch" y="17em" width="1ch" height="1em" class="bc320"/>
+<rect x="5ch" y="17em" width="1ch" height="1em" class="bc321"/>
+<rect x="6ch" y="17em" width="1ch" height="1em" class="bc322"/>
+<rect x="7ch" y="17em" width="1ch" height="1em" class="bc323"/>
+<rect x="8ch" y="17em" width="1ch" height="1em" class="bc324"/>
+<rect x="9ch" y="17em" width="1ch" height="1em" class="bc325"/>
+<rect x="10ch" y="17em" width="1ch" height="1em" class="bc326"/>
+<rect x="11ch" y="17em" width="1ch" height="1em" class="bc327"/>
+<rect x="12ch" y="17em" width="1ch" height="1em" class="bc328"/>
+<rect x="13ch" y="17em" width="1ch" height="1em" class="bc329"/>
+<rect x="14ch" y="17em" width="1ch" height="1em" class="bc330"/>
+<rect x="15ch" y="17em" width="1ch" height="1em" class="bc331"/>
+<rect x="16ch" y="17em" width="1ch" height="1em" class="bc332"/>
+<rect x="17ch" y="17em" width="1ch" height="1em" class="bc333"/>
+<rect x="18ch" y="17em" width="1ch" height="1em" class="bc334"/>
+<rect x="19ch" y="17em" width="1ch" height="1em" class="bc335"/>
+<rect x="20ch" y="17em" width="1ch" height="1em" class="bc336"/>
+<rect x="21ch" y="17em" width="1ch" height="1em" class="bc337"/>
+<rect x="22ch" y="17em" width="1ch" height="1em" class="bc338"/>
+<rect x="23ch" y="17em" width="1ch" height="1em" class="bc339"/>
+<rect x="24ch" y="17em" width="1ch" height="1em" class="bc340"/>
+<rect x="25ch" y="17em" width="1ch" height="1em" class="bc341"/>
+<rect x="26ch" y="17em" width="1ch" height="1em" class="bc199"/>
+<rect x="27ch" y="17em" width="1ch" height="1em" class="bc201"/>
+<rect x="28ch" y="17em" width="1ch" height="1em" class="bc342"/>
+<rect x="29ch" y="17em" width="1ch" height="1em" class="bc343"/>
+<rect x="30ch" y="17em" width="1ch" height="1em" class="bc344"/>
+<rect x="31ch" y="17em" width="1ch" height="1em" class="bc345"/>
+<rect x="32ch" y="17em" width="1ch" height="1em" class="bc346"/>
+<rect x="33ch" y="17em" width="1ch" height="1em" class="bc347"/>
+<rect x="34ch" y="17em" width="2ch" height="1em" class="bc315"/>
+<rect x="0ch" y="18em" width="1ch" height="1em" class="bc348"/>
+<rect x="1ch" y="18em" width="1ch" height="1em" class="bc349"/>
+<rect x="2ch" y="18em" width="1ch" height="1em" class="bc350"/>
+<rect x="3ch" y="18em" width="1ch" height="1em" class="bc351"/>
+<rect x="4ch" y="18em" width="1ch" height="1em" class="bc352"/>
+<rect x="5ch" y="18em" width="1ch" height="1em" class="bc353"/>
+<rect x="6ch" y="18em" width="1ch" height="1em" class="bc354"/>
+<rect x="7ch" y="18em" width="1ch" height="1em" class="bc355"/>
+<rect x="8ch" y="18em" width="1ch" height="1em" class="bc356"/>
+<rect x="9ch" y="18em" width="1ch" height="1em" class="bc357"/>
+<rect x="10ch" y="18em" width="1ch" height="1em" class="bc192"/>
+<rect x="11ch" y="18em" width="1ch" height="1em" class="bc358"/>
+<rect x="12ch" y="18em" width="1ch" height="1em" class="bc359"/>
+<rect x="13ch" y="18em" width="1ch" height="1em" class="bc360"/>
+<rect x="14ch" y="18em" width="1ch" height="1em" class="bc361"/>
+<rect x="15ch" y="18em" width="1ch" height="1em" class="bc362"/>
+<rect x="16ch" y="18em" width="1ch" height="1em" class="bc363"/>
+<rect x="17ch" y="18em" width="1ch" height="1em" class="bc364"/>
+<rect x="18ch" y="18em" width="1ch" height="1em" class="bc365"/>
+<rect x="19ch" y="18em" width="1ch" height="1em" class="bc366"/>
+<rect x="20ch" y="18em" width="1ch" height="1em" class="bc367"/>
+<rect x="21ch" y="18em" width="1ch" height="1em" class="bc368"/>
+<rect x="22ch" y="18em" width="1ch" height="1em" class="bc369"/>
+<rect x="23ch" y="18em" width="1ch" height="1em" class="bc370"/>
+<rect x="24ch" y="18em" width="1ch" height="1em" class="bc371"/>
+<rect x="25ch" y="18em" width="1ch" height="1em" class="bc372"/>
+<rect x="26ch" y="18em" width="1ch" height="1em" class="bc373"/>
+<rect x="27ch" y="18em" width="1ch" height="1em" class="bc374"/>
+<rect x="28ch" y="18em" width="1ch" height="1em" class="bc375"/>
+<rect x="29ch" y="18em" width="1ch" height="1em" class="bc376"/>
+<rect x="30ch" y="18em" width="1ch" height="1em" class="bc377"/>
+<rect x="31ch" y="18em" width="1ch" height="1em" class="bc378"/>
+<rect x="32ch" y="18em" width="1ch" height="1em" class="bc379"/>
+<rect x="33ch" y="18em" width="1ch" height="1em" class="bc380"/>
+<rect x="34ch" y="18em" width="2ch" height="1em" class="bc381"/>
+<rect x="0ch" y="19em" width="1ch" height="1em" class="bc382"/>
+<rect x="1ch" y="19em" width="1ch" height="1em" class="bc383"/>
+<rect x="2ch" y="19em" width="1ch" height="1em" class="bc384"/>
+<rect x="3ch" y="19em" width="1ch" height="1em" class="bc385"/>
+<rect x="4ch" y="19em" width="1ch" height="1em" class="bc386"/>
+<rect x="5ch" y="19em" width="1ch" height="1em" class="bc387"/>
+<rect x="6ch" y="19em" width="1ch" height="1em" class="bc388"/>
+<rect x="7ch" y="19em" width="1ch" height="1em" class="bc389"/>
+<rect x="8ch" y="19em" width="1ch" height="1em" class="bc390"/>
+<rect x="9ch" y="19em" width="1ch" height="1em" class="bc391"/>
+<rect x="10ch" y="19em" width="1ch" height="1em" class="bc392"/>
+<rect x="11ch" y="19em" width="1ch" height="1em" class="bc393"/>
+<rect x="12ch" y="19em" width="1ch" height="1em" class="bc394"/>
+<rect x="13ch" y="19em" width="1ch" height="1em" class="bc395"/>
+<rect x="14ch" y="19em" width="1ch" height="1em" class="bc396"/>
+<rect x="15ch" y="19em" width="1ch" height="1em" class="bc397"/>
+<rect x="16ch" y="19em" width="1ch" height="1em" class="bc398"/>
+<rect x="17ch" y="19em" width="1ch" height="1em" class="bc399"/>
+<rect x="18ch" y="19em" width="1ch" height="1em" class="bc400"/>
+<rect x="19ch" y="19em" width="1ch" height="1em" class="bc401"/>
+<rect x="20ch" y="19em" width="1ch" height="1em" class="bc402"/>
+<rect x="21ch" y="19em" width="1ch" height="1em" class="bc403"/>
+<rect x="22ch" y="19em" width="1ch" height="1em" class="bc404"/>
+<rect x="23ch" y="19em" width="1ch" height="1em" class="bc405"/>
+<rect x="24ch" y="19em" width="1ch" height="1em" class="bc406"/>
+<rect x="25ch" y="19em" width="1ch" height="1em" class="bc42"/>
+<rect x="26ch" y="19em" width="1ch" height="1em" class="bc407"/>
+<rect x="27ch" y="19em" width="1ch" height="1em" class="bc408"/>
+<rect x="28ch" y="19em" width="1ch" height="1em" class="bc409"/>
+<rect x="29ch" y="19em" width="1ch" height="1em" class="bc410"/>
+<rect x="30ch" y="19em" width="1ch" height="1em" class="bc281"/>
+<rect x="31ch" y="19em" width="1ch" height="1em" class="bc379"/>
+<rect x="32ch" y="19em" width="1ch" height="1em" class="bc411"/>
+<rect x="33ch" y="19em" width="1ch" height="1em" class="bc412"/>
+<rect x="34ch" y="19em" width="1ch" height="1em" class="bc413"/>
+<rect x="35ch" y="19em" width="1ch" height="1em" class="bc414"/>
+<rect x="0ch" y="20em" width="1ch" height="1em" class="bc415"/>
+<rect x="1ch" y="20em" width="1ch" height="1em" class="bc416"/>
+<rect x="2ch" y="20em" width="1ch" height="1em" class="bc417"/>
+<rect x="3ch" y="20em" width="1ch" height="1em" class="bc418"/>
+<rect x="4ch" y="20em" width="1ch" height="1em" class="bc419"/>
+<rect x="5ch" y="20em" width="1ch" height="1em" class="bc420"/>
+<rect x="6ch" y="20em" width="1ch" height="1em" class="bc421"/>
+<rect x="7ch" y="20em" width="1ch" height="1em" class="bc422"/>
+<rect x="8ch" y="20em" width="1ch" height="1em" class="bc423"/>
+<rect x="9ch" y="20em" width="1ch" height="1em" class="bc424"/>
+<rect x="10ch" y="20em" width="1ch" height="1em" class="bc425"/>
+<rect x="11ch" y="20em" width="1ch" height="1em" class="bc426"/>
+<rect x="12ch" y="20em" width="1ch" height="1em" class="bc427"/>
+<rect x="13ch" y="20em" width="1ch" height="1em" class="bc428"/>
+<rect x="14ch" y="20em" width="1ch" height="1em" class="bc429"/>
+<rect x="15ch" y="20em" width="1ch" height="1em" class="bc430"/>
+<rect x="16ch" y="20em" width="1ch" height="1em" class="bc431"/>
+<rect x="17ch" y="20em" width="1ch" height="1em" class="bc432"/>
+<rect x="18ch" y="20em" width="1ch" height="1em" class="bc433"/>
+<rect x="19ch" y="20em" width="1ch" height="1em" class="bc434"/>
+<rect x="20ch" y="20em" width="1ch" height="1em" class="bc435"/>
+<rect x="21ch" y="20em" width="1ch" height="1em" class="bc436"/>
+<rect x="22ch" y="20em" width="1ch" height="1em" class="bc437"/>
+<rect x="23ch" y="20em" width="1ch" height="1em" class="bc438"/>
+<rect x="24ch" y="20em" width="1ch" height="1em" class="bc439"/>
+<rect x="25ch" y="20em" width="1ch" height="1em" class="bc440"/>
+<rect x="26ch" y="20em" width="1ch" height="1em" class="bc441"/>
+<rect x="27ch" y="20em" width="1ch" height="1em" class="bc278"/>
+<rect x="28ch" y="20em" width="1ch" height="1em" class="bc442"/>
+<rect x="29ch" y="20em" width="1ch" height="1em" class="bc443"/>
+<rect x="30ch" y="20em" width="1ch" height="1em" class="bc444"/>
+<rect x="31ch" y="20em" width="1ch" height="1em" class="bc445"/>
+<rect x="32ch" y="20em" width="1ch" height="1em" class="bc157"/>
+<rect x="33ch" y="20em" width="1ch" height="1em" class="bc446"/>
+<rect x="34ch" y="20em" width="1ch" height="1em" class="bc447"/>
+<rect x="35ch" y="20em" width="1ch" height="1em" class="bc448"/>
+<rect x="0ch" y="21em" width="1ch" height="1em" class="bc449"/>
+<rect x="1ch" y="21em" width="1ch" height="1em" class="bc450"/>
+<rect x="2ch" y="21em" width="1ch" height="1em" class="bc451"/>
+<rect x="3ch" y="21em" width="1ch" height="1em" class="bc452"/>
+<rect x="4ch" y="21em" width="1ch" height="1em" class="bc453"/>
+<rect x="5ch" y="21em" width="1ch" height="1em" class="bc454"/>
+<rect x="6ch" y="21em" width="1ch" height="1em" class="bc455"/>
+<rect x="7ch" y="21em" width="1ch" height="1em" class="bc456"/>
+<rect x="8ch" y="21em" width="1ch" height="1em" class="bc457"/>
+<rect x="9ch" y="21em" width="1ch" height="1em" class="bc458"/>
+<rect x="10ch" y="21em" width="1ch" height="1em" class="bc459"/>
+<rect x="11ch" y="21em" width="1ch" height="1em" class="bc460"/>
+<rect x="12ch" y="21em" width="1ch" height="1em" class="bc461"/>
+<rect x="13ch" y="21em" width="1ch" height="1em" class="bc462"/>
+<rect x="14ch" y="21em" width="1ch" height="1em" class="bc463"/>
+<rect x="15ch" y="21em" width="1ch" height="1em" class="bc464"/>
+<rect x="16ch" y="21em" width="1ch" height="1em" class="bc465"/>
+<rect x="17ch" y="21em" width="1ch" height="1em" class="bc466"/>
+<rect x="18ch" y="21em" width="1ch" height="1em" class="bc467"/>
+<rect x="19ch" y="21em" width="1ch" height="1em" class="bc468"/>
+<rect x="20ch" y="21em" width="1ch" height="1em" class="bc469"/>
+<rect x="21ch" y="21em" width="1ch" height="1em" class="bc470"/>
+<rect x="22ch" y="21em" width="1ch" height="1em" class="bc471"/>
+<rect x="23ch" y="21em" width="1ch" height="1em" class="bc472"/>
+<rect x="24ch" y="21em" width="1ch" height="1em" class="bc473"/>
+<rect x="25ch" y="21em" width="1ch" height="1em" class="bc474"/>
+<rect x="26ch" y="21em" width="1ch" height="1em" class="bc475"/>
+<rect x="27ch" y="21em" width="1ch" height="1em" class="bc476"/>
+<rect x="28ch" y="21em" width="1ch" height="1em" class="bc477"/>
+<rect x="29ch" y="21em" width="1ch" height="1em" class="bc414"/>
+<rect x="30ch" y="21em" width="1ch" height="1em" class="bc157"/>
+<rect x="31ch" y="21em" width="1ch" height="1em" class="bc478"/>
+<rect x="32ch" y="21em" width="1ch" height="1em" class="bc446"/>
+<rect x="33ch" y="21em" width="1ch" height="1em" class="bc448"/>
+<rect x="34ch" y="21em" width="1ch" height="1em" class="bc479"/>
+<rect x="35ch" y="21em" width="1ch" height="1em" class="bc480"/>
+<rect x="0ch" y="22em" width="1ch" height="1em" class="bc481"/>
+<rect x="1ch" y="22em" width="1ch" height="1em" class="bc101"/>
+<rect x="2ch" y="22em" width="1ch" height="1em" class="bc482"/>
+<rect x="3ch" y="22em" width="1ch" height="1em" class="bc483"/>
+<rect x="4ch" y="22em" width="1ch" height="1em" class="bc484"/>
+<rect x="5ch" y="22em" width="1ch" height="1em" class="bc485"/>
+<rect x="6ch" y="22em" width="1ch" height="1em" class="bc486"/>
+<rect x="7ch" y="22em" width="1ch" height="1em" class="bc487"/>
+<rect x="8ch" y="22em" width="1ch" height="1em" class="bc488"/>
+<rect x="9ch" y="22em" width="1ch" height="1em" class="bc489"/>
+<rect x="10ch" y="22em" width="1ch" height="1em" class="bc490"/>
+<rect x="11ch" y="22em" width="1ch" height="1em" class="bc491"/>
+<rect x="12ch" y="22em" width="1ch" height="1em" class="bc492"/>
+<rect x="13ch" y="22em" width="1ch" height="1em" class="bc493"/>
+<rect x="14ch" y="22em" width="1ch" height="1em" class="bc494"/>
+<rect x="15ch" y="22em" width="1ch" height="1em" class="bc495"/>
+<rect x="16ch" y="22em" width="1ch" height="1em" class="bc496"/>
+<rect x="17ch" y="22em" width="1ch" height="1em" class="bc497"/>
+<rect x="18ch" y="22em" width="1ch" height="1em" class="bc498"/>
+<rect x="19ch" y="22em" width="1ch" height="1em" class="bc499"/>
+<rect x="20ch" y="22em" width="1ch" height="1em" class="bc500"/>
+<rect x="21ch" y="22em" width="1ch" height="1em" class="bc501"/>
+<rect x="22ch" y="22em" width="1ch" height="1em" class="bc502"/>
+<rect x="23ch" y="22em" width="1ch" height="1em" class="bc503"/>
+<rect x="24ch" y="22em" width="1ch" height="1em" class="bc504"/>
+<rect x="25ch" y="22em" width="1ch" height="1em" class="bc505"/>
+<rect x="26ch" y="22em" width="1ch" height="1em" class="bc506"/>
+<rect x="27ch" y="22em" width="1ch" height="1em" class="bc507"/>
+<rect x="28ch" y="22em" width="1ch" height="1em" class="bc508"/>
+<rect x="29ch" y="22em" width="1ch" height="1em" class="bc509"/>
+<rect x="30ch" y="22em" width="1ch" height="1em" class="bc510"/>
+<rect x="31ch" y="22em" width="1ch" height="1em" class="bc511"/>
+<rect x="32ch" y="22em" width="1ch" height="1em" class="bc512"/>
+<rect x="33ch" y="22em" width="1ch" height="1em" class="bc513"/>
+<rect x="34ch" y="22em" width="1ch" height="1em" class="bc514"/>
+<rect x="35ch" y="22em" width="1ch" height="1em" class="bc515"/>
+<rect x="0ch" y="23em" width="1ch" height="1em" class="bc516"/>
+<rect x="1ch" y="23em" width="1ch" height="1em" class="bc517"/>
+<rect x="2ch" y="23em" width="1ch" height="1em" class="bc518"/>
+<rect x="3ch" y="23em" width="1ch" height="1em" class="bc519"/>
+<rect x="4ch" y="23em" width="1ch" height="1em" class="bc520"/>
+<rect x="5ch" y="23em" width="1ch" height="1em" class="bc521"/>
+<rect x="6ch" y="23em" width="1ch" height="1em" class="bc522"/>
+<rect x="7ch" y="23em" width="1ch" height="1em" class="bc523"/>
+<rect x="8ch" y="23em" width="1ch" height="1em" class="bc524"/>
+<rect x="9ch" y="23em" width="1ch" height="1em" class="bc525"/>
+<rect x="10ch" y="23em" width="1ch" height="1em" class="bc526"/>
+<rect x="11ch" y="23em" width="1ch" height="1em" class="bc527"/>
+<rect x="12ch" y="23em" width="1ch" height="1em" class="bc528"/>
+<rect x="13ch" y="23em" width="1ch" height="1em" class="bc529"/>
+<rect x="14ch" y="23em" width="1ch" height="1em" class="bc530"/>
+<rect x="15ch" y="23em" width="1ch" height="1em" class="bc450"/>
+<rect x="16ch" y="23em" width="1ch" height="1em" class="bc531"/>
+<rect x="17ch" y="23em" width="1ch" height="1em" class="bc532"/>
+<rect x="18ch" y="23em" width="1ch" height="1em" class="bc533"/>
+<rect x="19ch" y="23em" width="1ch" height="1em" class="bc86"/>
+<rect x="20ch" y="23em" width="1ch" height="1em" class="bc534"/>
+<rect x="21ch" y="23em" width="1ch" height="1em" class="bc535"/>
+<rect x="22ch" y="23em" width="1ch" height="1em" class="bc499"/>
+<rect x="23ch" y="23em" width="1ch" height="1em" class="bc536"/>
+<rect x="24ch" y="23em" width="1ch" height="1em" class="bc537"/>
+<rect x="25ch" y="23em" width="1ch" height="1em" class="bc538"/>
+<rect x="26ch" y="23em" width="1ch" height="1em" class="bc70"/>
+<rect x="27ch" y="23em" width="1ch" height="1em" class="bc539"/>
+<rect x="28ch" y="23em" width="1ch" height="1em" class="bc540"/>
+<rect x="29ch" y="23em" width="1ch" height="1em" class="bc541"/>
+<rect x="30ch" y="23em" width="1ch" height="1em" class="bc542"/>
+<rect x="31ch" y="23em" width="1ch" height="1em" class="bc543"/>
+<rect x="32ch" y="23em" width="1ch" height="1em" class="bc544"/>
+<rect x="33ch" y="23em" width="1ch" height="1em" class="bc545"/>
+<rect x="34ch" y="23em" width="1ch" height="1em" class="bc546"/>
+<rect x="35ch" y="23em" width="1ch" height="1em" class="bc547"/>
+<rect x="0ch" y="24em" width="1ch" height="1em" class="bc548"/>
+<rect x="1ch" y="24em" width="1ch" height="1em" class="bc549"/>
+<rect x="2ch" y="24em" width="1ch" height="1em" class="bc550"/>
+<rect x="3ch" y="24em" width="1ch" height="1em" class="bc551"/>
+<rect x="4ch" y="24em" width="1ch" height="1em" class="bc552"/>
+<rect x="5ch" y="24em" width="1ch" height="1em" class="bc553"/>
+<rect x="6ch" y="24em" width="1ch" height="1em" class="bc554"/>
+<rect x="7ch" y="24em" width="1ch" height="1em" class="bc526"/>
+<rect x="8ch" y="24em" width="1ch" height="1em" class="bc555"/>
+<rect x="9ch" y="24em" width="1ch" height="1em" class="bc556"/>
+<rect x="10ch" y="24em" width="1ch" height="1em" class="bc557"/>
+<rect x="11ch" y="24em" width="1ch" height="1em" class="bc558"/>
+<rect x="12ch" y="24em" width="1ch" height="1em" class="bc559"/>
+<rect x="13ch" y="24em" width="1ch" height="1em" class="bc560"/>
+<rect x="14ch" y="24em" width="1ch" height="1em" class="bc561"/>
+<rect x="15ch" y="24em" width="1ch" height="1em" class="bc562"/>
+<rect x="16ch" y="24em" width="1ch" height="1em" class="bc563"/>
+<rect x="17ch" y="24em" width="1ch" height="1em" class="bc564"/>
+<rect x="18ch" y="24em" width="1ch" height="1em" class="bc565"/>
+<rect x="19ch" y="24em" width="1ch" height="1em" class="bc566"/>
+<rect x="20ch" y="24em" width="1ch" height="1em" class="bc567"/>
+<rect x="21ch" y="24em" width="1ch" height="1em" class="bc568"/>
+<rect x="22ch" y="24em" width="1ch" height="1em" class="bc569"/>
+<rect x="23ch" y="24em" width="1ch" height="1em" class="bc570"/>
+<rect x="24ch" y="24em" width="1ch" height="1em" class="bc571"/>
+<rect x="25ch" y="24em" width="1ch" height="1em" class="bc572"/>
+<rect x="26ch" y="24em" width="1ch" height="1em" class="bc573"/>
+<rect x="27ch" y="24em" width="1ch" height="1em" class="bc574"/>
+<rect x="28ch" y="24em" width="1ch" height="1em" class="bc575"/>
+<rect x="29ch" y="24em" width="1ch" height="1em" class="bc576"/>
+<rect x="30ch" y="24em" width="1ch" height="1em" class="bc577"/>
+<rect x="31ch" y="24em" width="1ch" height="1em" class="bc578"/>
+<rect x="32ch" y="24em" width="1ch" height="1em" class="bc579"/>
+<rect x="33ch" y="24em" width="1ch" height="1em" class="bc576"/>
+<rect x="34ch" y="24em" width="1ch" height="1em" class="bc580"/>
+<rect x="35ch" y="24em" width="1ch" height="1em" class="bc581"/>
 </g>
 <text x="0ch" y="1.5em"><tspan>                                            </tspan><tspan class="fa7">hirdyanshKanethia</tspan><tspan class="fc0">@</tspan><tspan class="fa7">github </tspan><tspan class="fc0">----------------------------------------------</tspan></text>
 <text x="0ch" y="2.5em"><tspan>                                          </tspan><tspan class="fc1">┌─────────────────────── Personal Info ────────────────────────┐</tspan></text>
@@ -1242,24 +1832,24 @@
 <text x="0ch" y="4.5em"><tspan>                                            </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Education</tspan><tspan class="fc0">: . </tspan><tspan class="fa7">B.Tech, Computer Science and Engineering, 2027</tspan></text>
 <text x="0ch" y="5.5em"><tspan>                                            </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Institute</tspan><tspan class="fc0">: ................................... </tspan><tspan class="fa7">NIT Srinagar</tspan></text>
 <text x="0ch" y="6.5em"><tspan>                                            </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Uptime</tspan><tspan class="fc0">: ....................... </tspan><tspan class="fa7">20 years, 6 months, 19 days</tspan></text>
-<text x="0ch" y="7.5em"><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄▄▄</tspan><tspan class="fc3">▄</tspan><tspan class="fc4">▄</tspan><tspan class="fc5">▄</tspan><tspan class="fc6">▄</tspan><tspan class="fc7">▄</tspan><tspan class="fc2">▄▄▄▄▄▄▄</tspan><tspan class="fc8">▄</tspan><tspan class="fc9">▄</tspan><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
-<text x="0ch" y="8.5em"><tspan class="fc10">▄</tspan><tspan class="fc11">▄</tspan><tspan class="fc12">▄</tspan><tspan class="fc2">▄▄▄▄▄▄▄▄▄</tspan><tspan class="fc13">▄</tspan><tspan class="fc14">▄</tspan><tspan class="fc15">▄</tspan><tspan class="fc16">▄</tspan><tspan class="fc17">▄</tspan><tspan class="fc18">▄</tspan><tspan class="fc19">▄</tspan><tspan class="fc20">▄</tspan><tspan class="fc21">▄</tspan><tspan class="fc22">▄</tspan><tspan class="fc23">▄</tspan><tspan class="fc24">▄</tspan><tspan class="fc25">▄</tspan><tspan class="fc26">▄</tspan><tspan class="fc27">▄</tspan><tspan class="fc28">▄</tspan><tspan class="fc29">▄</tspan><tspan class="fc30">▄</tspan><tspan class="fc31">▄</tspan><tspan class="fc32">▄</tspan><tspan class="fc2">▄▄▄▄      </tspan><tspan class="fc1">┌────────────────────── Coding Profiles ───────────────────────┐</tspan></text>
-<text x="0ch" y="9.5em"><tspan class="fc33">▄</tspan><tspan class="fc34">▄</tspan><tspan class="fc35">▄</tspan><tspan class="fc36">▄</tspan><tspan class="fc2">▄</tspan><tspan class="fc27">▄</tspan><tspan class="fc2">▄▄▄▄▄▄</tspan><tspan class="fc37">▄</tspan><tspan class="fc38">▄</tspan><tspan class="fc39">▄</tspan><tspan class="fc40">▄</tspan><tspan class="fc41">▄</tspan><tspan class="fc42">▄</tspan><tspan class="fc43">▄</tspan><tspan class="fc44">▄</tspan><tspan class="fc45">▄</tspan><tspan class="fc46">▄</tspan><tspan class="fc47">▄</tspan><tspan class="fc48">▄</tspan><tspan class="fc49">▄</tspan><tspan class="fc50">▄</tspan><tspan class="fc2">▄</tspan><tspan class="fc36">▄</tspan><tspan class="fc51">▄</tspan><tspan class="fc52">▄</tspan><tspan class="fc53">▄</tspan><tspan class="fc54">▄</tspan><tspan class="fc11">▄</tspan><tspan class="fc2">▄▄▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">GitHub</tspan><tspan class="fc0">: ................................. </tspan><tspan class="fa7">hirdyanshKanethia</tspan></text>
-<text x="0ch" y="10.5em"><tspan class="fc11">▄</tspan><tspan class="fc12">▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc56">▄</tspan><tspan class="fc57">▄</tspan><tspan class="fc58">▄</tspan><tspan class="fc59">▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc60">▄</tspan><tspan class="fc61">▄</tspan><tspan class="fc62">▄</tspan><tspan class="fc63">▄</tspan><tspan class="fc64">▄</tspan><tspan class="fc65">▄</tspan><tspan class="fc66">▄</tspan><tspan class="fc67">▄</tspan><tspan class="fc68">▄</tspan><tspan class="fc69">▄</tspan><tspan class="fc70">▄</tspan><tspan class="fc71">▄</tspan><tspan class="fc72">▄</tspan><tspan class="fc73">▄</tspan><tspan class="fc74">▄</tspan><tspan class="fc75">▄</tspan><tspan class="fc76">▄</tspan><tspan class="fc77">▄</tspan><tspan class="fc78">▄</tspan><tspan class="fc2">▄</tspan><tspan class="fc79">▄</tspan><tspan class="fc80">▄</tspan><tspan class="fc81">▄</tspan><tspan class="fc82">▄</tspan><tspan class="fc83">▄</tspan><tspan class="fc61">▄</tspan><tspan class="fc8">▄</tspan><tspan class="fc2">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">LeetCode</tspan><tspan class="fc0">: ..................................... </tspan><tspan class="fa7">HIrdyansh_k</tspan></text>
-<text x="0ch" y="11.5em"><tspan class="fc2">▄▄▄▄▄▄</tspan><tspan class="fc84">▄</tspan><tspan class="fc85">▄</tspan><tspan class="fc86">▄</tspan><tspan class="fc87">▄</tspan><tspan class="fc88">▄</tspan><tspan class="fc89">▄</tspan><tspan class="fc90">▄</tspan><tspan class="fc91">▄</tspan><tspan class="fc92">▄</tspan><tspan class="fc93">▄</tspan><tspan class="fc94">▄</tspan><tspan class="fc95">▄</tspan><tspan class="fc96">▄</tspan><tspan class="fc97">▄</tspan><tspan class="fc98">▄</tspan><tspan class="fc99">▄</tspan><tspan class="fc100">▄</tspan><tspan class="fc101">▄</tspan><tspan class="fc102">▄</tspan><tspan class="fc103">▄</tspan><tspan class="fc104">▄</tspan><tspan class="fc105">▄</tspan><tspan class="fc106">▄</tspan><tspan class="fc107">▄</tspan><tspan class="fc108">▄</tspan><tspan class="fc109">▄</tspan><tspan class="fc110">▄</tspan><tspan class="fc111">▄</tspan><tspan class="fc112">▄</tspan><tspan class="fc113">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Codeforces</tspan><tspan class="fc0">: .......................... </tspan><tspan class="fa7">hirdyanshkanethia.18</tspan></text>
-<text x="0ch" y="12.5em"><tspan class="fc2">▄▄▄▄▄▄</tspan><tspan class="fc114">▄</tspan><tspan class="fc115">▄</tspan><tspan class="fc116">▄</tspan><tspan class="fc117">▄</tspan><tspan class="fc118">▄</tspan><tspan class="fc119">▄</tspan><tspan class="fc120">▄</tspan><tspan class="fc121">▄</tspan><tspan class="fc122">▄</tspan><tspan class="fc123">▄</tspan><tspan class="fc124">▄</tspan><tspan class="fc125">▄</tspan><tspan class="fc126">▄</tspan><tspan class="fc127">▄</tspan><tspan class="fc128">▄</tspan><tspan class="fc129">▄</tspan><tspan class="fc130">▄</tspan><tspan class="fc131">▄</tspan><tspan class="fc132">▄</tspan><tspan class="fc133">▄</tspan><tspan class="fc134">▄</tspan><tspan class="fc135">▄</tspan><tspan class="fc136">▄</tspan><tspan class="fc137">▄</tspan><tspan class="fc138">▄</tspan><tspan class="fc139">▄</tspan><tspan class="fc140">▄</tspan><tspan class="fc141">▄</tspan><tspan class="fc142">▄</tspan><tspan class="fc32">▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
-<text x="0ch" y="13.5em"><tspan class="fc2">▄▄▄▄▄▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc143">▄</tspan><tspan class="fc144">▄</tspan><tspan class="fc145">▄</tspan><tspan class="fc146">▄</tspan><tspan class="fc147">▄</tspan><tspan class="fc148">▄</tspan><tspan class="fc149">▄</tspan><tspan class="fc150">▄</tspan><tspan class="fc151">▄</tspan><tspan class="fc152">▄</tspan><tspan class="fc153">▄</tspan><tspan class="fc154">▄</tspan><tspan class="fc155">▄</tspan><tspan class="fc156">▄</tspan><tspan class="fc157">▄</tspan><tspan class="fc158">▄</tspan><tspan class="fc159">▄</tspan><tspan class="fc160">▄</tspan><tspan class="fc161">▄</tspan><tspan class="fc162">▄</tspan><tspan class="fc163">▄</tspan><tspan class="fc164">▄</tspan><tspan class="fc165">▄</tspan><tspan class="fc166">▄</tspan><tspan class="fc167">▄</tspan><tspan class="fc113">▄</tspan><tspan class="fc12">▄</tspan><tspan class="fc2">▄▄      </tspan><tspan class="fc1">┌────────────────────────── Socials ───────────────────────────┐</tspan></text>
-<text x="0ch" y="14.5em"><tspan class="fc168">▄</tspan><tspan class="fc143">▄</tspan><tspan class="fc3">▄</tspan><tspan class="fc169">▄</tspan><tspan class="fc170">▄</tspan><tspan class="fc31">▄</tspan><tspan class="fc171">▄</tspan><tspan class="fc172">▄</tspan><tspan class="fc173">▄</tspan><tspan class="fc174">▄</tspan><tspan class="fc175">▄</tspan><tspan class="fc176">▄</tspan><tspan class="fc177">▄</tspan><tspan class="fc178">▄</tspan><tspan class="fc179">▄▄</tspan><tspan class="fc180">▄</tspan><tspan class="fc181">▄</tspan><tspan class="fc182">▄</tspan><tspan class="fc183">▄</tspan><tspan class="fc184">▄</tspan><tspan class="fc185">▄</tspan><tspan class="fc186">▄</tspan><tspan class="fc187">▄</tspan><tspan class="fc188">▄</tspan><tspan class="fc189">▄</tspan><tspan class="fc190">▄</tspan><tspan class="fc191">▄</tspan><tspan class="fc192">▄</tspan><tspan class="fc193">▄</tspan><tspan class="fc194">▄</tspan><tspan class="fc195">▄</tspan><tspan class="fc31">▄</tspan><tspan class="fc196">▄</tspan><tspan class="fc197">▄</tspan><tspan class="fc198">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Twitter</tspan><tspan class="fc0">: ...................................... </tspan><tspan class="fa7">Hi_rdyanshK</tspan></text>
-<text x="0ch" y="15.5em"><tspan class="fc2">▄</tspan><tspan class="fc199">▄</tspan><tspan class="fc200">▄</tspan><tspan class="fc201">▄</tspan><tspan class="fc202">▄</tspan><tspan class="fc203">▄</tspan><tspan class="fc204">▄</tspan><tspan class="fc205">▄</tspan><tspan class="fc206">▄</tspan><tspan class="fc207">▄</tspan><tspan class="fc208">▄</tspan><tspan class="fc209">▄</tspan><tspan class="fc210">▄</tspan><tspan class="fc211">▄</tspan><tspan class="fc212">▄</tspan><tspan class="fc213">▄</tspan><tspan class="fc214">▄</tspan><tspan class="fc215">▄</tspan><tspan class="fc216">▄</tspan><tspan class="fc217">▄</tspan><tspan class="fc218">▄</tspan><tspan class="fc219">▄</tspan><tspan class="fc220">▄</tspan><tspan class="fc221">▄</tspan><tspan class="fc222">▄</tspan><tspan class="fc223">▄</tspan><tspan class="fc224">▄</tspan><tspan class="fc225">▄</tspan><tspan class="fc226">▄</tspan><tspan class="fc227">▄</tspan><tspan class="fc228">▄</tspan><tspan class="fc229">▄</tspan><tspan class="fc230">▄</tspan><tspan class="fc231">▄</tspan><tspan class="fc232">▄</tspan><tspan class="fc233">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">LinkedIn</tspan><tspan class="fc0">: ..................................... </tspan><tspan class="fa7">hirdyansh-k</tspan></text>
-<text x="0ch" y="16.5em"><tspan class="fc234">▄</tspan><tspan class="fc235">▄</tspan><tspan class="fc236">▄</tspan><tspan class="fc237">▄</tspan><tspan class="fc238">▄</tspan><tspan class="fc239">▄</tspan><tspan class="fc240">▄</tspan><tspan class="fc241">▄</tspan><tspan class="fc242">▄</tspan><tspan class="fc243">▄</tspan><tspan class="fc244">▄</tspan><tspan class="fc245">▄</tspan><tspan class="fc246">▄</tspan><tspan class="fc247">▄</tspan><tspan class="fc248">▄</tspan><tspan class="fc249">▄</tspan><tspan class="fc250">▄</tspan><tspan class="fc251">▄</tspan><tspan class="fc252">▄</tspan><tspan class="fc253">▄</tspan><tspan class="fc254">▄</tspan><tspan class="fc255">▄</tspan><tspan class="fc256">▄</tspan><tspan class="fc257">▄</tspan><tspan class="fc258">▄</tspan><tspan class="fc259">▄</tspan><tspan class="fc260">▄</tspan><tspan class="fc261">▄</tspan><tspan class="fc262">▄</tspan><tspan class="fc263">▄</tspan><tspan class="fc264">▄</tspan><tspan class="fc265">▄</tspan><tspan class="fc266">▄</tspan><tspan class="fc267">▄</tspan><tspan class="fc268">▄</tspan><tspan class="fc233">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Instagram</tspan><tspan class="fc0">: .................................... </tspan><tspan class="fa7">hirdyansh_k</tspan></text>
-<text x="0ch" y="17.5em"><tspan class="fc2">▄▄▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc113">▄</tspan><tspan class="fc11">▄</tspan><tspan class="fc269">▄</tspan><tspan class="fc270">▄</tspan><tspan class="fc271">▄</tspan><tspan class="fc272">▄</tspan><tspan class="fc273">▄</tspan><tspan class="fc274">▄</tspan><tspan class="fc275">▄</tspan><tspan class="fc276">▄</tspan><tspan class="fc247">▄</tspan><tspan class="fc277">▄</tspan><tspan class="fc278">▄</tspan><tspan class="fc279">▄</tspan><tspan class="fc280">▄</tspan><tspan class="fc281">▄</tspan><tspan class="fc282">▄</tspan><tspan class="fc283">▄</tspan><tspan class="fc284">▄</tspan><tspan class="fc285">▄</tspan><tspan class="fc286">▄</tspan><tspan class="fc287">▄</tspan><tspan class="fc288">▄</tspan><tspan class="fc289">▄</tspan><tspan class="fc290">▄</tspan><tspan class="fc291">▄</tspan><tspan class="fc292">▄</tspan><tspan class="fc293">▄</tspan><tspan class="fc294">▄</tspan><tspan class="fc295">▄</tspan><tspan class="fc296">▄</tspan><tspan class="fc297">▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
-<text x="0ch" y="18.5em"><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄</tspan><tspan class="fc298">▄</tspan><tspan class="fc299">▄</tspan><tspan class="fc300">▄</tspan><tspan class="fc301">▄</tspan><tspan class="fc302">▄</tspan><tspan class="fc303">▄</tspan><tspan class="fc304">▄</tspan><tspan class="fc305">▄</tspan><tspan class="fc306">▄</tspan><tspan class="fc307">▄</tspan><tspan class="fc308">▄</tspan><tspan class="fc309">▄</tspan><tspan class="fc310">▄</tspan><tspan class="fc311">▄</tspan><tspan class="fc312">▄</tspan><tspan class="fc313">▄</tspan><tspan class="fc314">▄</tspan><tspan class="fc315">▄</tspan><tspan class="fc316">▄</tspan><tspan class="fc317">▄</tspan><tspan class="fc318">▄</tspan><tspan class="fc319">▄</tspan><tspan class="fc320">▄</tspan><tspan class="fc321">▄</tspan><tspan class="fc322">▄</tspan><tspan class="fc323">▄      </tspan><tspan class="fc1">┌──────────────────────── GitHub Stats ────────────────────────┐</tspan></text>
-<text x="0ch" y="19.5em"><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄▄</tspan><tspan class="fc8">▄</tspan><tspan class="fc11">▄</tspan><tspan class="fc324">▄</tspan><tspan class="fc325">▄</tspan><tspan class="fc326">▄</tspan><tspan class="fc327">▄</tspan><tspan class="fc328">▄</tspan><tspan class="fc329">▄</tspan><tspan class="fc330">▄</tspan><tspan class="fc331">▄</tspan><tspan class="fc332">▄</tspan><tspan class="fc333">▄</tspan><tspan class="fc334">▄</tspan><tspan class="fc335">▄</tspan><tspan class="fc336">▄</tspan><tspan class="fc337">▄</tspan><tspan class="fc338">▄</tspan><tspan class="fc339">▄</tspan><tspan class="fc340">▄</tspan><tspan class="fc341">▄</tspan><tspan class="fc342">▄</tspan><tspan class="fc343">▄</tspan><tspan class="fc344">▄</tspan><tspan class="fc345">▄</tspan><tspan class="fc346">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Repos</tspan><tspan class="fc0">: .. </tspan><tspan class="fa7">22 </tspan><tspan class="fc0">{</tspan><tspan class="fc1">Contributed</tspan><tspan class="fc0">: </tspan><tspan class="fa7">25</tspan><tspan class="fc0">} | </tspan><tspan class="fc1">Stars</tspan><tspan class="fc0">: .................. </tspan><tspan class="fa7">2</tspan></text>
-<text x="0ch" y="20.5em"><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄▄▄</tspan><tspan class="fc12">▄▄</tspan><tspan class="fc347">▄</tspan><tspan class="fc348">▄</tspan><tspan class="fc349">▄</tspan><tspan class="fc350">▄</tspan><tspan class="fc351">▄</tspan><tspan class="fc352">▄</tspan><tspan class="fc353">▄</tspan><tspan class="fc354">▄</tspan><tspan class="fc355">▄</tspan><tspan class="fc356">▄</tspan><tspan class="fc357">▄</tspan><tspan class="fc358">▄</tspan><tspan class="fc359">▄</tspan><tspan class="fc360">▄</tspan><tspan class="fc2">▄</tspan><tspan class="fc12">▄▄</tspan><tspan class="fc2">▄▄▄▄▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Commits</tspan><tspan class="fc0">: ................. </tspan><tspan class="fa7">390 </tspan><tspan class="fc0">| </tspan><tspan class="fc1">Followers</tspan><tspan class="fc0">: ............. </tspan><tspan class="fa7">30</tspan></text>
-<text x="0ch" y="21.5em"><tspan class="fc2">▄▄▄▄▄▄</tspan><tspan class="fc207">▄</tspan><tspan class="fc361">▄</tspan><tspan class="fc362">▄</tspan><tspan class="fc363">▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc2">▄▄▄</tspan><tspan class="fc53">▄</tspan><tspan class="fc364">▄</tspan><tspan class="fc365">▄</tspan><tspan class="fc366">▄</tspan><tspan class="fc367">▄</tspan><tspan class="fc368">▄</tspan><tspan class="fc369">▄</tspan><tspan class="fc370">▄</tspan><tspan class="fc371">▄</tspan><tspan class="fc372">▄</tspan><tspan class="fc143">▄</tspan><tspan class="fc373">▄</tspan><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Lines of Code on GitHub</tspan><tspan class="fc0">: . </tspan><tspan class="fa7">3,944,170 </tspan><tspan class="fc0">(</tspan><tspan class="fc374">4,586,267&#43;&#43;</tspan><tspan class="fc0">, </tspan><tspan class="fc375">642,097--</tspan><tspan class="fc0">)</tspan></text>
-<text x="0ch" y="22.5em"><tspan class="fc2">▄▄▄</tspan><tspan class="fc376">▄</tspan><tspan class="fc377">▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc2">▄▄▄▄▄▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc378">▄</tspan><tspan class="fc379">▄</tspan><tspan class="fc380">▄</tspan><tspan class="fc381">▄</tspan><tspan class="fc382">▄</tspan><tspan class="fc383">▄</tspan><tspan class="fc142">▄</tspan><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
-<text x="0ch" y="23.5em"><tspan class="fc2">▄▄▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc2">▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc2">▄▄▄▄▄▄</tspan><tspan class="fc113">▄</tspan><tspan class="fc32">▄</tspan><tspan class="fc384">▄</tspan><tspan class="fc385">▄</tspan><tspan class="fc386">▄</tspan><tspan class="fc387">▄</tspan><tspan class="fc32">▄</tspan><tspan class="fc12">▄</tspan><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      </tspan></text>
-<text x="0ch" y="24.5em"><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄▄▄</tspan><tspan class="fc113">▄</tspan><tspan class="fc388">▄</tspan><tspan class="fc172">▄▄</tspan><tspan class="fc79">▄</tspan><tspan class="fc12">▄</tspan><tspan class="fc2">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      </tspan><tspan class="fc1">┌─────────────── Contributions (341 Last Year) ────────────────┐</tspan></text>
+<text x="0ch" y="7.5em"><tspan class="fc2">▄</tspan><tspan class="fc3">▄</tspan><tspan class="fc4">▄</tspan><tspan class="fc5">▄</tspan><tspan class="fc6">▄▄</tspan><tspan class="fc7">▄</tspan><tspan class="fc8">▄</tspan><tspan class="fc9">▄</tspan><tspan class="fc10">▄▄</tspan><tspan class="fc11">▄</tspan><tspan class="fc12">▄</tspan><tspan class="fc13">▄</tspan><tspan class="fc14">▄</tspan><tspan class="fc15">▄</tspan><tspan class="fc16">▄</tspan><tspan class="fc17">▄</tspan><tspan class="fc18">▄</tspan><tspan class="fc19">▄</tspan><tspan class="fc20">▄</tspan><tspan class="fc21">▄</tspan><tspan class="fc22">▄</tspan><tspan class="fc23">▄</tspan><tspan class="fc21">▄</tspan><tspan class="fc24">▄</tspan><tspan class="fc25">▄</tspan><tspan class="fc26">▄</tspan><tspan class="fc27">▄</tspan><tspan class="fc28">▄</tspan><tspan class="fc29">▄</tspan><tspan class="fc30">▄</tspan><tspan class="fc31">▄</tspan><tspan class="fc32">▄</tspan><tspan class="fc33">▄</tspan><tspan class="fc34">▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
+<text x="0ch" y="8.5em"><tspan class="fc35">▄</tspan><tspan class="fc36">▄</tspan><tspan class="fc5">▄</tspan><tspan class="fc37">▄</tspan><tspan class="fc6">▄</tspan><tspan class="fc38">▄</tspan><tspan class="fc7">▄</tspan><tspan class="fc9">▄▄</tspan><tspan class="fc10">▄</tspan><tspan class="fc39">▄</tspan><tspan class="fc40">▄</tspan><tspan class="fc41">▄</tspan><tspan class="fc42">▄</tspan><tspan class="fc43">▄</tspan><tspan class="fc44">▄</tspan><tspan class="fc45">▄</tspan><tspan class="fc46">▄</tspan><tspan class="fc47">▄</tspan><tspan class="fc48">▄</tspan><tspan class="fc49">▄</tspan><tspan class="fc50">▄</tspan><tspan class="fc51">▄</tspan><tspan class="fc52">▄</tspan><tspan class="fc53">▄</tspan><tspan class="fc54">▄</tspan><tspan class="fc55">▄</tspan><tspan class="fc56">▄</tspan><tspan class="fc57">▄</tspan><tspan class="fc58">▄</tspan><tspan class="fc59">▄</tspan><tspan class="fc60">▄</tspan><tspan class="fc61">▄</tspan><tspan class="fc62">▄</tspan><tspan class="fc63">▄</tspan><tspan class="fc64">▄      </tspan><tspan class="fc1">┌────────────────────── Coding Profiles ───────────────────────┐</tspan></text>
+<text x="0ch" y="9.5em"><tspan class="fc4">▄</tspan><tspan class="fc5">▄</tspan><tspan class="fc65">▄</tspan><tspan class="fc66">▄</tspan><tspan class="fc67">▄▄</tspan><tspan class="fc68">▄</tspan><tspan class="fc69">▄</tspan><tspan class="fc70">▄</tspan><tspan class="fc71">▄</tspan><tspan class="fc72">▄</tspan><tspan class="fc73">▄</tspan><tspan class="fc74">▄</tspan><tspan class="fc75">▄</tspan><tspan class="fc76">▄</tspan><tspan class="fc77">▄</tspan><tspan class="fc78">▄</tspan><tspan class="fc79">▄</tspan><tspan class="fc80">▄</tspan><tspan class="fc81">▄</tspan><tspan class="fc82">▄</tspan><tspan class="fc83">▄</tspan><tspan class="fc84">▄</tspan><tspan class="fc85">▄</tspan><tspan class="fc86">▄</tspan><tspan class="fc87">▄</tspan><tspan class="fc88">▄</tspan><tspan class="fc89">▄</tspan><tspan class="fc90">▄</tspan><tspan class="fc91">▄</tspan><tspan class="fc92">▄</tspan><tspan class="fc29">▄</tspan><tspan class="fc93">▄▄</tspan><tspan class="fc94">▄</tspan><tspan class="fc95">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">GitHub</tspan><tspan class="fc0">: ................................. </tspan><tspan class="fa7">hirdyanshKanethia</tspan></text>
+<text x="0ch" y="10.5em"><tspan class="fc96">▄</tspan><tspan class="fc97">▄</tspan><tspan class="fc98">▄</tspan><tspan class="fc99">▄</tspan><tspan class="fc100">▄</tspan><tspan class="fc98">▄</tspan><tspan class="fc101">▄</tspan><tspan class="fc102">▄</tspan><tspan class="fc103">▄</tspan><tspan class="fc104">▄</tspan><tspan class="fc105">▄</tspan><tspan class="fc106">▄</tspan><tspan class="fc107">▄</tspan><tspan class="fc108">▄</tspan><tspan class="fc109">▄</tspan><tspan class="fc110">▄</tspan><tspan class="fc111">▄</tspan><tspan class="fc112">▄</tspan><tspan class="fc113">▄</tspan><tspan class="fc114">▄</tspan><tspan class="fc115">▄</tspan><tspan class="fc116">▄</tspan><tspan class="fc117">▄</tspan><tspan class="fc49">▄</tspan><tspan class="fc118">▄</tspan><tspan class="fc119">▄</tspan><tspan class="fc120">▄</tspan><tspan class="fc121">▄</tspan><tspan class="fc122">▄</tspan><tspan class="fc123">▄</tspan><tspan class="fc124">▄</tspan><tspan class="fc125">▄</tspan><tspan class="fc124">▄</tspan><tspan class="fc126">▄</tspan><tspan class="fc127">▄</tspan><tspan class="fc125">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">LeetCode</tspan><tspan class="fc0">: ..................................... </tspan><tspan class="fa7">HIrdyansh_k</tspan></text>
+<text x="0ch" y="11.5em"><tspan class="fc128">▄</tspan><tspan class="fc129">▄</tspan><tspan class="fc130">▄</tspan><tspan class="fc131">▄</tspan><tspan class="fc132">▄</tspan><tspan class="fc133">▄</tspan><tspan class="fc134">▄</tspan><tspan class="fc135">▄</tspan><tspan class="fc136">▄</tspan><tspan class="fc137">▄</tspan><tspan class="fc138">▄</tspan><tspan class="fc139">▄</tspan><tspan class="fc140">▄</tspan><tspan class="fc141">▄</tspan><tspan class="fc142">▄</tspan><tspan class="fc143">▄</tspan><tspan class="fc144">▄</tspan><tspan class="fc145">▄</tspan><tspan class="fc146">▄</tspan><tspan class="fc147">▄</tspan><tspan class="fc148">▄</tspan><tspan class="fc149">▄</tspan><tspan class="fc150">▄</tspan><tspan class="fc151">▄</tspan><tspan class="fc152">▄</tspan><tspan class="fc153">▄</tspan><tspan class="fc154">▄</tspan><tspan class="fc52">▄</tspan><tspan class="fc155">▄</tspan><tspan class="fc156">▄</tspan><tspan class="fc157">▄</tspan><tspan class="fc158">▄</tspan><tspan class="fc159">▄</tspan><tspan class="fc125">▄</tspan><tspan class="fc124">▄</tspan><tspan class="fc160">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Codeforces</tspan><tspan class="fc0">: .......................... </tspan><tspan class="fa7">hirdyanshkanethia.18</tspan></text>
+<text x="0ch" y="12.5em"><tspan class="fc161">▄</tspan><tspan class="fc162">▄</tspan><tspan class="fc163">▄</tspan><tspan class="fc164">▄</tspan><tspan class="fc42">▄</tspan><tspan class="fc165">▄</tspan><tspan class="fc166">▄</tspan><tspan class="fc167">▄</tspan><tspan class="fc168">▄</tspan><tspan class="fc169">▄</tspan><tspan class="fc170">▄</tspan><tspan class="fc171">▄</tspan><tspan class="fc172">▄</tspan><tspan class="fc173">▄</tspan><tspan class="fc174">▄</tspan><tspan class="fc175">▄</tspan><tspan class="fc176">▄</tspan><tspan class="fc177">▄</tspan><tspan class="fc178">▄</tspan><tspan class="fc179">▄</tspan><tspan class="fc180">▄</tspan><tspan class="fc181">▄</tspan><tspan class="fc182">▄</tspan><tspan class="fc183">▄</tspan><tspan class="fc184">▄</tspan><tspan class="fc185">▄</tspan><tspan class="fc186">▄</tspan><tspan class="fc187">▄</tspan><tspan class="fc188">▄</tspan><tspan class="fc189">▄</tspan><tspan class="fc190">▄</tspan><tspan class="fc123">▄</tspan><tspan class="fc191">▄</tspan><tspan class="fc125">▄</tspan><tspan class="fc160">▄</tspan><tspan class="fc192">▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
+<text x="0ch" y="13.5em"><tspan class="fc193">▄</tspan><tspan class="fc194">▄</tspan><tspan class="fc195">▄</tspan><tspan class="fc196">▄</tspan><tspan class="fc197">▄</tspan><tspan class="fc198">▄</tspan><tspan class="fc199">▄</tspan><tspan class="fc200">▄</tspan><tspan class="fc199">▄</tspan><tspan class="fc201">▄</tspan><tspan class="fc202">▄</tspan><tspan class="fc141">▄</tspan><tspan class="fc203">▄</tspan><tspan class="fc204">▄</tspan><tspan class="fc205">▄</tspan><tspan class="fc206">▄</tspan><tspan class="fc207">▄</tspan><tspan class="fc208">▄</tspan><tspan class="fc209">▄</tspan><tspan class="fc210">▄</tspan><tspan class="fc211">▄</tspan><tspan class="fc212">▄</tspan><tspan class="fc213">▄</tspan><tspan class="fc214">▄</tspan><tspan class="fc41">▄</tspan><tspan class="fc215">▄</tspan><tspan class="fc216">▄</tspan><tspan class="fc217">▄</tspan><tspan class="fc218">▄</tspan><tspan class="fc219">▄</tspan><tspan class="fc220">▄</tspan><tspan class="fc221">▄</tspan><tspan class="fc90">▄</tspan><tspan class="fc222">▄</tspan><tspan class="fc93">▄▄      </tspan><tspan class="fc1">┌────────────────────────── Socials ───────────────────────────┐</tspan></text>
+<text x="0ch" y="14.5em"><tspan class="fc223">▄</tspan><tspan class="fc224">▄</tspan><tspan class="fc225">▄</tspan><tspan class="fc226">▄</tspan><tspan class="fc227">▄</tspan><tspan class="fc228">▄</tspan><tspan class="fc229">▄</tspan><tspan class="fc230">▄</tspan><tspan class="fc231">▄</tspan><tspan class="fc232">▄</tspan><tspan class="fc71">▄</tspan><tspan class="fc233">▄</tspan><tspan class="fc234">▄</tspan><tspan class="fc235">▄</tspan><tspan class="fc236">▄</tspan><tspan class="fc237">▄</tspan><tspan class="fc238">▄</tspan><tspan class="fc239">▄</tspan><tspan class="fc240">▄</tspan><tspan class="fc241">▄</tspan><tspan class="fc242">▄</tspan><tspan class="fc243">▄</tspan><tspan class="fc244">▄</tspan><tspan class="fc245">▄</tspan><tspan class="fc246">▄</tspan><tspan class="fc247">▄</tspan><tspan class="fc248">▄</tspan><tspan class="fc249">▄</tspan><tspan class="fc250">▄</tspan><tspan class="fc251">▄</tspan><tspan class="fc252">▄</tspan><tspan class="fc253">▄</tspan><tspan class="fc254">▄</tspan><tspan class="fc255">▄</tspan><tspan class="fc192">▄</tspan><tspan class="fc93">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Twitter</tspan><tspan class="fc0">: ...................................... </tspan><tspan class="fa7">Hi_rdyanshK</tspan></text>
+<text x="0ch" y="15.5em"><tspan class="fc168">▄</tspan><tspan class="fc256">▄</tspan><tspan class="fc225">▄</tspan><tspan class="fc257">▄</tspan><tspan class="fc258">▄</tspan><tspan class="fc259">▄</tspan><tspan class="fc260">▄</tspan><tspan class="fc261">▄</tspan><tspan class="fc262">▄</tspan><tspan class="fc263">▄</tspan><tspan class="fc264">▄</tspan><tspan class="fc265">▄</tspan><tspan class="fc266">▄</tspan><tspan class="fc267">▄</tspan><tspan class="fc120">▄</tspan><tspan class="fc268">▄</tspan><tspan class="fc269">▄</tspan><tspan class="fc270">▄</tspan><tspan class="fc271">▄</tspan><tspan class="fc272">▄</tspan><tspan class="fc273">▄</tspan><tspan class="fc274">▄</tspan><tspan class="fc275">▄</tspan><tspan class="fc276">▄</tspan><tspan class="fc277">▄</tspan><tspan class="fc278">▄</tspan><tspan class="fc279">▄</tspan><tspan class="fc280">▄</tspan><tspan class="fc281">▄</tspan><tspan class="fc282">▄</tspan><tspan class="fc283">▄</tspan><tspan class="fc284">▄</tspan><tspan class="fc285">▄</tspan><tspan class="fc286">▄</tspan><tspan class="fc287">▄</tspan><tspan class="fc288">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">LinkedIn</tspan><tspan class="fc0">: ..................................... </tspan><tspan class="fa7">hirdyansh-k</tspan></text>
+<text x="0ch" y="16.5em"><tspan class="fc289">▄</tspan><tspan class="fc290">▄</tspan><tspan class="fc197">▄</tspan><tspan class="fc291">▄</tspan><tspan class="fc257">▄</tspan><tspan class="fc292">▄</tspan><tspan class="fc293">▄</tspan><tspan class="fc294">▄</tspan><tspan class="fc295">▄</tspan><tspan class="fc296">▄</tspan><tspan class="fc297">▄</tspan><tspan class="fc298">▄</tspan><tspan class="fc299">▄</tspan><tspan class="fc300">▄</tspan><tspan class="fc301">▄</tspan><tspan class="fc302">▄</tspan><tspan class="fc303">▄</tspan><tspan class="fc304">▄</tspan><tspan class="fc305">▄</tspan><tspan class="fc306">▄</tspan><tspan class="fc134">▄</tspan><tspan class="fc307">▄</tspan><tspan class="fc308">▄</tspan><tspan class="fc309">▄</tspan><tspan class="fc310">▄</tspan><tspan class="fc311">▄</tspan><tspan class="fc312">▄</tspan><tspan class="fc313">▄</tspan><tspan class="fc314">▄</tspan><tspan class="fc315">▄</tspan><tspan class="fc316">▄</tspan><tspan class="fc317">▄</tspan><tspan class="fc318">▄</tspan><tspan class="fc319">▄▄</tspan><tspan class="fc286">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Instagram</tspan><tspan class="fc0">: .................................... </tspan><tspan class="fa7">hirdyansh_k</tspan></text>
+<text x="0ch" y="17.5em"><tspan class="fc320">▄</tspan><tspan class="fc321">▄</tspan><tspan class="fc322">▄</tspan><tspan class="fc323">▄</tspan><tspan class="fc324">▄</tspan><tspan class="fc325">▄</tspan><tspan class="fc292">▄</tspan><tspan class="fc326">▄</tspan><tspan class="fc228">▄</tspan><tspan class="fc327">▄</tspan><tspan class="fc328">▄</tspan><tspan class="fc329">▄</tspan><tspan class="fc330">▄</tspan><tspan class="fc331">▄</tspan><tspan class="fc332">▄</tspan><tspan class="fc333">▄</tspan><tspan class="fc334">▄</tspan><tspan class="fc335">▄</tspan><tspan class="fc336">▄</tspan><tspan class="fc337">▄</tspan><tspan class="fc338">▄</tspan><tspan class="fc339">▄</tspan><tspan class="fc340">▄</tspan><tspan class="fc341">▄</tspan><tspan class="fc342">▄</tspan><tspan class="fc87">▄</tspan><tspan class="fc343">▄</tspan><tspan class="fc234">▄</tspan><tspan class="fc344">▄</tspan><tspan class="fc345">▄</tspan><tspan class="fc346">▄</tspan><tspan class="fc347">▄</tspan><tspan class="fc348">▄</tspan><tspan class="fc349">▄</tspan><tspan class="fc350">▄▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
+<text x="0ch" y="18.5em"><tspan class="fc141">▄</tspan><tspan class="fc351">▄</tspan><tspan class="fc352">▄</tspan><tspan class="fc353">▄</tspan><tspan class="fc354">▄</tspan><tspan class="fc355">▄</tspan><tspan class="fc356">▄</tspan><tspan class="fc357">▄</tspan><tspan class="fc358">▄</tspan><tspan class="fc359">▄</tspan><tspan class="fc360">▄</tspan><tspan class="fc361">▄</tspan><tspan class="fc362">▄</tspan><tspan class="fc363">▄</tspan><tspan class="fc364">▄</tspan><tspan class="fc365">▄</tspan><tspan class="fc366">▄</tspan><tspan class="fc367">▄</tspan><tspan class="fc368">▄</tspan><tspan class="fc369">▄</tspan><tspan class="fc370">▄</tspan><tspan class="fc371">▄</tspan><tspan class="fc372">▄</tspan><tspan class="fc373">▄</tspan><tspan class="fc374">▄</tspan><tspan class="fc375">▄</tspan><tspan class="fc376">▄</tspan><tspan class="fc377">▄</tspan><tspan class="fc378">▄</tspan><tspan class="fc379">▄</tspan><tspan class="fc380">▄</tspan><tspan class="fc381">▄</tspan><tspan class="fc382">▄</tspan><tspan class="fc383">▄</tspan><tspan class="fc384">▄</tspan><tspan class="fc385">▄      </tspan><tspan class="fc1">┌──────────────────────── GitHub Stats ────────────────────────┐</tspan></text>
+<text x="0ch" y="19.5em"><tspan class="fc343">▄</tspan><tspan class="fc386">▄</tspan><tspan class="fc387">▄</tspan><tspan class="fc388">▄</tspan><tspan class="fc389">▄</tspan><tspan class="fc356">▄</tspan><tspan class="fc390">▄</tspan><tspan class="fc391">▄</tspan><tspan class="fc392">▄</tspan><tspan class="fc393">▄</tspan><tspan class="fc394">▄</tspan><tspan class="fc395">▄</tspan><tspan class="fc396">▄</tspan><tspan class="fc397">▄</tspan><tspan class="fc398">▄</tspan><tspan class="fc399">▄</tspan><tspan class="fc400">▄</tspan><tspan class="fc401">▄</tspan><tspan class="fc402">▄</tspan><tspan class="fc403">▄</tspan><tspan class="fc404">▄</tspan><tspan class="fc405">▄</tspan><tspan class="fc406">▄</tspan><tspan class="fc407">▄</tspan><tspan class="fc408">▄</tspan><tspan class="fc409">▄</tspan><tspan class="fc410">▄</tspan><tspan class="fc411">▄</tspan><tspan class="fc412">▄</tspan><tspan class="fc413">▄</tspan><tspan class="fc383">▄</tspan><tspan class="fc414">▄▄</tspan><tspan class="fc415">▄</tspan><tspan class="fc416">▄</tspan><tspan class="fc417">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Repos</tspan><tspan class="fc0">: .. </tspan><tspan class="fa7">22 </tspan><tspan class="fc0">{</tspan><tspan class="fc1">Contributed</tspan><tspan class="fc0">: </tspan><tspan class="fa7">25</tspan><tspan class="fc0">} | </tspan><tspan class="fc1">Stars</tspan><tspan class="fc0">: .................. </tspan><tspan class="fa7">2</tspan></text>
+<text x="0ch" y="20.5em"><tspan class="fc418">▄</tspan><tspan class="fc419">▄</tspan><tspan class="fc420">▄</tspan><tspan class="fc421">▄</tspan><tspan class="fc422">▄</tspan><tspan class="fc423">▄</tspan><tspan class="fc424">▄</tspan><tspan class="fc425">▄</tspan><tspan class="fc426">▄</tspan><tspan class="fc32">▄</tspan><tspan class="fc427">▄</tspan><tspan class="fc428">▄</tspan><tspan class="fc429">▄</tspan><tspan class="fc430">▄</tspan><tspan class="fc431">▄</tspan><tspan class="fc432">▄</tspan><tspan class="fc433">▄</tspan><tspan class="fc434">▄</tspan><tspan class="fc435">▄</tspan><tspan class="fc436">▄</tspan><tspan class="fc437">▄</tspan><tspan class="fc438">▄</tspan><tspan class="fc439">▄</tspan><tspan class="fc440">▄</tspan><tspan class="fc441">▄</tspan><tspan class="fc442">▄</tspan><tspan class="fc443">▄</tspan><tspan class="fc444">▄</tspan><tspan class="fc445">▄</tspan><tspan class="fc446">▄</tspan><tspan class="fc447">▄</tspan><tspan class="fc448">▄</tspan><tspan class="fc449">▄</tspan><tspan class="fc450">▄</tspan><tspan class="fc451">▄</tspan><tspan class="fc452">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Commits</tspan><tspan class="fc0">: ................. </tspan><tspan class="fa7">390 </tspan><tspan class="fc0">| </tspan><tspan class="fc1">Followers</tspan><tspan class="fc0">: ............. </tspan><tspan class="fa7">30</tspan></text>
+<text x="0ch" y="21.5em"><tspan class="fc453">▄</tspan><tspan class="fc454">▄</tspan><tspan class="fc455">▄</tspan><tspan class="fc456">▄</tspan><tspan class="fc457">▄</tspan><tspan class="fc458">▄</tspan><tspan class="fc459">▄</tspan><tspan class="fc460">▄</tspan><tspan class="fc461">▄</tspan><tspan class="fc462">▄</tspan><tspan class="fc463">▄</tspan><tspan class="fc464">▄</tspan><tspan class="fc465">▄</tspan><tspan class="fc466">▄</tspan><tspan class="fc467">▄</tspan><tspan class="fc468">▄</tspan><tspan class="fc469">▄</tspan><tspan class="fc470">▄</tspan><tspan class="fc471">▄</tspan><tspan class="fc472">▄</tspan><tspan class="fc473">▄</tspan><tspan class="fc474">▄</tspan><tspan class="fc475">▄</tspan><tspan class="fc476">▄</tspan><tspan class="fc477">▄</tspan><tspan class="fc478">▄</tspan><tspan class="fc479">▄</tspan><tspan class="fc480">▄</tspan><tspan class="fc481">▄</tspan><tspan class="fc482">▄</tspan><tspan class="fc483">▄</tspan><tspan class="fc484">▄</tspan><tspan class="fc485">▄</tspan><tspan class="fc486">▄</tspan><tspan class="fc487">▄</tspan><tspan class="fc488">▄        </tspan><tspan class="fc0">. </tspan><tspan class="fc1">Lines of Code on GitHub</tspan><tspan class="fc0">: . </tspan><tspan class="fa7">3,944,170 </tspan><tspan class="fc0">(</tspan><tspan class="fc489">4,586,267&#43;&#43;</tspan><tspan class="fc0">, </tspan><tspan class="fc490">642,097--</tspan><tspan class="fc0">)</tspan></text>
+<text x="0ch" y="22.5em"><tspan class="fc491">▄</tspan><tspan class="fc138">▄</tspan><tspan class="fc492">▄</tspan><tspan class="fc493">▄</tspan><tspan class="fc438">▄</tspan><tspan class="fc494">▄</tspan><tspan class="fc495">▄</tspan><tspan class="fc496">▄</tspan><tspan class="fc497">▄</tspan><tspan class="fc498">▄</tspan><tspan class="fc499">▄</tspan><tspan class="fc500">▄</tspan><tspan class="fc501">▄</tspan><tspan class="fc179">▄</tspan><tspan class="fc502">▄</tspan><tspan class="fc503">▄</tspan><tspan class="fc504">▄</tspan><tspan class="fc505">▄</tspan><tspan class="fc506">▄</tspan><tspan class="fc507">▄</tspan><tspan class="fc508">▄</tspan><tspan class="fc509">▄</tspan><tspan class="fc510">▄</tspan><tspan class="fc511">▄</tspan><tspan class="fc512">▄</tspan><tspan class="fc513">▄</tspan><tspan class="fc514">▄</tspan><tspan class="fc515">▄</tspan><tspan class="fc516">▄</tspan><tspan class="fc517">▄</tspan><tspan class="fc518">▄</tspan><tspan class="fc378">▄</tspan><tspan class="fc519">▄</tspan><tspan class="fc520">▄</tspan><tspan class="fc521">▄</tspan><tspan class="fc522">▄      </tspan><tspan class="fc1">└──────────────────────────────────────────────────────────────┘</tspan></text>
+<text x="0ch" y="23.5em"><tspan class="fc523">▄</tspan><tspan class="fc524">▄</tspan><tspan class="fc525">▄</tspan><tspan class="fc526">▄</tspan><tspan class="fc527">▄</tspan><tspan class="fc528">▄</tspan><tspan class="fc529">▄</tspan><tspan class="fc530">▄</tspan><tspan class="fc531">▄</tspan><tspan class="fc532">▄</tspan><tspan class="fc533">▄</tspan><tspan class="fc534">▄</tspan><tspan class="fc535">▄</tspan><tspan class="fc536">▄</tspan><tspan class="fc537">▄</tspan><tspan class="fc538">▄</tspan><tspan class="fc539">▄</tspan><tspan class="fc540">▄</tspan><tspan class="fc541">▄</tspan><tspan class="fc542">▄</tspan><tspan class="fc543">▄</tspan><tspan class="fc544">▄</tspan><tspan class="fc545">▄</tspan><tspan class="fc546">▄</tspan><tspan class="fc191">▄</tspan><tspan class="fc547">▄</tspan><tspan class="fc548">▄</tspan><tspan class="fc549">▄</tspan><tspan class="fc550">▄</tspan><tspan class="fc551">▄</tspan><tspan class="fc552">▄</tspan><tspan class="fc353">▄</tspan><tspan class="fc553">▄</tspan><tspan class="fc554">▄</tspan><tspan class="fc555">▄</tspan><tspan class="fc556">▄      </tspan></text>
+<text x="0ch" y="24.5em"><tspan class="fc557">▄</tspan><tspan class="fc558">▄</tspan><tspan class="fc559">▄</tspan><tspan class="fc236">▄</tspan><tspan class="fc560">▄</tspan><tspan class="fc561">▄</tspan><tspan class="fc562">▄</tspan><tspan class="fc563">▄</tspan><tspan class="fc477">▄</tspan><tspan class="fc564">▄</tspan><tspan class="fc565">▄</tspan><tspan class="fc566">▄</tspan><tspan class="fc369">▄</tspan><tspan class="fc567">▄</tspan><tspan class="fc568">▄</tspan><tspan class="fc569">▄</tspan><tspan class="fc312">▄</tspan><tspan class="fc186">▄</tspan><tspan class="fc570">▄</tspan><tspan class="fc308">▄</tspan><tspan class="fc571">▄</tspan><tspan class="fc572">▄</tspan><tspan class="fc573">▄</tspan><tspan class="fc574">▄</tspan><tspan class="fc575">▄</tspan><tspan class="fc576">▄</tspan><tspan class="fc577">▄</tspan><tspan class="fc578">▄</tspan><tspan class="fc577">▄</tspan><tspan class="fc579">▄</tspan><tspan class="fc580">▄</tspan><tspan class="fc581">▄</tspan><tspan class="fc582">▄</tspan><tspan class="fc583">▄</tspan><tspan class="fc584">▄</tspan><tspan class="fc585">▄      </tspan><tspan class="fc1">┌─────────────── Contributions (341 Last Year) ────────────────┐</tspan></text>
 <text x="0ch" y="25.5em"><tspan>                                            </tspan><tspan class="fa8">■■■■</tspan><tspan class="fa11">■</tspan><tspan class="fa8">■■■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■</tspan><tspan class="fa10">■■</tspan><tspan class="fa8">■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■</tspan><tspan class="bold fa2">■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■■■■■■</tspan><tspan class="fa10">■</tspan><tspan class="bold fa2">■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■</tspan><tspan class="fa10">■</tspan><tspan class="fa2">■</tspan><tspan class="fa10">■</tspan><tspan class="fa2">■</tspan><tspan class="fa11">■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■■■■■■</tspan><tspan class="fa11">■</tspan><tspan class="fa8">■■■■■■■</tspan><tspan class="fa2">■</tspan></text>
 <text x="0ch" y="26.5em"><tspan>                                            </tspan><tspan class="fa8">■■■■■■■■■■■</tspan><tspan class="fa11">■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■</tspan><tspan class="fa2">■</tspan><tspan class="fa8">■■</tspan><tspan class="fa2">■</tspan><tspan class="fa8">■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■■■</tspan><tspan class="fa10">■■■■</tspan><tspan class="fa8">■■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■■■■</tspan><tspan class="fa2">■</tspan><tspan class="fa8">■■■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■</tspan><tspan class="fa11">■</tspan></text>
 <text x="0ch" y="27.5em"><tspan>                                            </tspan><tspan class="fa8">■■■■■■■■</tspan><tspan class="fa10">■</tspan><tspan class="fa2">■</tspan><tspan class="fa10">■■</tspan><tspan class="fa8">■■■■■</tspan><tspan class="bold fa2">■</tspan><tspan class="fa8">■■■■■■■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■</tspan><tspan class="fa2">■</tspan><tspan class="fa10">■■</tspan><tspan class="fa8">■■■</tspan><tspan class="fa10">■</tspan><tspan class="fa8">■■■■■■■■■</tspan><tspan class="fa10">■■</tspan><tspan class="fa8">■■</tspan><tspan class="bold fa2">■</tspan></text>
